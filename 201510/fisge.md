@@ -218,22 +218,33 @@ Questo significa che avrò per un po' una crescita lineare e poi arriverò ad un
 
 ## OSMOSI
 
-cosa serve: due soluzioni a concentrazione diversa separate da una membrana permeabile al solvente ma non al soluto.
+Quando due soluzioni diversamente concentrate vengono in contatto, non si osserva solo la diffusione delle molecole del soluto dalla soluzione più concentrata verso quella meno concentrata, ma anche la diffusione delle molecole d'acqua nella *direzione opposta*.
 
-L'acqua tenderà a passare dalla zona meno concentrata a quella più concentrata. Il flusso d'acqua continuerà anche qui fin quando non avremo un equilibrio. L'acqua qui crea una pressione idrostatica guidata dalla pressione osmotica.
+Questo flusso diffusionale dell'acqua prende il nome di **osmosi**, e la forza che determina il flusso diffusionale dell'acqua riferita all'unità di superficie prende il nome di **pressione osmotica**.
 
-Le cellule risentono della pressione osmotica poiché presentano una membrana plasmatica che lascia passare sempre l'acqua. Questo passaggio può essere controllato.
+Affinchè avvenga il fenomeno osmotico è necessario che le due soluzioni a concentrazione diversa siano separate da una *membrana permeabile al solvente ma non al soluto*.
 
-Esistono soluti che non possono assolutamente passare, creando un gradiente osmotico tra l'ambiente esterno ed interno della cellula.
-L'effetto osmotico è dato dalla somma di tutti i soluti (osmoliti) che non passano attraverso la membrana, è dato solo dalle concentrazioni e non dal tipo di molecola.
+La forza che spinge le molecole idriche a passare attraverso la membrana semipermeabile si traduce in un aumento della pressione idrostatica all'interno del recipiente con più soluto al suo interno, pressione che aumenta fino ad equilibrare esattamente, a livello di membrana, la forza che spinge le molecole idriche ad attraversarla (*pressione osmotica*).
+
+L'acqua tenderà a passare dalla zona meno concentrata a quella più concentrata.
+
+la relazione quantitativa tra la differenza di pressione osmotica (delta pigreco) è data dalla **legge di van't Hoff**:
+
+**delta pi greco= RT (C1-C2)**
+
+Una delle conseguenze della legge di van't Hoff della pressione osmotica è che **NON** dipende dalla natura delle particelle di soluto, ma solo dal loro numero per unità di volume.
+
+Le cellule risentono della pressione osmotica poiché presentano una membrana plasmatica che lascia sempre passare l'acqua (questo passaggio può essere controllato).
+
+Il gradiente osmotico tra l'ambiente esterno ed interno della cellula è creato da tutti quei soluti, detti **osmoliti**, che non possono assolutamente attraversare la membrana.
+
 Se le concentrazioni degli osmoliti dentro e fuori sono uguali ovviamente non si ha l'effetto osmotico.
-Normalmente le cellule animali sono in condizioni di equilibrio osmotico. Se non c'è equilibrio possono rigonfiarsi o avvizzire.
+Normalmente le cellule animali sono in condizioni di equilibrio osmotico, mentre se non c'è equilibrio possono rigonfiarsi o avvizzire.
 
-Nel plasma e nei globuli rossi abbiamo una concentrazione di 300 mOsmoles/L (isotonico).
-Soluzione ipotonica (es 150 mOsmoles/L), la cellula rigonfia fino a scoppiare.
-Soluzione ipertonica (es 500 mOsmoles/L) la cellula raggrinzisce.
+Nel plasma e nei globuli rossi abbiamo una concentrazione di 300 mOsmoles/L (ambiente *isotonico*).
+Se i globuli rossi vengono posti in una *soluzione ipotonica* (es 150 mOsmoles/L), la cellula rigonfia fino a scoppiare, mentre se i globuli rossi vengono posti in una *soluzione ipertonica* (es 500 mOsmoles/L) la cellula raggrinzisce.
 
-IL TRASPORTO DI MEMBRANA
+# IL TRASPORTO DI MEMBRANA
 Le cellule scambiano sostanze con l'esterno. Non sono un sistema chiuso.
 Questo scambio viene fatto in diversi modi che complessivamente vengono definiti come “trasporto di membrana”. 
 Poiché la membrana ricopre interamente la cellula e non presenta “buchi”, deve esistere un modo per le molecole di attraversarla.
