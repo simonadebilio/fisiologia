@@ -93,105 +93,134 @@ A questo gruppo appartengono i **fosfolipidi**: molecole che presentano due cate
 
 Come si dispongono i fosfolipidi in acqua? 
 Normalmente se poniamo dei lipidi in soluzione acquosa questi formano delle micelle. 
-I fosfolipidi fanno al stessa cosa, ma possono anche organizzarsi in un *doppio strato* che risulta stabile in acqua andando a formare una struttura chiamata *membrana*.
-Le membrane fosfolipidiche tenderanno a chiudersi andando a formare delle vescicole poiché altrimenti, se le membrane fossero piatte come dei fogli, l'interno dei bordi (che è idrofobico) rimarrebbe a contatto con l'ambiente acquoso circostante.
+I fosfolipidi fanno al stessa cosa, ma possono anche organizzarsi in un *doppio strato* che risulta stabile in acqua andando a formare una struttura chiamata *membrana*. Queste membrane presentano due porzioni idrofile esterne (una a contatto con il citosol e l'altra a contatto con l'ambiene acquoso esterno alla cellula) e una porzione lipofila interna.
+Le membrane fosfolipidiche tenderanno a chiudersi andando a formare delle vescicole poiché altrimenti, se le membrane fossero piatte come dei fogli, la porzione interna dei bordi rimarrebbe a contatto con l'ambiente acquoso circostante.
 
 Le membrane cellulari formano dunque un piccolo ambiente lipidico all'interno del quale troviamo anche altre molecole: una delle più importanti è il *colesterolo*, un composto steroideo fortemente apolare. 
 A cosa serve la presenza del colesterolo? Per mantenere fluida la membrana.
 
 Cos'è che permette ad un composto grasso d'essere liquido o solido? La presenza di legami doppi (grassi insaturi, liquidi) o singoli (grassi saturi, solidi).
-Il doppio legame introduce un angolo di piegatura nella catena diverso dagli altri facendo sì che l'attrazione dovuta alle forze di VdW tra le molecole sia ridotta rispetto alla forza presente tra molecole lineari (solo legami singoli).
+Il doppio legame introduce un angolo di piegatura nella catena idrocarburica diverso dagli altri facendo sì che l'attrazione dovuta alle forze di Van der Waals tra le molecole sia ridotta rispetto alla forza presente tra molecole lineari (solo legami singoli).
 Una forte attrazione data dalle forze di VdW, dovuta alla prevalenze di legami singoli, darà origine a sostanze solide (come il burro).
 
-Il colesterolo (grasso saturo) è necessario per regolare la fluidità della membrana. 
+Il colesterolo, un grasso saturo, è necessario per regolare la fluidità della membrana. 
 Se la T è intorno ai 37° il colesterolo impedisce la mobilità dei fosfolipidi, diminuendo la fluidità della membrana.
 A T più basse invece, il colesterolo impedisce l'impaccamento dei fosfolipidi che diminuirebbe eccessivamente la fluidità della membrana.
 
 I fosfolipidi sono mobili nella membrana, possono ruotare lungo i loro assi e possono scorrere lateralmente.
 
-Esperimento: vennero fatte fondere cellule umane e cellule di topo. Dopo la fusione vennero marcate e si vide che si erano distribuite lungo tutta la cellula fuso. Ovvero le membrane non erano rimaste separate ma si erano fuse e dunque i materiali delle due membrane si erano distribuiti lungo tutta la nuova membrana dimostrando la loro fluidità.
+Per provare la fluidità delle membrane venne fatto un esperimento: vennero fatte fondere cellule umane e cellule di topo. Dopo la fusione vennero marcate e si vide che si erano distribuite lungo tutta la nuova membrana cellulare, ovvero le membrane non erano rimaste separate ma si erano fuse e dunque i materiali delle due membrane si erano distribuiti lungo tutta la nuova membrana dimostrando la loro fluidità.
 
-### Gli sfingolipidi
-I fosfolipidi sono i più abbondanti, ma non sono gli unici. I primi contengono glecerolo, mentre gli sfingolipidi contengono un amminoalcol (sfingosina con testa polare e coda apolare) al posto del glicerolo e un acido grasso collegato con la parte amminica.
-A volte alla sfingolisi può essere lengato un ulteriore gruppo -R. Se non è presente si parla di ceramide.
+Nelle membrane cellulari possiamo trovare anche gli **sfingolipidi**
+I fosfolipidi sono i più abbondanti, ma non sono gli unici. I primi contengono glicerolo, mentre gli sfingolipidi contengono un *amminoalcol* (sfingosina con testa polare e coda apolare) al posto del glicerolo e un acido grasso collegato con la parte amminica.
+A volte alla sfingolisina può essere lengato un ulteriore gruppo -R; se non è presente si parla di *ceramide*.
 
 Gli sfingolipidi sono maggiormente presenti in determinate zone della membrana dette zattere lipidiche (zone più spesse perché le catene degli sfingolipidi sono un po' più lunghe di quelle dei fosfolipidi) e contengono proteine che non sono presenti nelle altre zone.
 
 La membrana esterna forma una barriera tra l'ambiente intra- ed extra- cellulare.
 Le membrane permettono il trasporto selettivo di nutrienti, prodotti di rifiuto e metaboliti tra i vari compartimenti cellulari.
 Le membrane servono a formare vescicole per catturare e secernere macromolecole e altre particelle.
-(...)
 
-Nelle membrane sono presenti molte proteine che possono essere integrali (sono incorporate nella membrana mediante domini idrofobici) o di superficie (sono associate o agganciate alla membrana ma non hanno parti idrofobiche immerse nello strato fosfolipidico.
+Nelle membrane sono presenti molte proteine che possono essere:
 
-Le proteine di membrana possono avere un ruolo strutturale (citoscheletrico), possono servire per attaccare la cellula ad un substrato (strutture di adesione cellulare), possono far attaccare le cellule l'una all'altra, possono essere dei trasportatori (trasporto di membrana), possono essere recettori (capaci di legare molecole segnale che inducono processi interni alla cellula), possono essere enzimi...
++ proteine integrali di membrana, se sono incorporate nella membrana mediante domini idrofobici;
++ proteine di superficie, se sono associate o agganciate alla membrana ma non hanno parti idrofobiche immerse nello strato fosfolipidico.
 
-Le proteine di membrana se la attraversano, possiedono una parte extracellulare che molto spesso porta legate delle molecole zuccherine lineari o ramificate (proteine glicosilate). Questo fa si che la superficie cellulare sia ricoperta di zuccheri che sono molecole molto idrofiliche che rendono lo strato acquoso subito presente esternamente alla cellula molto denso (=glicocalice). Il glicocalice è un ulteriore strato che si oppone ad un contatto troppo diretto della cellula con il mondo esterno (protezione). Il glicocalice rappresenta anche un fattore di riconoscimento per le cellule.
+Le proteine di membrana possono svolgere diversi ruoli:
+
++ possono avere un ruolo strutturale (citoscheletrico);
++ possono servire per attaccare la cellula ad un substrato (strutture di adesione cellulare);
++ possono far attaccare le cellule l'una all'altra;
++ possono essere dei trasportatori (trasporto di membrana);
++ possono essere dei recettori (capaci di legare molecole segnale che inducono processi interni alla cellula)...
+
+Le proteine di membrana, se la attraversano, possiedono una parte extracellulare che molto spesso porta legate delle molecole zuccherine lineari o ramificate, ed in questo caso sono dette *proteine glicosilate*. Questo fa si che la superficie cellulare sia ricoperta di zuccheri, molecole molto idrofiliche che rendono lo strato acquoso subito presente esternamente alla cellula molto denso formando una struttura chiamata **glicocalice**. 
+Il glicocalice si oppone ulteriormente ad un contatto troppo diretto della cellula con il mondo esterno svolgendo dunque una funzione protettiva, e rappresenta inoltre un fattore di riconoscimento per le cellule.
 
 #DIFFUSIONE e OSMOSI 
-una parte della fisiologia si occupa di capire se attraverso le membrane biologica passa qualcosa e se passa, come passa.
-Se non passasse nulle e la cellula fosse uno spazio totalmente isolato dal resto dell'universo, dovrebbe usare il materiale che contiene all'interno per compiere i processi che la tengono in vita e riciclare tutti gli scarti dei processi per ricreare i cicli.
-Le cellule nella realtà scambiano continuamente materiali con l'esterno.
-Ma la cellula è anche separata, isolata, dall'esterno. Questo ci fa capire che attraverso le membrane possono passare delle molecole.
+Una parte della fisiologia si occupa di capire se attraverso le membrane biologiche possono passare delle sostanze e, se passano, come passano.
+Se non passasse nulla e la cellula fosse uno spazio totalmente isolato dal resto dell'universo, dovrebbe usare il materiale che contiene all'interno per compiere i processi che la tengono in vita e riciclare tutti gli scarti dei suoi processi per ricreare i cicli.
+Le cellule nella realtà scambiano continuamente diversi tipi di molecole con l'esterno.
+Ma la cellula è anche separata dall'esterno, e questo ci permette di capire che le membrane possono essere penetrate e oltrepassate da diversi tipi molecolari.
 
 La fisiologia applica a questi fenomeni le leggi della fisica.
 
-Alcuni di questi fenomeni avvengono spontaneamente senza l'intervento del metabolismo: diffusione e osmosi. 
+Alcuni di questi fenomeni avvengono spontaneamente, senza l'intervento del metabolismo, e sono i fenomeni di diffusione e osmosi. 
 I doppi strati lipidici (bilayer) sono impermeabili a molte molecole e ioni essenziali.
-Poiché la membrana cellulare ha una natura lipidica tutte le molecole apolari possono attraversarla tramite diffusione semplice.
-Le sostanze polari e quelle cariche (ioni), invece, non riescono a passare. Maggiore è la carica dello ione, maggiore è la resistenza della membrana.
-Nelle soluzioni acquose vi possono essere ioni in soluzione.
-Nella cellula, sia dentro che fuori, sono presenti degli ioni (sia minerali che organici) che non possono passare tramite diffusione spontanea attraverso la membrana.
-Sostanze inorganiche apolari di enorme importanza per la cellula e capaci di attraversare la membrana sono i gas atmosferici (O2 e N2).
+Poiché la membrana cellulare ha una natura lipidica tutte le molecole apolari possono attraversarla tramite diffusione semplice, mentre le sostanze polari e gli ioni non riescono a oltrepassarla. 
+
+Sostanze inorganiche apolari di enorme importanza per la cellula e capaci di attraversare la membrana sono invece i gas atmosferici (O2 e N2).
 
 Cos'è la diffusione?
 La materia, così come la si conosce è costituita da cellule che hanno un loro dinamismo (non sono statiche). 
-Tanto più le cose sono dinamiche tanto più emergono fenomeni come quelli di diffusione. I più mobili sono i gas. Poi vi sono i liquidi ed infine i solidi. 
-Questro dinamismo fa sì che nelle sostanza in cui le molecole hanno la possibilità di muoversi si crea il fenomeno della diffusione: se c'è un'abbondanza in una certa regione di una sostanza o di un gas, questa tenderà a spostarsi diffondendo.
-Quando c'è una diffusione non omogenea si parla di gradiente.
+Tanto più le cose sono dinamiche tanto più emergono fenomeni come quelli di diffusione: le molecole più mobili sono i gas, poi vi sono i liquidi ed infine i solidi. 
 
-Se non sono distribuite uniformemente sui due lati di una membrana le loro diverse concentrazioni formano un gradiente, forma di energia potenziale.
-Energia libera di una soluzione: deltaG= RT ln[S]
+Questro dinamismo fa sì che nelle sostanze in cui le molecole hanno la possibilità di muoversi si crei il fenomeno della *diffusione*: se in una certa regione c'è abbondanza di una certa sostanza o gas, questa tenderà a spostarsi diffondendo.
+Quando c'è una diffusione non omogenea si parla di *gradiente*.
 
+Se le molecole non sono distribuite uniformemente sui due lati di una membrana le loro diverse concentrazioni formano un gradiente, ovvero una forma di energia potenziale.
+Energia libera della soluzione viene definita con: deltaG= RT ln[S]
 
-Energia del gradiente: deltaG= enrgia esterna – energia interna
-deltaG= RT ln[S]o – RT ln[S]i = RT ln[S]o/RT ln[S]i = legge di van't Hoff
+Energia del gradiente, invece, viene definita con: deltaG = energia esterna – energia interna
 
-la membrana cellulare permette alla cellula di avere al suo interno una concentrazione di una molecola X diversa dalla concentrazione della stessa molecole X all'esterno della cellula. Avremo quindi due soluzioni omogenee dalle due parti della membrana che creeranno un potenziale che premerà sulla membrana.
+ovvero, deltaG= RT ln[S]o – RT ln[S]i = RT ln[S]o/RT ln[S]i
 
-(…)
+Questa viene detta legge di Van't Hoff
 
-Il processo osmotico è spontaneo, non richiede energia. 
-Questo è impossibile per la seconda legge della termodinamica (l'energia non si crea dal nulla), abbiamo un apparente paradosso.
+In una soluzione acquosa si possono avere 3 modalità di flusso che si differenziano per la natura della driving force che determina il moto:
++ flusso di massa in cui la driving force è generata da una differenza di pressione idraulica;
++ la **diffusione**, generata da una differenza di concentrazione delle particelle;
++ la migrazione in campo elettrico di particelle elettricamente cariche (ioni), in cui la driving force è generata da una differenza di potenziale elettrico.
 
-Legge di Fick o legga di diffusione: se consideriamo due compartimenti a e b separai da parete con pori di lunghezza delta x superficie totale F e differenza di concentrazione del soluto Ca-Cb= deltaC
-Il soluto diffonde da a verso b.
+La *diffusione* si verifica quando tra due regioni di una soluzione esiste una differenza di concentraizone; si ha allora un flusso particellare dalla regione a concentrazione magiore verso quelle a concentrazione minore, finchè le particelle non sono distribuite in modo omogeneo in tutto lo spazio disponibile.
 
-Il tasso di diffusione è direttamente proporzionale alla differenza di concentrazione, alla temperatura, alla superficie di scamb9io, e inversamente proporzionale alla distanza, alle dimensioni  delle molecole e alla viscosità del solvente.
+La membrana cellulare permette alla cellula di avere una concentrazione di una molecola X al suo interno, diversa dalla concentrazione della stessa molecole X all'esterno della cellula. La presenza di due soluzioni omogenee, ma con una diversa concentrazione di soluti, dalle due parti della membrana crea un potenziale che premere sulla membrana stessa.
 
-Se abbiamo una membrana lipidica abbiamo un ulteriore elemento da considerare: il coefficiente di partizione, ovvero la capacità della sostanza di passare da uno spazio acquoso ad uno lipidico.
+Il processo osmotico è spontaneo, non richiede energia aggiunta. 
+Questo è impossibile per il *primo principio della termodinamica* (l'energia di un sistema termodinamico isolato non si crea né si distrugge, ma si trasforma, passando da una forma a un'altra), abbiamo un apparente paradosso. **(guardare se Gaia l'ha segnato)**
 
-Se la permeabilità è 0, il flusso attraverso la membrana sarà 0 indipendentemente dal gradiente.
+Se consideriamo due ambienti 1 e 2 separati da una sezione ideale S, ci attendiamo che il numero di molecole di soluto che nell'unità di tempo escono da 1 (e entrano in 2) sia *proporzionale* al numero di molecole che sono presenti per unità di volume, cioè alla *concentrazione C1* (e viceversa).
+
+Questo può essere espresso tramite l'**equazione di Fick** o *legge di diffusione*: 
+
+**Fd=DA (C1-C2)**
+
+(Fd sta per flusso diffusionale netto)
+dove **D** è il *coefficiente di diffusione* (dipende dalla natura dei partecipanti al processo e dalla temperatura) e **A** è l'*area della sezione interessata al processo diffusivo*.
+
+Se consideriamo due compartimenti 1 e 2 separai da una parete con pori di lunghezza delta per una superficie totale F e differenza di concentrazione del soluto deltaC=C1-C2, il soluto diffonde da 1 verso 2.
+
+Il tasso di diffusione è dunque *direttamente proporzionale* alla differenza di concentrazione, alla temperatura e alla superficie di scambio, mentre è *inversamente proporzionale* alla distanza, alle dimensioni delle molecole e alla viscosità del solvente.
+
+Questa equazione è valida nel caso di una membrana ideale. Supponiamo ora che i due compartimenti siano separati da una barriera reale, costituita da una membrana (M) di spessore deltax e composizion propria, e che le particelle siano spinte solo da un gradiente di concentrazione. In queste condizioni, il passaggio di una generica sestanza (i) può essere descritto dalla semplice equazione di Fick purchè il coefficiente di diffusione venga sostituito dal coefficiente di permeabilità P.
+
+**Fi=Pi (C1-C2)**
+
+Il coefficiente di permeabilità di una data sostanza in una membrana omogenea comprende tutti i fattori che ne condizionano il passaggio:
+
+**Pi= betai (Dm - deltax)**
+
+dove **Dm** è il *coefficiente di diffusione della sostanza* nel materiale costitutivo della membrana e **deltax** lo *spessore della membrana*.
+**Betai** invece, esprime *capacità della sostanza di passare da uno spazio acquoso ad uno lipidico*, ovvero si potersi disciogliere nel materiale che costituisce la membrana.
+
+Il coefficiente di permeabilità **Pi** esprime la *velocità con cui una sostanza può attraversare la membrana*.
+
+Se la permeabilità è 0, il flusso attraverso la membrana sarà 0 (nessun flusso) indipendentemente dal gradiente.
 
 Se il coefficiente di permeabilità invece è 1, la velocità di diffusione dipenderà solo dal gradiente.
 
+## DIFFUSIONE FACILITATA
+Nella membrana cellulare ci sono delle proteine che creano dei pori che permettono il passaggio di sostanze che altrimenti non passerebbero.
 
-DIFFUSIONE FACILITATA
-nella membrana cellulare ci sono delle proteine che creano dei pori che possono consentire il passaggio a sostanze che altrimenti non passerebbero.
+La diffusione facilitata è sempre un processo spontaneo che non richiede l'aggiunta di energia, ma che richiede la presenza di elementi aggiuntivi nella membrana (proteine).
+La cinetica di trasporto  è diversa rispetto a quella della diffusione semplice: nella *diff. semplice* la velocità di diffusione è in relazione lineare con il gradiente di concentrazione della molecola che diffonde, mentre nella *diff. facilitata* la velocità di diffusione dipende dalla disponibilità delle molecole che aiutano la diffusione. Quando queste molecole sono sature l'aumento della concentrazione della molecola che diffonde non incrementa ulteriormente il tasso di diffusione.
+Questo significa che avrò per un po' una crescita lineare e poi arriverò ad un plateau oltre il quale l'aumento del soluto che diffonde non servirà più per aumentare la velocità di diffusione.
 
-È sempre un processo spontaneo che non richiede l'aggiunta di energia, ma che richiede la presenza di elementi aggiuntivi nella membrana.
-La cinetica di trasporto  è diversa rispetto a quella della diffusione semplice.
-Diff. Semplice: la velocità di diffusione è in relazione lineare con ilgradiente di concentrazione della molecola che diffonde.
-Diff. Facilitata: la velocità di diffusione dipende dalla disponibilità delle molecole che aiutano la diffusione. Quando queste sono sature l'aumento di concentrazione della molecola che diffonde non incrementa ulteriormente il tasso di diffusione.
-Questo significa che avrò per un po' una crescita e poi arriverò ad un plateau oltre il quale l'aumento del solvente che diffonde non servirà più per aumentare la velocità di diffusione.
+## OSMOSI
 
-
-OSMOSI
 cosa serve: due soluzioni a concentrazione diversa separate da una membrana permeabile al solvente ma non al soluto.
 
 L'acqua tenderà a passare dalla zona meno concentrata a quella più concentrata. Il flusso d'acqua continuerà anche qui fin quando non avremo un equilibrio. L'acqua qui crea una pressione idrostatica guidata dalla pressione osmotica.
-
-20151012
 
 Le cellule risentono della pressione osmotica poiché presentano una membrana plasmatica che lascia passare sempre l'acqua. Questo passaggio può essere controllato.
 
@@ -314,6 +343,64 @@ Fagocitosi, endocitosi, pinocitosi, esocitosi.
 
 Trasporto transepiteliale.
 Gli epiteli funzionano come dispositivi che trasportano sostanze da un compartimento all'altro.
+Se il trasporto transepiteliale viene alterato causa malattie come la fibrosi cistica (dovuto ad un trasporto anomalo del cloro).
+
+
+
+
+
+LA COMUNICAZIONE CELLULARE
+Le cellule possono comunicare tra loro per contatto, ma anche a distanza tramite l'utilizzo di messaggeri chimici.
+Per la comunicazione cellulare serve un messaggero chimico, una molecola in grado di recepire questa molecola segnale (RECETTORE) e poi un marchingegno cellulare che converta il segnale ricevuto dal recettore in un attività della cellula.
+Quando un recettore cellulare lega una molecola segnale ad esso indirizzata cambia lo stato funzionale di una cellula (= la cellula stava facendo qualcosa e comincia a fare qualcos'altro).
+Ci sono sostanze che hanno una capacità enorme di modificare lo stato funzionale di una certa cellula: queste sostanze sono dette “ormoni”, ne basta una concentrazione molto bassa perché modifichi lo stato funzionale della cellula.
+
+I recettori sono proteine di membrana (così come i trasportatori) o non, capaci di legare la molecola segnale. La molecola segnale solitamente arriva da un'altra cellula, entra in contatto con la cellula con il recettore, si lega al recettore attivandolo.
+I recettori possono trovarsi sulla membrana esterna o su membrane interne alla cellula.
+Il recettore, dopo essere entrato in contatto con la molecola segnale, modifica la sua conformazione legando altre proteine della cellula, che a loro volta legano altre proteine, fino ad attivare degli enzimi che cambieranno lo stato funzionale della cellula.
+Questa si chiama “trasduzione del segnale”.
+
+Quando avvengono le comunicazioni cellulari? Sempre.
+Non esistono cellule vive che non siano coinvolte in fenomeni di comunicazione cellulare. 
+Nelle colture cellulari in vitro non tutti i tipi di cellule possono essere coltivate, ma è sempre essenziale che ci siano dei fattori di crescita altrimenti la cellula va in apoptosi.
+Nel siero fetale bovino sono presenti molti fattori di crescita che vengono utilizzati per la crescita di cellule in vitro.
+
+
+Le molecole segnale
+i recettori di superficie interagiscono con molecole segnale che non attraversano la membrana
+i recettori endocellulari invece interagiscono con molecole lipofile che attraversano la membrana.
+
+Gli endocrinologi studiano da dove arriva a dove va la molecola segnale.
+Si distingue un segnale endocrino quando le due cellule sono situate a distanza, ovvero il messaggio viaggia nel torrente sanguigno.
+Un altor segnale è quello paracrino: non serve il passaggio nel circolo sanguigno. Il punto di origine e di arrivo della molecola sono molto vicini (cellule vicine), la moleocla attraversa solo lo spazio intracellulare.
+Segnale autocrino: la molecola segnale rilasciata da una cellula trova recettori sulla propria membrana (es. fattori di crescita).
+
+Il ligando è la molecola segnale (ormone, feromone, ione, neurotrasmettitore, farmaco, etc…) che si lega in maniera specifica a un sito sulla molecola del recettore situato sulla superficie della cellula bersaglio.
+
+Esistono metodi raffinati (es. HPLC cromatogragfia liquida ad alta prestazione), si possono individuare queste molecole quando sono presenti nel sangue, ed è stato visto che la maggior parte, quando stanno agendo, sono a concentrazioni 10 alla -9 o -10 molare.
+
+Per definire l'affinità del recettore per una molecola possiamo fare un grafico dove l'asse y indica la percentuale di molecole recettore legate e x indica la concentrazione del ligando nel sangue. Si può stimolare la cellula con una concentrazione crescente di molecole segnale e valutare quante molecole vengono legate dai recettori. Il grafico mostrerà una crescita subito esponenziale e poi un valore di plateau che ci indica che tutti i recettori sono stati legati.
+
+Le cellule spesso hanno una frazione di recettori “di riserva”.
+La concentrazione di ligando che fornisce la massima risposta è minore della concentrazione che satura i recettori.
+
+L'intensità di una risposta biologica a un ligando è generalmente proporzionale al numero di recettori occupati.
+[RL] = [R][L]/k 
+Per una data concentrazione di ligando, cellule con più recettori avranno più recettori occupati.
+L'interazione tra la molecola segnale e il recettore è sempre basata su legami deboli, il tempo che il ligando rimane attaccato al recettore è molto breve.
+
+Più il ligando è affine al recettore, più le cellule sono sensibili al ligando.
+
+MOLECOLE SEGNALE DI TIPO GASSOSO
+
+Ossido nitrico.
+Il monossido di azoto, molecola inquinante dal punto di vista ambientale, è presente nei tessuti perché viene prodotta dalle cellule. L'ossido nitrico è prodotto nelle clelule dagli enzimi NO sintasi (NOS) a partire da arginina che viene convertita in citrullina liberando monossido di azoto.
+
+Il primo effetto scoperto di questo enzima è la vasodilatazione.
+Meccanismo: il monossido di azoto agisce sulla guanilato ciclico (cGMP) che inibisce la contrazione della muscolatura liscia causando il rilassamento del vaso e il suo “ingrandimento”.
+Il monossido di azoto viene prodotto dall'endotelio: il monox di N è un gas e di conseguenza può diffondere bene nelle cellule. L'endotelio è subito adiacente ai vasi facendo sì che il monox di N diffonda subito nelle cellule dei vasi.
+
+Un'altro gas è il monossido ci carbonio (CO), prodotto dall'organismo tramite l'attività della eme-ossigenasi e può agire come molecola segnale delle macchinasi.
 
 
 
