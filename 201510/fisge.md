@@ -245,109 +245,174 @@ Nel plasma e nei globuli rossi abbiamo una concentrazione di 300 mOsmoles/L (amb
 Se i globuli rossi vengono posti in una *soluzione ipotonica* (es 150 mOsmoles/L), la cellula rigonfia fino a scoppiare, mentre se i globuli rossi vengono posti in una *soluzione ipertonica* (es 500 mOsmoles/L) la cellula raggrinzisce.
 
 # IL TRASPORTO DI MEMBRANA
-Le cellule scambiano sostanze con l'esterno. Non sono un sistema chiuso.
+Le cellule non rappresentano un sistema chiuso, ma scambiano costantemente sostanze con l'esterno.
 Questo scambio viene fatto in diversi modi che complessivamente vengono definiti come “trasporto di membrana”. 
 Poiché la membrana ricopre interamente la cellula e non presenta “buchi”, deve esistere un modo per le molecole di attraversarla.
 I fisiologi catalogano il trasporto di membrana creando in primo luogo due grandi divisioni:
-1. trasporto attivo, tutto ciò che passa attraverso la membrana con consumo di energia;
-2. trasporto passivo, tutto ciò che passa attraverso la membrana senza che la cellula debba consumare energia.
+
+1. **trasporto attivo**, le particelle possono essere trasportate anche *contro gradiente* e l'energia necessaria al trasporto proviene dal metabolismo cellulare;
+2. **trasporto passivo**, le particelle attraversano la membrana cellulare solo *in favore di un gradiente* e l'energia necessaria al trasporto proviene dalla dissipazione del gradiente che muove le particelle. 
 
 Possiamo avere trasporto attivo o passivo sia in ingresso che in uscita dalla cellula.
 
-Il trasporto passivo può essere:
-1. semplice, non servono intermediari perché la sostanza diffonda attraverso la membrana.
-2. facilitato, la sostanza segue il gradiente di concentrazione ma non può attraversare spontaneamente la membrana ma utilizza dei trasportatori di membrana.
+Il *trasporto passivo* può essere:
 
-Per il trasporto semplice serve una sostanza che può diffondere attraverso la membrana ed un gradiente osmotico tra l'interno e l'esterno della cellula.
+1. **semplice**, se non servono intermediari affinchè la sostanza diffonda attraverso la membrana;
+2. **facilitato**, se la sostanza non può attraversare spontaneamente la membrana ma utilizza delle proteine trasportatrici.
 
-Gli esempi della diffusione semplice è ad esempio il passaggio dell'acqua (a volte possono sfruttare anche il trasporto facilitato grazie alle acquaporine), i gas atmosferici, le sostanze lipidiche.
-Per diffusione facilitata passano sostanze come i principali zuccheri del metabolismo (glucosio e fruttosio), i principali ioni minerali (Na, K, Cl, Ca).
+Per il *trasporto semplice* serve una sostanza che possa diffondere attraverso la membrana ed un gradiente osmotico tra l'interno e l'esterno della cellula.
 
-Il trasporto attivo viene suddiviso in primario e secondario.
-Il trasporto attivo primario crea i gradienti e viene generato da speciali trasportatori detti “pompe” che consumano energia sotto forma di ATP (dette anche pompe atipasiche o ATP dipendenti). Nel trasporto attivo le sostanze vengono spostate contro gradiente (da dove ce n'è poca a dove ce n'è tanta).
+Un esempio di diffusione semplice è il passaggio dell'acqua (a volte può sfruttare anche il trasporto facilitato grazie alle *acquaporine*), dei gas atmosferici o le sostanze lipidiche.
+Per diffusione facilitata inoltre, passano sostanze come i principali zuccheri del metabolismo (glucosio e fruttosio) e i principali ioni minerali (Na, K, Cl, Ca) necessari per la vita della cellula.
 
-In quello secondario il trasportatore sfrutta l'energia di un gradiente trasportando una sostanza per trasportare un'altra sostanza contro gradiente. 
-Nel cotrasporto  vi sono delle proteine di membrana dette cotrasportatori (a due o 3 sostanze) che trasportano una sostanza contro gradiente e una secondo gradiente. Non c'è consumo diretto di ATP ma ch'è dissipazione di un gradiente.
-Il movimento delle sostanze può essere nella stessa direzione (simporto) o in direzioni opposte (antiporto).
-I cotrasportatori non sono in grado di creare gradienti ma possono sfruttare un gradiente già esistente per trasportare un'altra sostanza contro gradiente.
+Il *trasporto attivo* invece viene suddiviso in:
 
-Possono poi esserci fenomeni di esocitosi e endocitosi. Le sostanze non vengono trasportate molecola per molecola ma come massa di materia grazie a movimenti della membrana plasmatica che ingloba una certa quantità di materiale. L'endocitosi e l'esocitosi implicano sempre la formazione di vescicole.
++ *primario*, crea i gradienti di concentrazione e viene generato da speciali trasportatori detti **pompe** che consumano energia sotto forma di ATP (dette anche pompe ATPasiche o ATP dipendenti);
++ *secondario*, non viene speso direttamente ATP ma viene sfruttata la differenza di potenziale elettrochimico creata dai trasportatori primari che pompano ioni al di fuori della cellula, il trasportatore secondario sfrutta l'energia di questo gradiente per trasportare un'altra sostanza contro gradiente. 
 
-LE POMPE
-Sono proteine di membrana: la parte esterna è glicosilata. La parte citosolica è molto più grande di quella esterna e c'è una parte interna nella membrana.
-Il suo substrato enzimatico è l'ATP.
-L'idrolisi dell'ATP libera un'energia che il trasportatore può utilizzare facendo avvenire il passaggio da una sostanza da un lato all'altro della membrana.
-Trasportano numerosissime sostanze, noi vedremo soprattutto ioni minerali.
+Il trasporto attivo secondario viene poi diviso in:
 
++ **uniporto**, è il trasporto secondario di una sola sostanza che si muove sfruttando la differenza di potenziale elettrochimico creato da trasportatori primari;
++ **costrasporto**, è il trasporto contemporaneo di due specie ioniche o di altri soluti.
 
-I trasportatori di membrana sono presenti anche all'interno della cellula in alcuni organuli cellulari (es: lisosomi, mitocondri…).
-Le ATPasi possono essere F-ATPasi dei mitocondri sono coinvolti nella formazione dell'ATP (?);
-V-ATPasi dei vacuoli che acidificano il lume interno dei vacuoli portando al loro interno ioni H+;
-P-ATPasi pompano ioni Na+, K+, Ca2+… hanno un intermedio fosforilato. La molecola del trasportatore viene fosforilata e trasportata dal compartimento extra a quello intracellulare.
+Il cotrasporto avviene grazie alla presenza di proteine di membrana dette **cotrasportatori**: queste proteine possono trasportare 2 o 3 molecole diverse di cui una contro gradiente e l'altra secondo gradiente. Come già detto non c'è consumo diretto di ATP ma c'è dissipazione di un gradiente che sarà stato precedentemente creato da un trasportatore attivo primario.
+Nel cotrasporto si ha la diffusione di una sostanza lungo il suo gradiente ed è proprio questa diffusione a creare i presupposti affinché lo stesso trasportatore possa far attraversare la membrana ad un'altra sostanza contro gradiente (le sostanze trasportate possono essere anche tre).
 
-Il cotrasporto non genera gradiente ma lo sfrutta (questo gradiente sarà stato prodotto da u trasportatore attivo primario), lascia diffondere la sostanza lungo il suo gradiente e questa diffusione crea i presupposti affinché lo stesso trasportatore possa far attraversare la membrana ad un'altra sostanza contro gradiente. Questo trasporto può avvenire nella stessa direzione o in direzioni opposte.
-Le sostanze trasportate possono essere anche tre.
+Il cotrasporto si divide poi in:
 
-I(n una normale condizione fisiologica esistono diversi gradienti di membrana (indispensabili per la vita delle cellule). La fisiologia duna cellula ruota attorno ad alcuni ioni minerali che sono quelli più abbondanti nei liquidi biologici. I più abbondanti in assoluto sono il Na e il K, Cl e Ca. Questi ioni hanno sempre concentrazioni diverse dentro e fuori la cellula.
-Na > nell'ambiente esterno 140, dentro 5
-K > nel citosol 5-15, dentro 145
-Cl > maggiore nell'ambiente esterno 110, dentro 4
-Ca > nell'ambiente esterno 2,5-5, dentro 0,0001
++ **antiporto**, è il trasporto contemporaneo di due specie ioniche o di altri soluti che si muovono in *direzioni diverse* attraverso la membrana. Una delle due sostanze viene lasciata fluire secondo gradiente, da un compartimento ad alta concentrazione ad uno a bassa concentrazione. Questo genera l'energia entropica necessaria per guidare il trasporto dell'altro soluto contro gradiente, da bassa ad alta concentrazione;
++ **simporto**, usa il flusso di un soluto secondo gradiente per muovere un'altra molecola contro gradiente ma il movimento avviene in questo caso attraversando la membrana nella *stessa direzione*.
 
-Se uno di questi gradienti cambia la cellula muore, dunque la cellula mantiene questi gradienti costanti sempre.
-Questi gradienti sono mantenuti dal trasporto attivo primario che li crea ed in parte da quello secondario che sfruttando questi gradienti fondamentali nel tiene stabili altri.
+Nei tipi di trasporto possiamo poi includere fenomeni di **esocitosi** e **endocitosi**. In questo caso le sostanze non vengono trasportate molecola per molecola ma come massa di materia grazie a movimenti della membrana plasmatica che ingloba una certa quantità di materiale. L'endocitosi e l'esocitosi implicano sempre la formazione di vescicole.
 
-Il sodio è lo ione più importante extracellularmente, mentre il K è il più importante intracellularmente.
-Esiste una Na-K ATP, o ATPasi sodio potassio dipendente o pompa sodio potassio.
+# Trasporto attivo primario: le pompe
+
+Le pompe sono trasportatori di membrana, ovvero proteine di membrana formate da 3 porzioni: una parte esterna e glicosilata, una parte citosolica (molto più grande di quella esterna) ed una parte immersa nella membrana.
+
+Queste proteine sono capaci di accoppiare il trasporto contro gradiente di diversi substrati con la defosforilazione di una molecola di ATP.
+L'idrolisi dell'ATP libera energia che il trasportatore può utilizzare per far avvenire il passaggio di una sostanza da un lato all'altro della membrana.
+
+I trasportatori di membrana sono presenti anche all'interno della cellula sulle membrana di alcuni organuli cellulari (es: lisosomi, mitocondri…). Trasportano numerosi tipi di composti (noi vedremo soprattutto gli ioni minerali)
+
+Le proteine responsabili dei trasporti attivi primari si possono suddividere in 3 gruppi:
+
++ le ABC ATPasi;
++ le H-ATPasi (comprende le F,V e A ATP-asi);
++ le P-ATPasi.
+
+**(IMMAGINE p87)**
+
+Le **F-ATPasi** (o ATP sintasi) si trovano nei mitocondri e sono coinvolte nella sintetizzazione dell'ATP; queste ATPasi funzionano in modo opposto rispetto alle altre, ovvero sinsetizzano ATP sfruttando l'energia di un trasporto ionico secondo gradiente invece di trasportare contro gradiente ioni sfruttando l'energia prodotta dall'idrolisi dell'ATP.
+
+Le **V-ATPasi** acidificano il lume interno dei vacuoli e di altri organuli endocellulari portando al loro interno ioni H+.
+
+Le F e le V-ATPasi sono costituite da due gruppi di subunità (*complessi*) denominati F1 e F0 o V1 e V0.
+I gruppi F1 e V1 sono citoplasmatici e presentano i siti catalitici per l'ATP, mentre le porzioni F0 e V0 sono transmembrana e sono la sede del trasporto degli idrogenioni.
+
+**(IMMAGINE P89)**
+
+Le **A-ATPasi** si trovano esclusivamente negli Archea (funzione delle F-ATPasi e struttura simile alle V-ATPasi).
+
+Le **P-ATPasi** pompano ioni Na+, K+, Ca2+… hanno un intermedio fosforilato. La molecola del trasportatore viene fosforilata e trasportata dal compartimento extracellulare a quello intracellulare.
+
+In una normale condizione fisiologica esistono diversi gradienti di membrana (indispensabili per la vita delle cellule). La fisiologia di una cellula ruota attorno ad alcuni ioni minerali che sono quelli più abbondanti nei liquidi biologici. 
+
+I più abbondanti in assoluto sono il Na e il K, seguiti da Cl e Ca. Questi ioni hanno sempre concentrazioni diverse dentro e fuori la cellula:
+
++ **Na+** > nell'ambiente esterno (140 mmol nell'ambiente esterno, 5 mmol nel citosol);
++ **K+** > nel citosol (5-15 mmol nell'ambiente esterno, 145 mmol nel citosol);
++ **Cl-** > nell'ambiente esterno (110 mmol nell'ambiente esterno, 4 mmol nel citosol);
++ **Ca2+** > nell'ambiente esterno (2,5-5 mmol nell'ambiente esterno, 0,0001 mmol nel citosol).
+
+Nel momento in cui uno di questi gradienti cambia la cellula muore, dunque la cellula tende a mantenere questi gradienti sempre costanti.
+
+Questi gradienti sono mantenuti dal trasporto attivo primario che li crea ed in parte da quello secondario che sfruttando questi gradienti fondamentali ne tiene stabili altri.
+
+## Le P-ATPasi
+
+Queste proteine presentano un meccanismo di trasporto comune a tutte, anche se è stato individuato con precisione solo nelle pompe SERCA e nella Na+/K+-ATPasi.
+
+Il loro modello di funzionamento è chiamato "Post-Albers" e assume che la proteina trasportatrice possa assumere *due conformazioni*:
++ nella conformaizone **E1** i siti di legame sono esposti dal lato citoplasmatico ed hanno alta affinità per i substrati che devono essere trasportati dall'altro lato della membrana e bassa affinità per i substrati che sono trasportati in senso opposto;
++ nella conformazione **E2** gli stessi siti sono esposti al lato extracellulare della membrana ed hanno bassa affinità per i substrati che sono stati legati in precedenza al lato intracellulare ed alta affinità per i substrati che saranno importati nel citoplasma.
+
+Come avviene il cambiamento conformazionale?
+
+Il ciclo parte con la proteina nella conformazione E1 in cui presenta sia un sito di legame ad alta affinità per l'ATP (che vi si lega) che i siti di legame per i substrati ad alta affinità.
+
+1. Si forma il legame tra i substrati presenti nel citosol e i siti di legame ad alta affinità. L'energia liberata da tale legame provoca un primo riarrangiamento della proteina;
+2. il cambiamento conformazionale provoca la chiusura delle vie di accesso ai siti di legame verso il citoplasma intrappolando il substrato che si era legato. Questo viene detto stato di fosforilazione E1-P;
+3. si ha un cambiamento nella proteina che riduce l'affinità dei siti di legame per i substrati che aveva legato precedentemente, mentre aumenta l'affinità per i substrati da legare nell'ambiente extracellulare. Contemporaneamente si apre un varco di uscita al lato extracellulare della membrana dove, per la ridotta affinità dei siti di legame, vengono rilasciati i substrati precedentemente legati. A questi siti di legame vengono poi legati i nuovi substrati. Durante questo passaggio la proteina passa dalla conformazione E1-P a quella E2-P;
+4. il legame dei nuovi substrati ai siti di legame causa la chiusura di questo varco ed il conseguente intrappolamento dei substrati.
+
+Questo processo avviene in maniera ciclica permettendo il continuo legame e trasporto di molecole da una parte all'altra della cellula.
+
+### Pompa Na+/K+
+
+Il Na+ è lo ione più importante extracellularmente, mentre il K+ è il più importante intracellularmente.
+Esiste una Na+/K+ ATP, o ATPasi sodio-potassio dipendente o pompa sodio-potassio.
 E' una pompa di tipo P, localizzata nella membrana plasmatica, che sfrutta un intermedio fosforilato.
-Questo trasportatore crea il gradiente del K e del Na (più importanti dal punto di vista quantitativo). Movimenta la maggior quantità di materiale attraverso la membrana.
-Trasporta ioni Na fuori dalla cellula e contemporaneamente ioni K all'interno, entrambe contro il loro gradiente elettrochimico.
-Questa pompa è essenziale per l'eccitabilità dei neuroni e del muscolo. E' essenziale per l'equilibrio elettrico e osmotico della cellula.
 
-(riguardare elettromagnetismo)
+Questo trasportatore crea il gradiente del Na+ e del K+, che sono i più importanti dal punto di vista quantitativo. Movimenta la maggior quantità di materiale attraverso la membrana.
 
-questa proteina è formata da una subunità alfa (10 domini transmembrna e sporge in prevalenza nel citosol, porta i siti di legame per l'ATP e per i cationi)
-e da una subunità beta più piccola, ha un solo dominio transmembrana, sporge verso l'esterno con una porzione glicosilata.
-Questa proteina è un enzima, è un trasportatore con un ciclo di attività.
+Trasporta contemporaneamente ioni Na+ fuori dalla cellula e ioni K+ all'interno, entrambi contro il loro gradiente elettrochimico.
+Questa pompa è essenziale per l'eccitabilità dei neuroni e del muscolo poichè è essenziale per l'equilibrio elettrico e osmotico della cellula.
 
-La proteina viene fosforilata (idrolisi di ATP sulla proteina) in uno stato in cui la proteina lega il Na sul lato citosolico (dove sodio ce n'è “poco”). Questa fosforilazione produce una variazione conformazionale della proteina. A questo punto la zona che lega il Na (può ospitare fino a 3 ioni alla volta) si apre all'interno della cellula dove il Na è molto concentrato.
-Questa variazione conformazionale rende i siti di legame per il sodio molto meno affini allo ione permettendo che lo ione si stacchi all'interno.
-L'affinità per il ligando si presenta con un valore simile a quello della concentrazione dello ione (????).
+**(riguardare ELETTROMAGNETISMO su appunti fisica)**
+
+Questa proteina è formata da due subunità:
+
++ una **subunità alfa** formata da 10 domini transmembrna che sporge in prevalenza nel citosol. Questa subunità porta i siti di legame per l'ATP e per i cationi;
++ una **subunità beta** più piccola, formata da un solo dominio transmembrana, che sporge verso l'esterno con una porzione glicosilata.
+
+La proteina viene fosforilata, tramite l'idrolisi di una molecola di ATP, mentre si trova in uno stato in cui la proteina presenta elevata affinità per il legame di Na+ sul lato citosolico (dove sodio ce n'è “poco”). Questa fosforilazione produce una variazione conformazionale della proteina. A questo punto la zona che lega il Na+ (può ospitare fino a 3 ioni alla volta) si apre all'interno della cellula dove il Na+ è molto concentrato.
+
+Questa variazione conformazionale rende i siti di legame per il Na+ molto meno affini allo ione permettendogli di venire rilasciato all'interno della cellula.
+L'affinità per il ligando si presenta con un valore simile a quello della concentrazione dello ione.
 Quando la proteina varia la sua conformazione rivolgendo i siti di legame verso l'esterno il coefficiente di dissociazione deve salire a 100/150 mmol. 
 
-La fosforilazione della proteina non dura molto a lungo (millisecondi).
-La proteina viene defosforilata e quello che è avvenuto per il sodio avviene per il K. 
-Ogni 3 ioni Na che escono che ne entrano 2 di K. Questo trasporto  elettrogenico poiché crea una differenza elettrica.
+La fosforilazione della proteina non dura molto a lungo (parliamo di millisecondi) e quando viene defosforilata l'affinità per il Na+ diminuisce ma aumenta quella per il K+.
 
-C'è in altro trasportatore molto espresso che fa un lavoro simile ma con lo ione Ca2+.
-PMCA o Ca2+ ATPasi della plasma membrana. Espelle ioni calcio all'esterno della cellula.
+Ogni *3 ioni Na+* che escono ne entrano *2 di K+*. Questo trasporto viene definito **elettrogenico** poiché crea una differenza di potenziale elettrico tra l'esterno e l'interno della cellula a causa del differente numero di cariche positive trasportate.
+
+### Pompa protonica o H+/K+ ATPasi
+
+Questo trasportatore opera un *antiporto* molto simile alla Na+/K+-ATPasi (è un'ATPasi dei tipo P) ma, a differenza di quest'ultima è *elettroneutra*.
+Questo trasportatore estrude 2 ioni H+ ed intrude 2 ioni K+.
+E' tipico delle cellule ossintiche delle ghiandole gastriche  della mucosa dello stomaco per l'acidificazione del chimo.
+
+### Pompa Ca2+-ATPasi
+
+Questi trasportatori attivi primari dovrebbero essere più propriamente denominati Ca2+/H+-ATPasi e sono anch'essi molto espressi.
+
+Ne possiamo riconoscere almeno due tipi distinti:
+
+1. Le **pompe PMCA** o Ca2+ ATPasi della plasma membrana, trasportano *uno ione Ca2+* all'esterno della cellula e *uno ione H+* all'interno della cellula per ogni molecola di ATP idrolizzata.
 Ne esistono 4 isoforme.
-
-SERCA Ca2+ ATPasi del reticolo sarco-endoplasmatico.
+2. le **SERCA** o Ca2+ ATPasi del reticolo sarco-endoplasmatico, trasportano verso il lume del reticolo endoplasmatico *due ioni Ca2+* ed un certo numero di ioni H+ (per ogni coppia di Ca2+ vengono traslocati un po' meno di 4 ioni H+).
 E' il principale sistema di omeostasi del muscolo scheletrico e cardiaco.
-Questa proteina movimenta lo ione sulla membrana del reticolo endoplasmatico, mentre le altre due viste movimentano gli ioni sulla membrana plasmatica.
+
+Questa proteina movimenta gli ioni sulla membrana del reticolo endoplasmatico, mentre le altre due viste movimentano gli ioni sulla membrana plasmatica.
+
+### Cotrasporto 3Na+/2Ca2+
+
+Questo è un antiporto.
+
+Questo trasportatore sfrutta il gradiente del Na+ facendolo entrare nella cellula e contemporaneamente porta Ca2+ fuori dalla cellula.
+
+E' un processo che tende ad innalzare il potenziale eletttrico transmembranario a causa del diverso numero di cariche spostate.
 
 
-Troviamo poi l'antiporto Na/Ca (cotrasporto). Questo trasportatore sfrutta il gradiente del sodio facendolo entrare nella cellula e contemporaneamente porta Ca fuori dalla cellula.
-Tende a dissipare il gradiente del Na che viene mantenuto dalla Na--K ATPasi.
-Nel miocardio la stechiometria è di 3 Na per ogni Ca
-nei bastoncelli è di 
+### Controtrasporto Na+/H+
 
+Questi trasportatori provvedono all'espulsione nello spazio extracellulare degli ioni H+ liberati nel citosol dalla deidrogenazione dei substrati.
+L'ingresso di ioni Na+ comporta un'equivalente uscita di H+ in direzione opposta. 
 
-V-ATPasi tipica dei lisosomi e di tutte le vescicole a pH basso.
-Porta ioni H dall'esterno all'interno del vacuolo.
-
-Un altro tipo di trasporto attivo è tipico dello stomaco.
-
-L'acidità dei succhi gastrici è dovuta alla pompa H-K, ATPasi dei tipo P.
-le estremità carbossiliche e amminiche sono esterne alla cellula.
-Fa uscire H e entrare K.
-
-
-Scambiatore Na-H (non è una pompa), molto espresso nel rene.
+Questi trasportatori sono molto espressi nel rene dove rappresentano il principale meccanismo di acidificazione dell'urina.
 
 Nel rene avviene la filtrazione del sangue (liquido di partenza= plasma), il liquido finale è l'urina (molto diversa dal plasma). Tutte le differenze tra il plasma e l'urina sono dovute all'attività di trasportatori che agiscono nei tubicini dove passa il plasma.
 
+## Trasportatori mediati da vescicole
 
 Fagocitosi, endocitosi, pinocitosi, esocitosi.
 (…)
@@ -357,12 +422,10 @@ Gli epiteli funzionano come dispositivi che trasportano sostanze da un compartim
 Se il trasporto transepiteliale viene alterato causa malattie come la fibrosi cistica (dovuto ad un trasporto anomalo del cloro).
 
 
+# La comunicazione cellulare
+Le cellule possono comunicare tra loro sia per contatto che a distanza tramite l'utilizzo di messaggeri chimici.
 
-
-
-LA COMUNICAZIONE CELLULARE
-Le cellule possono comunicare tra loro per contatto, ma anche a distanza tramite l'utilizzo di messaggeri chimici.
-Per la comunicazione cellulare serve un messaggero chimico, una molecola in grado di recepire questa molecola segnale (RECETTORE) e poi un marchingegno cellulare che converta il segnale ricevuto dal recettore in un attività della cellula.
+Per la comunicazione cellulare serve: un messaggero chimico, un recettore (ovvero una molecola in grado di recepire questa molecola segnale) e poi un marchingegno cellulare che converta il segnale ricevuto dal recettore in un'attività della cellula.
 Quando un recettore cellulare lega una molecola segnale ad esso indirizzata cambia lo stato funzionale di una cellula (= la cellula stava facendo qualcosa e comincia a fare qualcos'altro).
 Ci sono sostanze che hanno una capacità enorme di modificare lo stato funzionale di una certa cellula: queste sostanze sono dette “ormoni”, ne basta una concentrazione molto bassa perché modifichi lo stato funzionale della cellula.
 
