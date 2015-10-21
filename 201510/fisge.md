@@ -445,11 +445,13 @@ Per la comunicazione cellulare serve:
 Quando un recettore cellulare lega una molecola segnale ad esso indirizzata modifica lo stato funzionale della una cellula (= la cellula stava facendo qualcosa e comincia a fare qualcos'altro).
 Ci sono sostanze che hanno una capacità enorme di modificare lo stato funzionale di una certa cellula, dette “ormoni” (ne basta una concentrazione molto bassa perché si modifichi lo stato funzionale della cellula interessata).
 
+## I recettori cellulari
 
-I recettori possono essere proteine di membrana (così come i trasportatori) o proteina intracellulari, capaci di legare la molecola segnale. 
+I recettori chimici sono i sensori dei messaggeri extracellulari. Essi sono sempre **molecole proteiche** foggiate in modo da legare con *altissima affinità* quelle dei messaggeri (chiamati genericamente *ligandi*).
+
+Si tratta di legami relativamente *labili* (ponti idrogeno, forze di van der Waals...) e quindi facilmente reversibili.
 
 La molecola segnale solitamente arriva da un'altra cellula, entra in contatto con la cellula che possiede il recettore e si lega al recettore attivandolo.
-I recettori possono trovarsi sulla membrana esterna o su membrane interne alla cellula.
 
 Il recettore, dopo essere entrato in contatto con la molecola segnale, modifica la sua conformazione legando altre proteine della cellula, che a loro volta legano altre proteine, fino ad attivare degli enzimi che cambieranno lo stato funzionale della cellula.
 Questo processo viene chiamato **“trasduzione del segnale”**.
@@ -460,11 +462,10 @@ Non esistono cellule vive che non siano coinvolte in fenomeni di comunicazione c
 Nelle colture cellulari in vitro non tutti i tipi di cellule possono essere coltivate, ma per quelle che lo sono è sempre essenziale che ci siano dei fattori di crescita nel terreno, altrimenti la cellula andrà in apoptosi.
 Solitamente viene utilizzato il siero fetale bovino poichè contiene molti fattori di crescita.
 
-
 I recettori possono essere:
 
-+ **di superficie**, se interagiscono con molecole segnale che non attraversano la membrana;
-+ **endocellulari**, se interagiscono con molecole lipofile che attraversano la membrana.
++ **intracellulari** (o endocellulari), ubicati nel citoplasma o nel nucleo, accessibili soltanto ai messaggeri extracellulari **liposolubili** che possono superare la membrana della cellula bersaglio. Generalmente esplicano al loro azione regolando direttamente svariati processi di trascrizione genica che presiedono alla sintesi di nuove proteine;
++ **di superficie** (o membranali), ubicati sulla membrana plasmatica, riservati ai ligandi **idrosolubili** i quali, per le dimensioni ed altre caratteristiche delle loro molecole, non possono superare la membrana della cellula bersaglio.
 
 Gli *endocrinologi* studiano da dove arriva a dove va la molecola segnale.
 Si distingue un segnale **endocrino** quando le due cellule sono situate a distanza, ed il messaggio deve viaggiare nel torrente sanguigno.
@@ -490,95 +491,129 @@ L'interazione tra la molecola segnale e il recettore è sempre basata su legami 
 Più il ligando è affine al recettore, più le cellule saranno sensibili al ligando.
 
 
-MOLECOLE SEGNALE DI TIPO GASSOSO
+## Molecole segnale di tipo gassoso
 
-Ossido nitrico.
-Il monossido di azoto, molecola inquinante dal punto di vista ambientale, è presente nei tessuti perché viene prodotta dalle cellule. L'ossido nitrico è prodotto nelle clelule dagli enzimi NO sintasi (NOS) a partire da arginina che viene convertita in citrullina liberando monossido di azoto.
+### L'ossido nitrico (NO)
+Il monossido di azoto (molecola inquinante dal punto di vista ambientale) viene prodotta dalle cellule ed è dunque presente all'interno dei tessuti. L'ossido nitrico è prodotto nelle cellule dagli enzimi **NO sintasi (NOS)** a partire da *arginina* che viene convertita in *citrullina* liberando monossido di azoto.
 
-Il primo effetto scoperto di questo enzima è la vasodilatazione.
-Meccanismo: il monossido di azoto agisce sulla guanilato ciclico (cGMP) che inibisce la contrazione della muscolatura liscia causando il rilassamento del vaso e il suo “ingrandimento”.
-Il monossido di azoto viene prodotto dall'endotelio: il monox di N è un gas e di conseguenza può diffondere bene nelle cellule. L'endotelio è subito adiacente ai vasi facendo sì che il monox di N diffonda subito nelle cellule dei vasi.
+Il primo effetto di questo enzima che fu scoperto riguardava la sua azione come *vasodilatatore*: il monossido di azoto agisce sulla **guanosima monofosfato ciclico (cGMP)** che inibisce la contrazione della muscolatura liscia causando il rilassamento dei vasi e il loro “ingrandimento”.
 
-Un'altro gas è il monossido ci carbonio (CO), prodotto dall'organismo tramite l'attività della eme-ossigenasi e può agire come molecola segnale delle macchinasi.
+Il monossido di azoto viene prodotto dall'endotelio dei vasi ed essendo un gas può diffondere bene nelle cellule vicine.
 
-
+Un'altro gas è il **monossido ci carbonio (CO)**, prodotto dall'organismo tramite l'attività della **eme-ossigenasi** e che può agire come *molecola segnale delle macchinasi*.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-L'attuale teoria sulla quale si basa tutta la biologia è la “Teoria del codice genetico”: la materia vivente viene prodotta secondo un processi decodificando un'informazione contenuta in certe molecole. Attrverso questo processo l'informazione può essere trasmessa alla progenie. 
+L'attuale teoria sulla quale si basa tutta la biologia è la **“Teoria del codice genetico”**: la materia vivente viene prodotta secondo più processi partendo dalla decodificazione delle informazione contenute in certe molecole (DNA). Attraverso questo processo l'informazione può essere trasmessa alla progenie.
 Questa teoria spiega tutti i fenomeni che vengono osservati nella materia vivente.
 
 Solo piccole parti di DNA vengono trascritte in RNA, e solo piccole porzioni di RNA vengono tradotte in proteine. Le proteine sono poi responsabili di quasi tutto quello che avviene negli esseri viventi.
 
-Questa teoria è focalizzata a spiegare come nasce la materia vivente ma pochissimo su come rimane in vita un essere vivente.
+Questa teoria è focalizzata a spiegare come nasce la materia vivente ma pochissimo su come questa possa rimanere in vita.
 
-Le basi di questo sistema sono state individuate nel 1870 circa. Negli anni '50 è stato individuato un modo per poter manipolare il DNA così da poter mutare le proteine che desideriamo.
-
-
-MOLECOLE SEGNALE DI TIPO ORGANICO
-
-Molte molecole segnale sono state chiamate ormoni.
-Le molecole segnale vengono suddivise in lipofile e idrofile che intervengono in maniera diversa sulla cellula persagnio 9quella che contiene i recettori=.
-Tra le molecole lipofile abbiamo:
-
-+ gli ormoni steroidei, gli steroidi. Viaggiano nel sangue combinate con proteine carrier e non in maniera libera (non solubili nel siero), diffondono passivamente nella plasmamembrana, legano recettori intracellulari.
-
-Hanno una struttura somune tetraciclica che è propria anche del colesterolo e di un idrocarburo chiamato sterano.
-L'estradiolo ha un anello aromatico che gli altri ormoni steroidei non hanno.
-
-Es steroidi sessuali, corticosteroidi.
-
-+ gli ormoni tiroidei, la famiglia delle molecole della vitamina D, l'acido retinoico…
+Le basi di questo sistema sono state individuate nel 1870 circa, e all'incirca negli anni '50 è stato individuato un modo per poter manipolare il DNA così da poter mutare le proteine che desideriamo.
 
 
-un'altra grande categoria di moleocle segnale sono molecole di natura peptidica 9polimeri di amminoacidi). Di solito non hanno grandi dimensioni ma in alcusi casi come l'insulina possono essere grandi come una proteina. L'insulina è formata da due catene di amminoacidi unite da vari ponti disolfuro, viaggia nel sangue e può influenzare l'attività in varitessuti.
+## Molecole segnale di tipo organico
+
+Molte molecole segnale sono state chiamate "ormoni".
+
+Le molecole segnale vengono suddivise in lipofile e idrofile ed intervengono in maniera diversa sulla cellula bersaglio (quella che contiene i recettori).
+
+### I recettori intracellulari
+
+I ligandi liposolubili sono veicolati fino alle cellule bersaglio dai liquidi circolanti (sangue e plasma), legati a speciali *proteine vettrici* per formare complessi idrofili. Per raggiungere i recettori intracellulari, le molecole liposolubili vengono separate dalla proteina vettrice ed attraversano la membrana della cellula bersaglio in forma idrofobica.
+
+I recettori intracellulari, una volta attivati, accedono al DNA nucleare, sul quale operano come *fattori di trascrizione*. Essi infatti facilitano o inibiscono la trascrizione di particolari geni bersaglio, quindi la sintesi di nuove proteine (sia strutturali che enzimatiche).
+
+Tra le molecole lipofile troviamo:
+
++ gli **ormoni steroidei** e gli **steroidi**. Questi viaggiano nel sangue combinati con *proteine carrier* e non in maniera libera (non sono solubili nel siero), diffondono passivamente attraverso la plasmamembrana e legano recettori intracellulari. Hanno una *struttura comune tetraciclica* che è propria anche del colesterolo e di un idrocarburo chiamato sterano. L'estradiolo ha un anello aromatico che gli altri ormoni steroidei non hanno. Es. steroidi sessuali, corticosteroidi...;
++ gli **ormoni tiroidei**, la famiglia delle molecole della **vitamina D**, l'**acido retinoico**…
 
 
-Vi sono poi i neurotrasmettitori che agiscono nel sistema nervoso o neuromuscolare.
-E' una categoria molto eterogenea ma condividono una caratteristica: possiedono sempre l'azoto (composti organo-azotati).
-Queste molecole hanno la capacità di condizionare l'attività dei neuroni e delle cellule muscolari. Sono sostanze che condizionano l'attività del sistema nervoso.
+Un'altra grande categoria di molecole segnale sono **molecole di natura peptidica (polimeri di amminoacidi)**. Di solito non hanno grandi dimensioni ma in alcusi casi, come l'insulina, possono essere grandi come una proteina. L'insulina è formata da due catene di amminoacidi unite da vari ponti disolfuro, viaggia nel sangue e può influenzare l'attività in vari tessuti.
 
-Vi sono poi gli Eicosanoidi: sono molecole lipidiche, agiscono su recettori di superficie (prostaglandine, prostacicline…).
-Agiscono come segnali paracrini o autocrini stimolando una varietà di risposte fra cui: aggregazione delle piastrine, risposta infiammatoria, contrazione della muscolatura liscia.
-Hanno notevole importanza nelle situazioni al confine tra fisiologia e patologia.
-La molecola capostipite di tutte queste sostanze è l'acido arachidonico (tetrainsaturo): si può facilmente ripiegare su se stessa e offrire l'azione a degli enzimi, in particola il ciclo ossigenasi. Le prostaglandine sono le molecole alla base di tutti gli altri eicosanoidi. La ciclo ossigenasi (COX) è l'enzima chiave per la produzione di tutte queste molecole e siccome alcune sono mediatori dell'infiammazione (scatenano l'infiammazione), la ciclo ossigenasi è unbersaglio anche dei farmaci antinfiammatori. Un farmaco antinfiammatorio di largo uso è l'aspirina (acido salicilico o acetil-salicilico per far durare di più l'effetto della molecola) che è un inibitore della cicloossigenasi. Siccome le prostaglandine scatenano l'infiammazione (con annesso dolore perché vengono attivate anche le terminazioni nervose del dolore, si forma rossore e gonfiore a causa della vasocostrizione).
+Vi sono poi i **neurotrasmettitori** che agiscono sul sistema nervoso o neuromuscolare.
+Questa è una categoria molto eterogenea di composti dove tutti condividono una caratteristica: *possiedono sempre l'azoto (composti organo-azotati)*.
+Queste molecole hanno la capacità di condizionare l'attività dei neuroni e delle cellule muscolari.
+
+Vi sono poi gli **eicosanoidi**, ovvero molecole lipidiche capaci di agire su recettori di superficie come le prostaglandine e le prostacicline.
+Queste molecole agiscono come *segnali paracrini* o *autocrini* stimolando una varietà di risposte fra cui l'aggregazione delle piastrine, la risposta infiammatoria e la contrazione della muscolatura liscia.
+Hanno una notevole importanza nelle situazioni al confine tra fisiologia e patologia.
+
+La molecola capostipite di tutte queste sostanze è l'**acido arachidonico** (tetrainsaturo); questa molecola si può facilmente ripiegare su se stessa e offrire l'azione a degli enzimi, in particolare le **cicloossigenasi (COX)**. La COX è l'enzima chiave per la produzione di tutte queste molecole e siccome alcune sono mediatori dell'infiammazione (scatenano l'infiammazione), la ciclo ossigenasi è un bersaglio anche dei farmaci antinfiammatori. Un farmaco antinfiammatorio di largo uso è l'aspirina (il cui principio attivo è l'acido salicilico o acetil-salicilico per far durare di più l'effetto della molecola) che è un inibitore della cicloossigenasi. Le prostaglandine scatenano l'infiammazione con annesso dolore perché vengono attivate anche le terminazioni nervose del dolore, si formano il rossore e il gonfiore a causa della vasocostrizione.
 
 L'aspirina inibisce anche l'aggregazione delle piastrine e la coagulazione del sangue (inibizione dei tromboxani).
 
-Come mai queste molecole agiscono solo su alcuni tipi cellulari e non su tutte? 
-Perchè hanno bisogno di recettori: questi vengono espressi solo da alcuni tipi cellulari.
+Come mai queste molecole agiscono solo su alcuni tipi cellulari e non su tutti? 
+Perchè hanno bisogno di recettori che vengono espressi solo da alcuni tipi cellulari.
 
-Molti recettori sono localizzati sulla membrana cellulare. Il termine recettore è utilizzato sia per indicare le molecole che interagiscono con le molecole segnale, sia per indicare degli organi o delle cellule presenti negli organi sensoriali (es. coni e bastoncelli sono recettori visivi).
+**NOTA BENE:** il termine recettore è utilizzato sia per indicare le molecole che interagiscono con molecole segnale, sia per indicare degli organi o delle cellule presenti negli organi sensoriali (es. coni e bastoncelli sono recettori visivi).
 
-Esistono 3 tipologie di recettori di membrana:
 
-+  recettori legati a canali ionici
-+ ampia categorie di recettori legati alla proteina G
-+ recettori che funzionano da enzimi
+### I recettori di membrana
 
-Per ognuno di questi tipo abbiamo moltissimi recettori.
+Molti ligandi esplicano la loro azione legandosi a recettori chimici che sono *glicoproteine intrinseche* della membrana plasmatica delle cellule bersaglio.
 
-I canali ionici sono recettori che agisocno facendo passare una corrente. Quando sono attivati dalla molecola segnale producono una corrente ionica (lasciano passare degli iooni attravers o la membrana (diffusione facilitata).
-Un esempio è quello per l'acetil-colina,
-Sono canali con al centro un poro che si apre quando il recettore lega l'acetil colina e il recettore conduce ioni9 Na+
-questo recettore è frequentemente presente nelle sinapsi e l'acetil colina viene rilasciato da un neurono che (Gaia)
+Per poter funzionare un recettore membranale deve comprendere almeno due domini:
 
-i recettori legati a proteina G
-sono proteine transmmebmrana ocn 7 passaggi transmembreana e qauattro domici citosoloiicu e 4 enxtracekkykeur. Prresentano un loop citosoliso (Gaia)
++ un **dominio recettoriale** che presenta uno o più siti di legame per la molecola segnale;
++ un **dominio effettore** che, dopo essere stato attivato dalla formazione del complesso ligando-recettore, innesca la risposta cellulare.
 
+Esistono 3 classi di recettori membranali:
+
++ recettori **ionotropici** o recettori legati a **canali ionici**;
++ recettori **metabotripici**. Questi si dividono in due gruppi:
+ 1. recettori legati alle **proteina G** (o a 7 domini transmembranari);
+ 2. recettori operanti per **via enzimatica**;
++ la classe delle **proteine adesive**.
+
+Per ognuna di queste categorie abbiamo moltissimi recettori diversi.
+
+#### Recettori-canale
+
+Questi recettori, quando sono attivati dal ligando extracellulare, aprono nella loro molecola un condotto transmembranario che consente il transito di ioni, determinando una pronta **variazione del potenziale di membrana**.
+La molecola di questi recettori presenta una **porzione recettrice** esposta al lato extracellulare della membrana e dotata di uno o più *siti di legame* per la molecola del ligando, ed una **porzione effettrice**, costituita da un *canale ionico* che attraversa tutto lo spessore della membrana.
+
+Il canale possiede almeno un *gate* che ne controlla lo stato di apertura/chiusura provvisto di un *filtro di selettività* che lo rende permeabile solo a determinate specie ioniche.
+
+
+Questi canali agisocno facendo passare una corrente ionica poichè, quando attivati, permettono il passaggio di ioni attraverso la membrana (diffusione facilitata).
+
+I tre tipi di recettori-canale meglio conosciuti sono:
+
++ i recettori per l'**acetilcolina**, alla cui attivazione è affidata la trasmissione sinaptica. Il canale ionico che essi costituiscono è relativamente poco selettivo, perchè percorribile dalla maggior parte dei cationi (Na+, K+, Ca2+, Mg2+) presenti nei liquidi fisiologici;
++ i recettori per l'**acido glutammico**;
++ i recettori per l'**acido gamma-amminobutirrico**.
+
+
+#### Recettori accoppiati a proteine G
+
+Queste sono *proteine intrinseche di membrana*. La loro larga diffusione nella membrana di tutte le cellule è in accordo con la capacità che essi hanno di attivare/inibire una grande varietà di processi intracellulari.
+
+La sequenza di eventi intracellulari che fa seguito all'attivazione di questi recettori si svolge in questo modo:
+
+1. il recettore, attivato dal ligando extracellulare, comunica il segnale ad una proteina G trimerica che trasferisce l'attivazione all'enzima produttore del secondo messaggero. Nel più comune dei casi l'enzima su cui agisce la proteina G trimerica è l'*adenilato ciclasi* ed il secondo messaggero che viene prodotto è l'*adenosin-monofosfato ciclico*;
+2. in alcuni casi i secondi messaggeri sono capaci di attivare direttamente canali ionici o di aumentare la concentrazione intracellulare degli ioni Ca2+, ma più frequentemente attivano una **protein-chinasi**, che diviene capace di rendere operative (per *via fosforilativa*) le proteine-bersaglio.
+
+**IMMAGINE p137 (5-6)**
+
+
+Le **protein-chinasi** costituiscono un'ampia famiglia di *proteine fosforilanti*, destinate primariamente a regolare l'attività delle proteine-bersaglio attuatrici delle varie risposte cellulari.
+
+Tra i ligandi che attivano i recettori accoppiati a proteine G trimeriche troviamo ormoni, neuritrasmettitori...
+
+Le proteine G sono formate da 7 segmenti transmembranari dei recettori "serpentini" sono connessi a 6 anse: 3 extracellulari e 3 intracellulari. La terza ansa intracellulare contiene il *dominio di interazione con la proteina G trimerica*.
+
+L'estremità N'terminale della catena polipeptidic si sviluppa nellàambiente extracellulare e contiene, oltre a diversi siti di possibile glicosilazione, il *dominio recettoriale* contenente i *siti di legame* per il ligando. 
+L'estremità C-terminale si estende nel citosol e contiene diversi *siti regolatori*.
+
+
+**CONTROLLARE GAIA**
+**IMMAGINE p137 (5-7)**
+
+
+#### Recettori operanti per via enzimatica
 
 Poi ci sono recettori con attività enzimatica:
 la categoria più numerosa è quella dei recettori tirosin chinasici.
