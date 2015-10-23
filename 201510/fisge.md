@@ -605,7 +605,7 @@ Tra i ligandi che attivano i recettori accoppiati a proteine G trimeriche trovia
 
 Le proteine G sono formate da 7 segmenti transmembranari dei recettori "serpentini" sono connessi a 6 anse: 3 extracellulari e 3 intracellulari. La terza ansa intracellulare contiene il *dominio di interazione con la proteina G trimerica*.
 
-L'estremità N'terminale della catena polipeptidic si sviluppa nellàambiente extracellulare e contiene, oltre a diversi siti di possibile glicosilazione, il *dominio recettoriale* contenente i *siti di legame* per il ligando. 
+L'estremità N-terminale della catena polipeptidic si sviluppa nellàambiente extracellulare e contiene, oltre a diversi siti di possibile glicosilazione, il *dominio recettoriale* contenente i *siti di legame* per il ligando. 
 L'estremità C-terminale si estende nel citosol e contiene diversi *siti regolatori*.
 
 
@@ -615,63 +615,95 @@ L'estremità C-terminale si estende nel citosol e contiene diversi *siti regolat
 
 #### Recettori operanti per via enzimatica
 
-Poi ci sono recettori con attività enzimatica:
-la categoria più numerosa è quella dei recettori tirosin chinasici.
+Questi recettori metabotropici sono proteine membranali che presentano tutte un *dominio recettoriale* che sporge al lato *extracellulare* come un'antenna, ed un *dominio effettore* che sporge al lato *intracellulare*; i due domini sono connessi da un *singolo segmento transmembranario*.
+
+Il dominio effettore ha già in sé la funzione di *enzima* e può attivare direttamente una proteina-bersaglio senza l'intermediazione di proteine G trimeriche.
+
+Nella maggior parte dei casi l'attività enzimatica del dominio effettore è di tipo protein-chinasico, capace di fosforilare le proteine-bersaglio su residui di *tirosina*. I recettori che presentano queste caratteristiche sono chiamati **recettori tirosin-chinasici** e sono i più numerosi.
+
 Sono recettori capaci di fosforilare la tirosina presente sulla proteina (gli altri sono serina e.
 fosforilano la
- (…)
+**(Controllare appunti G. o J.)**
 
 
-possiamo avere anche delle moleocle che inibiscono i recettori.
+Possiamo avere anche delle moleocle che inibiscono i recettori.
 
 Una molecola che si lega ad un recettore e attiva il sistema di trasduzione del segnale viene detta agonista.
-Una molecola che si lega ad un recettore ma n0on  lo attiva, cioè non genera un segnale nella cellula è definita antagonista. Essa blocca (…)
+Una molecola che si lega ad un recettore ma non  lo attiva, cioè non genera un segnale nella cellula è definita antagonista. Essa blocca (…)
 
 Nel morbo di Parkinson la cura consiste nella somministrazione di agonisti della dopamina (recettori presenti nei neuroni che legano la dopamina che è un neurotrasmettitore tra i più abbondanti nel sistema nervoso. La malattia è caratterizzata  da una deficienza nei sistemi dopaminergici. Gli agonisti sopperiscono (…)
 
 
-I recettori endocellulari: anche loro sono proteine, ma citosoliche (o endonucleari). Possono essere informa inattiva extracellulari, legari il ligando entrare nel nucleo e costruire dei fattori di attivazione della trascrizione genica. A questi recettori intracellulari agiscono sempre (gaia)
-
+I recettori endocellulari: anche loro sono proteine, ma citosoliche (o endonucleari). Possono essere in forma inattiva extracellulari, legari il ligando entrare nel nucleo e costruire dei fattori di attivazione della trascrizione genica. A questi recettori intracellulari agiscono sempre
+**(Controllare appunti G. o J.)**
 
 (…)
 
 
-LA TRASDUZIONE DEL SEGNALE
+# La trasduzione del segnale
 
-Un tipico meccanismo della trasduzione del segnale è l'attivazione di cascate di fosforilazione. Sono mediate da enzimi (protein-chinasi). In queste cascate si attivano in serie delle proteine chinasi che fosforilano altre proteine una dopo l'altra.
+Un tipico meccanismo della trasduzione del segnale è l'attivazione di una *"cascata di fosforilazione"*. In queste cascate si attivano in serie delle protein-chinasi che fosforilano altre proteine una dopo l'altra.
 
-Segnale mediato da proteine G
-Sono capaci di legare molecole che arrivano dallo spazio extracellulari e diventano in grado di interagire con una proteina (proteina G). Le proteine associate ai recettori sono trimeriche . Questa proteina è  in grado di legare il (GTP) nucleotide.
-Il nucleotide si lega alla subunità alfa. La proteina è legata alla membrana grazie a delle molecole di acido grasso a lunga catena. Questi acidi rimangono immersi nella membrana ancorando la proteina, Gli acidi grassi sono legati alle subunità alfa e gamma.
+## La via dell'adenosin-monofosfato ciclico (cAMP)
 
-Il recettore attivandosi cambia conformazione e lega la proteina G tramite la subunità alfa. Allo stato inattivato lega GDP, ma quando lega il recettore il GDP si stacca e lega il GTP. Contemporaneamente si staccano anche gamma e beta lasciando alfa separata ma sempre attaccata alla membrana.
+Il cAMP agisce da secondo messaggero. Si forma dall'**adenosin-trifosfato** (ATP) per eliminazione di *pirofosfato*. Questa reazione richiede, in presenza di ioni Mg2+, l'intervento di un enzima membranale: l'**adenilato ciclasi**.
 
-Il terzo gruppo fosfato del GTP provoca una variazione conformazionale della subunità alfa che coinvolge due amminoacidi 'switch', una glicina e una treonina.
-La modificazione conformazionale degli 'switch' favorisce il distacco delle subunità alfa dal complesso beta-gamma.
-Quando la subunità alfa si attiva si innescano una serie di eventi:
+Dal luogo di formazione il cAMP raggiunge per diffusione le strutture intracellulari sulle quali deve esplicare la sua azione. 
+Questa è generalmente *fasica* (cioè limitata nel tempo): dopo l'arrivo del messaggero extracellulare che ne ha evocato la formazione, il livello citosolico di cAMP *aumenta di 5-10 volte in 5-10 secondi* per la rapida sintesi di nuove molecole, controbilanciata in breve tempo da una degradazione altrettanto rapida. La demolizione avviene ad opera della **cAMP fosfodiesterasi**, enzima che idrolizza il cAMP ad AMP.
+
+### L'adenilato ciclasi (AC)
+
+L'adenilato ciclasi è costituita da una molecola di notevoli dimensioni. La sua lunga catena polipeptidica è inserita nella membrana plasmatica con *due subunità* di 6 segmenti idrofobici; questi danno origine ad un *unico dominio catalitico* che pesca nel citosol, dove si estendono anche le due estremità dell'intera molecola.
+
+Il dominio catalitico dell'AC è una struttura anulare allungata, contenente al suo interno il *sito ATPasico*, mentre ai due poli esterni dell'anello si trovano i *siti di legame* per le subunità alfa delle proteine G di controllo.
+
+### Proteine G trimeriche ed attivazione dell'AC
+
+Nello svolgere la sua azione di accoppiamento tra un recettore a 7 segmenti transmembranari e l'adenilato ciclasi, la molecola di una proteina G *trimerica* mantiene un costante rapporto con il foglietto interno della membrana cellulare grazie alla presenza di acidi grassi a lunga catena legati alle subunità alfa e gamma.
+
+La proteina G ha una struttura *3 subunità (alfa, beta, gamma)*, debolmente vincolate allo strato fosfolipidico membranale da un *gruppo prenilico* appartenente alla subunità gamma. 
+
+
+La subunità alfa dispone di *3 siti di legame*: 
+
++ uno per il recettore a 7 segmenti transmembranari;
++ uno per il nucleotide guanilico (GTP o GDP);
++ uno per la molecola dell'adenilato ciclasi.
+
+Inoltre ha la facoltà di staccarsi dal complesso beta/gamma e di migrare, nella forma attivata, fino a raggiungere la molecola dell'AC ed agire su di essa.
+
+L'intero processo avviene in forma ciclica:
+
+1. **condizione di riposo:** il ligando non ha ancora raggiunto ed attivato il recettore a 7 domini transmembranari, la subunità alfa è ancora legata al complesso beta/gamma ed è inattivata (si trova nella forma G_alfa-GDP);
+2. **innesco dell'attivazione:** il ligando raggiunge il recettore causando la sostituzione GDP -> GTP. Il terzo gruppo fosfato del GTP provoca una variazione conformazionale della subunità alfa che coinvolge due amminoacidi "switch": una glicina e una treonina. Questo causa il distacco della subunità alfa-GTP dal complesso beta/gamma e rende la subunità alfa libera di migrare fino a raggiungere l'AC; questa, attivata, trasforma l'ATP in cAMP;
+3. **ritorno alla condizione di riposo:** il legame alfa-GTP con l'AC stimola l'azione GTPasica della subunità alfa, che fa passare alfa-GTP nella forma inattiva alfa-GDP (con liberazione di Pi). A questo punto alfa-GDP si distacca dall'AC, si lega nuovamente al complesso beta/gamma e ripristina la condizione di quiescenza.
+
+**IMMAGINE p147**
 
 Dopo che la subunità alfa ha attivato la proteina bersaglio si auto-disattiva idrolizzando il GTP.
 La subunità alfa si dissocia dalla proteina bersaglio e si ricombina col complesso beta-gamma, ricostituendo la proteina G inattiva.
 
-Capire bene: in questo ciclo non esiste un punto di partenza e di arrivo. Quanlsiasi situaizone non è altro che un momento che darà luogo ad un altro momento che alla fine sarà un momento che avevamo già incontrato.
+Capire bene: in questo ciclo non esiste un vero punto di partenza e di arrivo. 
 
 Il recettore attivato viene disattivato tramite:
 
 + fosforilazione da parte della chinasi del recettore legato a proteina G (GRK);
 + legame di una molecola arrestina;
-+ endocitosi del recettore
++ endocitosi del recettore.
 
 
-Una proteina con cui la proteina G attivata  interagisce è l'adenilato ciclasi, che ha molti passaggi transmembrana e ha le estremità terminali dalla parte citosolica. La proteina G è in grado di attivare l'adenilato ciclasi che produce cAMP (adenosin monofosfato ciclico).
+Il cAMP ha un'influenza notevole sull'attivazione delle cellule: induce le cellule a fare "cose in più" oltre al metabolismo basale.
 
-Il cAMP ha un'influenza notevole sull'attivazione delle cellule. Induce le cellule a fare cose in più oltre al metabolismo basale.
-La fosfodiesterasi degrada l'cAMP così che non raggiunga concentrazioni troppo elevate che porterebbero la cellula fuori dall'omeostasi.
+La **fosfodiesterasi** è l'enzima capace di degradare il cAMP così che non raggiunga concentrazioni troppo elevate che porterebbero la cellula fuori dall'omeostasi.
 
-Si chiama ciclo poiché l'unico fosfato forma un ponte con un idrossile del ribosio. Quindi si forma un anello dovuto al fosfato che ciclizza con l'idrossile. La fosfodiesterasi rompe questo anello. Una forma equivalente si trova in presenza di guanina invece che adenina.
+Viene detto *"ciclico"* poiché l'unico fosfato presente nel AMP forma un ponte con un idrossile del ribosio formando un anello dovuto al fosfato che ciclizza con l'idrossile. 
 
-La produzione di cAMP all'interno di una cellula dovuta a serotonina e mediata da proteina G.
+La fosfodiesterasi rompe questo anello. Una forma equivalente si trova in presenza di guanina invece che adenina.
 
-Com'è che l'cAMP attiva le cellule?
+La produzione di cAMP all'interno di una cellula è dovuta alla presenza di serotonina ed è mediata da proteina G.
+
+### Com'è che il cAMP attiva le cellule?
+
 Attiva la protein chinasi A (PKA). La chinasi forma un compleso con un'altra proteina, l'cAMP ciclico si attacca a quest'altra proteina staccandosi dalla chinasi che una volta libera può attivarsi.
 
 La PKA può attivare una cascata di fosforilazione.
