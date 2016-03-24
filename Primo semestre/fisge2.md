@@ -1,45 +1,222 @@
+Il potenziale di membrana è più vicino al potenziale di equilibrio degli ioni maggiormente permeabili.
 
-26.10.2015
-Il potenziale di membrana è più vicino al potenziale di equilibrio degli ioni maggiormente permeabili. Se varia la permeabilità di uno ione varierà il potenziale di membrana. Siccome il p di ec dello ione varia a seconda delle sue concentrazioni, se varia la concentrazione dello ione varia anche il potenziale di equilibrio dello ione. Le concentrazioni ioniche cellulari si mantengono perlopiù costanti e non influenzano il potenziale di membrana. Si può usare il fattore sperimentalmente. Per questi studi si possono indurre depolarizzazioni cellulari. Si può aumentare la concentrazione extracellulare del potassio. Per depolarizzazione si intende che il potenziale di membrana diminuisce in valore assoluto. Va verso lo zero partendo da valori negativi. Il modo più semplice per indurre depolarizzazione è aumentare la concentrazione esterna del potassio. Se si abbassa il pot di eq dello ione potassio si abbassa anche il potenziale di membrana. Se la conc esterna del potassio aumenta, il potenziale di membrana aumenta come valore numerico ma si depolarizza andando verso un potenziale nullo. 
-Il potenziale di membrana di una cellula è un potenziale di diffusione e non un potenziale di equilibrio. Fintanto che il potenziale è stabile le correnti sono globalmente nulle. Si ha un bilancio in pareggio tra le correnti in ingresso e quelle in uscita. Il potenziale si mantiene così costante nel tempo. Si prendono in considerazione correnti del sodio e del potassio, il cloro non ha affetto perché ha potenziale quasi identico a quello di membrana.  Le correnti di diffusione del cloro sono pressoché nulle. Le correnti di diffusione del potassio e del sodio non sono nulle perché hanno potenziale diverso da quello di membrana. Una corrente negativa indica una corrente in ingresso nella cellula, una positiva una in uscita. -135*g sodio e +12*g potassio. Una cellula deve trovarsi in una situazione in cui la corrente in ingresso è data quasi totalmente da ioni sodio mentre quella in uscita è data quasi totalmente da ioni potassio. La corrente del potassio deve essere uguale all’opposto della corrente del sodio (IK = -Ina). Si ottiene che il rapporto delle conduttanze vale circa 11. Ci fa capire che la permeabilità al potassio è poco più di 10 volte quella al sodio nella membrana. Lo ione sodio è sottoposto ad una forza maggiore del potassio. Una elevata forza elettromotrice muove gli ioni sodio. Sono esposti ad un forte campo elettrico, quelli potassio ad uno debole. La forte forza che agisce sugli ioni sodio va moltiplicata per una piccola conduttanza, viceversa quella piccola degli ioni potassio viene moltiplicata per una elevata conduttanza. Questi due prodotti forniscono la stessa corrente. Le correnti son in pareggio e garantiscono l’elettroneutralità ma gli ioni si muovono. Entrano ioni sodio ed escono ioni potassio. Questa è la condizione cellulare a riposo. Finchè le correnti sono costanti, ugiali e opposte come direzione si mantiene il potenziale di membrana. Le concentrazioni intracellulari di sodio e potassio non rimangono costanti a causa dei continui scambi. Si ha dissipamento del potenziale di diffusione perché le concentrazioni vanno ad avvicinarsi così come il ptenziale di equilibrio. La situazione è mantenuta da meccanismi che riportano gli ioni indietro. Questo sistema è la pompa sodio-potassio. 
-Pompa ioni sodio e potassio alla stessa velocità cui compiono il passaggio inverso ed impedisce che vengano dissipati quei differenziali. Mantiene la cellula in riposo con un potenziale di diffusione. Inizialmente non era ben chiaro come gli oni attraversassero la membrana. La membrana secondo l’equazione di goldman paret dal presupposto che la membrana sia un conduttore permeato da una corrente ionica in tutta la sua matrice fisica. In realtà gli ioni attraversano la membrana solo in punti precisi ossia pori realizzati in particolari proteine chiamate canali ionici. Sono proteine collocate nella membrana che sporgono da entrambi i lati.a lcuni canali ionici sono sempre aperti (canali del cloro e del potassio-ioni maggiormente permeabili) altri sono canali ionici gated che possono essere aperti e chiusi. Sono canali aperti e chiusi da operatori che possono essere di natura diversa. Si distinguono tre casi: canali operati da ligando che si comportano come i recettori. Uno molecola segnale interagisce con il canale e lo fa aprire. – canali operati da forza meccanica come stiramenti e estensioni applicati alla membrana cellulare. – canali operati da voltaggio e da potenziale di membrana che si aprono e si chiudono a seconda del potenziale di membrana in particolari momenti in cui questo effettua delle variazioni. Queste variazioni possono agire su canali ionici determinandone l’apertura.
-Canali del sodio voltaggio-dipendenti. Sono una sorta di tubo realizzato da tanti passaggi trasmembrana organizzati a moduli o domini costituiti da 6 passaggi transmembrana. In questi domini ci sono sporgenze extracellulari, motivi peptidici che sporgono, e che possono occludere in maniera efficace o non il poro centrale. Uno dei passaggi transmembrana di ciascun dominio è un sensore del voltaggio. È una porzione della molecola che è in grado di effettuare una modificazione conformazionale se cambia il poetnziale di membrana. È una porzione ricca di cariche che risentono dellla variaziano del pot di membr producendo un riorientamento della parte d molecola che chiude o riaprwe il poro. Il canale è chiuso o aperto a seconda del valore del potenziale di membrana. Il sodio entra quando è aperto. I canali si aprono quando la cellula si depolarizza passando da valori negativi a valori che vanno verso lo zero. 
-I canali del potassio sono un po’ più complessi e ene essistono di vari tipi. Ci sono tetrameri ossia canali costiutiti da 4 subunità con poro centrale. Canali di questo tipo sono voltaggio dipendenti o calcio dipendenti. I canali leak sono tipici della cellula a riposo, sono dimeri. I canali tetrameri con ciascun monomero più piccolo rispetto ai precedenti sono detti inward rectifier. Tutte queste situazioni realizzano un poro centrale che può essere chiuso o aperto. 
+Se varia la permeabilità di uno ione varierà il potenziale di membrana. 
+
+________________________________________________________________________________________________________________________________________________
+
+**(CONTROLLARE REGISTRAZIONE)**
+
+Siccome il p di ec **(chiedere Jess)** dello ione varia a seconda delle sue concentrazioni, se varia la concentrazione dello ione varia anche il potenziale di equilibrio dello ione.
+
+Le concentrazioni ioniche cellulari si mantengono perlopiù costanti e non influenzano il potenziale di membrana. 
+
+Si può usare il fattore sperimentalmente. Per questi studi si possono indurre depolarizzazioni cellulari. Si può aumentare la concentrazione extracellulare del potassio. 
+________________________________________________________________________________________________________________________________________________
+
+Con il termine **depolarizzazione** si indica una *diminuzione in valore assoluto* del potenziale di membrana (il valore si sposta verso lo 0 da valori negativi).
+Il modo più semplice per indurre una depolarizzazione è aumentare la concentrazione esterna del potassio. 
+Se si abbassa il potenziale di equilibrio dello ione potassio si abbassa anche il potenziale di membrana. 
+
+Se la concentrazione esterna del potassio aumenta, il potenziale di membrana aumenta come valore numerico ma si depolarizza andando verso un potenziale nullo.
+
+Il potenziale di membrana di una cellula è un potenziale di diffusione e non un potenziale di equilibrio. 
+
+Fintanto che il potenziale è stabile le correnti sono globalmente nulle, ovvero si ha un bilancio in pareggio tra le correnti in ingresso e quelle in uscita. 
+
+Le concentrazioni ioniche nei fluidi extracellulari e nel citosol cellulare si mantengono praticamente sempre costanti; questo fattore può essere usato sperimentalmente per studi sull'attività elettrica tra le cellule o nella cellula, inducendo depolarizzazione.
+
+Si prendono in considerazione correnti del sodio e del potassio, il cloro non ha affetto perché ha potenziale quasi identico a quello di membrana. 
+
+Le correnti di diffusione del cloro sono pressoché nulle, mentre le correnti di diffusione del potassio e del sodio non sono nulle perché hanno potenziale diverso da quello di membrana. 
+
+Una corrente negativa indica una corrente in ingresso nella cellula (Na$^+$), mentre una corrente positiva indica una corrente in uscita (K$^+$).
+
+Una cellula deve trovarsi in una situazione in cui la corrente in ingresso è data quasi totalmente da ioni sodio mentre quella in uscita è data quasi totalmente da ioni potassio. La corrente del potassio deve essere uguale all'opposto della corrente del sodio (I$_K$ = -I$_N$$_a$). 
+Si ottiene che il rapporto delle conduttanze vale circa 11. 
+Questo ci fa capire che la permeabilità al potassio è poco più di 10 volte quella al sodio nella membrana. 
+Lo ione sodio è sottoposto ad una forza maggiore del potassio. 
+Una elevata forza elettromotrice muove gli ioni sodio. 
+
+Gli ioni sodio sono esposti ad un forte campo elettrico, mentre quelli potassio ad uno debole. La forte forza che agisce sugli ioni sodio va moltiplicata per una piccola conduttanza (la **conduttanza** è l'*espressione quantitativa di un conduttore ad essere percorso da corrente elettrica*), viceversa quella piccola degli ioni potassio viene moltiplicata per una elevata conduttanza. 
+Questi due prodotti forniscono la stessa corrente. 
+
+Le correnti sono in pareggio e garantiscono l'elettroneutralità ma gli ioni si muovono. 
+
+Entrano ioni sodio ed escono ioni potassio. 
+
+Questa è la condizione cellulare a riposo. 
+
+Finchè le correnti sono costanti, uguali e opposte come direzione, si mantiene il potenziale di membrana. 
+
+Le concentrazioni intracellulari di sodio e potassio non rimangono costanti a causa dei continui scambi. 
+
+Si ha dissipamento del potenziale di diffusione perché le concentrazioni vanno ad avvicinarsi così come il potenziale di equilibrio. La situazione è mantenuta da meccanismi che riportano gli ioni indietro. 
+
+Questo sistema è la **pompa sodio-potassio** la quale pompa ioni sodio e potassio alla stessa velocità con cui compiono il passaggio inverso ed impedisce che vengano dissipati quei differenziali. 
+Questa pompa mantiene la cellula in riposo con un potenziale di diffusione. 
+Inizialmente non era ben chiaro come gli ioni attraversassero la membrana. 
+
+L'equazione di Goldman parte dal presupposto che la membrana sia un conduttore permeato da una corrente ionica in tutta la sua matrice fisica. In realtà gli ioni attraversano la membrana solo in punti precisi ossia pori realizzati in particolari proteine chiamate **canali ionici**. 
+
+I canali ionici sono formati da proteine collocate nella membrana che sporgono da entrambi i lati. Alcuni canali ionici sono sempre aperti (es. canali del cloro e del potassio, questi sono gli ioni maggiormente permeabili), altri sono canali **"gate"** che possono essere aperti e chiusi da operatori che possono essere di natura diversa. 
+
+Si distinguono tre casi: 
+
++ *canali operati da ligando* (si comportano come i recettori) in cui una molecola segnale interagisce con il canale e lo fa aprire;
++ *canali operati da forza meccanica* come stiramenti e estensioni applicate alla membrana cellulare;
++ *canali operati da voltaggio e da potenziale di membrana*, si aprono e si chiudono a seconda del potenziale di membrana in particolari momenti in cui questo effettua delle variazioni.
+
+I **canali del sodio voltaggio-dipendenti**. Possono essere pensati come una sorta di tubo realizzato da tanti passaggi trasmembrana organizzati a moduli (o domini) costituiti da 6 passaggi transmembrana. 
+
+In questi domini ci sono sporgenze extracellulari, motivi peptidici che sporgono, e che possono occludere in maniera efficace o non il poro centrale. 
+
+Uno dei passaggi transmembrana di ciascun dominio è un sensore del voltaggio. 
+Questa è una porzione della molecola in grado di effettuare una modificazione conformazionale se cambia il potenziale di membrana. È una porzione ricca di cariche che risentono della variaziano del potenziale di membrana producendo un riorientamento della parte della molecola che chiude o riapre il poro. 
+
+Il canale è chiuso o aperto a seconda del valore del potenziale di membrana. I canali si aprono quando la cellula si depolarizza passando da valori negativi a valori che vanno verso lo zero.
+
+I **canali del potassio** sono un po' più complessi e ne esistono di vari tipi. 
+
+Alcuni canali del potassio sono formati da *tetrameri* ossia canali costiutiti da 4 subunità che formano un poro centrale. 
+Canali di questo tipo sono voltaggio o calcio dipendenti. 
+
+I **canali leak** sono canali formati da dimeri e sono tipici della cellula a riposo. 
+
+I **canali del potassio rettificanti anomali (o inward rectifiers)** sono canali del potassio a 2 $/alpha$ -eliche transmembrana (2 STM) che permangono aperti in condizioni di iperpolarizzazione della membrana e si chiudono quanto questa si depolarizza. Sono tipici delle cellule muscolari cardiache, stabilizzano il potenziale quando la membrana è nello stato di riposo, ma quando uno stimolo sovrasoglia induce un potenziale d'azione, i canali si chiudono e permettono allo stimolo una durata maggiore.
+Fanno parte di questa famiglia i canali del potassio attivati da proteine G.
+
+In tutte queste situazioni so realizza un poro centrale che può essere chiuso o aperto. 
 
 La cellula riesce ad avere proprietà elettriche mantenendo allo stesso tempo un equilibrio osmotico.
-L’acqua puòinfiltrarsi attraverso lo strato lipidico ma la permeabilità dell’acqua può essere maggiore se in membrana ci sono le aquaporine 
-Manca pezzo
+L'acqua può infiltrarsi attraverso lo strato lipidico ma la permeabilità dell'acqua può essere maggiore se nella membrana si trovano le aquaporine.
+
+## Equilibrio di Donnan
+
+Frederick Donnan ha dimostrato che tra due soluzioni acquose separate da una membrana che sia *impermeabile ad uno solo dei soluti* si stabilisce un equilibrio garantito da una *differenza di potenziale* transmebranaria. 
+
+Una conseguenza dell'equilibrio di Donnan è che tra i due compartimenti si stabilisce una *differenza di pressione osmotica*, maggiore nel compartimento contenente lo ione non diffusibile.
+
+All'equilibrio la membrana assume potenziale di equilibrio. 
+
+Il prodotto degli ioni diffusibili ad un lato della membrana è uguale al prodotto degli ioni diffusibili dall'altro lato della stessa.
+
+All'equilibrio le soluzioni sono elettroneutre. 
+La somma delle cariche positive è uguale alla somma delle cariche negative.
+La somma delle concentrazioni delle sostanze diffusibili da una parte è maggiore di quella delle stesse dall'altra.
+Un settore è quello che sta dentro la cellula, mentre l'altro è quello che sta fuori. 
+
+Se si applica alla cellula il modello precedente, si ottiene un equilibrio con potenziale di membrana e una concentrazione osmotica intracellulare maggiore di quella del mezzo esterno. 
+In questo modo la cellula raggiunge l’equilibrio di Donnan e va in equilibrio elettrochimico, ma la non in equilibrio osmotico.
+Di conseguenza, per raggiungere una situazione di equilibrio osmotico, la cellula tenderebbe a rigonfiare, perdendo però l'equilibrio di Donnan.
+Questo modello porterebbe a lisi cellulare. 
+
+Abbiamo dunque una continua oscillazione fra i due equilibri.
+Introducendo il sodio (Na) extracellulare la cellula raggiunge l'equilibrio di Donnan. Così ci sono ioni non diffusibili intra e ioni non diffusibili extracellulari. Si parla di doppio equilibrio di Donnan.
+Ci sono cariche diffusibili e non.
+
+L'aggiunta di Na rappresenta un controbilanciamento degli anioni intracellulari non diffusibili. Il doppio equilibrio non è ancora la situazione reale della cellula perché non prende in considerazione il fatto che si tratta di un *potenziale di diffusione* (visti i continui spostamenti).
+
+Si parla di modello **"pump and leak"**. Questo è il modello fisiologico della cellula vicino a quello di Donnan ed è un potenziale di diffusione mediato da movimenti ionici attivi dovuti alla pompa Na-K e mediato da correnti.
+
+Essendo gli ioni diversamente permeabili esiste una separazione di cariche strettamente prossima alla membrana. L'interno presenta una maggiore quantità di cariche negative mentre l'esterno presenta una maggiore quantità di cariche positive.
+
+### Regolazione del volume cellulare
+
+Le cellule regolano il volume cellulare grazie a trasportatori di vario tipo.
+Se il mezzo è ipotonico aumentano il volume rigonfiando, mentre se il mezzo è ipertonico raggrinziscono.
+
+Dopo una prima fase di aggiustamento isosmotico tornano al volume iniziale. 
+
+Questo è un fenomeno fondamentale: la cellula risponde alla variazione osmotica mettendo in atto degli accorgimenti che le permettono di tornare al volume iniziale.
+
+Questi accorgimenti vengono chiamati **RVD** (Regulatory Volume Decrease), è un fenomeno che segue all'esposizione della cellula ad una soluzione ipotonica,  e **RVI** (Regulatory Volume Increase), è un fenomeno che segue all'esposizione della cellula ad una soluzione ipertonica.
+
+Con l'RVD la cellula espelle osmoliti e perde acqua riducendo il proprio volume (sfrutta la permeabilità ai canali potassio e cloro, gli ioni più permeabili).
+L'RVI invece, porta all'acquisizione di osmoliti per acquisire acqua tramite l'aumento della permeabilità al sodio (facendoli entrare all'interno della cellula), ma anche altri ioni per mezzo di cotrasportatori sodio-dipendenti.
+
+Gli ioni entrano e la pompa sodio-potassio porta fuori Na$^+$ e dentro K$^+$ per mantenere l'equilibrio.
+Nei trasportatori transepiteliali le cellule lavorano sul lato basolaterale in RVD, sul lato apicale con RVI sfruttando il movimento di ioni da un lato all'altro dell'epitelio.
+
+Nell'elettrofisiologia si tende a considerare una cellula come un circuito elettrico. Si considerano potenziale, corrente e conduttanza insieme alla capacità. 
+La **capacità** è una caratteristica che impegna cariche in alternativa alla resistenza, ed è una caratteristica della membrana. 
+
+La membrana è assimilabile ad un *conduttore con una* **resistenza** ma anche ad un condensatore con una capacità. 
+Il condensatore accumula cariche su una superficie, proprio come è in grado di fare la membrana cellulare. 
+Queste cariche non generano corrente ma sono "catturate" dalla membrana. 
+
+La **resistenza** è la matrice attraverso cui passano le cariche che generano corrente (sono i canali ionici della cellula). 
+
+Le proprietà elettriche delle cellule sono studiate in elettrofisiologia. 
+L’elettrofisiologia stimola le cellule elettricamente, effettua delle misurazioni e ne ricava dei dati sulle proprietà elettriche delle cellule. 
+
+Le modalità operative utilizzate sono due:
+
++ **current clamp**, significa *"a corrente bloccata"*. In questo caso si lavora con cellule vive (in genere con buone correnti come i neuroni e le cellule muscolari) normalmente isolate, mantenute in coltura e montate su un vetrino in una camera posta su un microscopio collegato a *micromanipolatori*. All'interno delle cellule in esame si inseriscono degli elettrodi (tubicini di vetro pieni di una soluzione che conduce elettricità), e la cellula viene posta in un circuito. L'elettrodo presenta una punta inserita nella cellula e una punta inserita nel bagno di perfusione che contiene la cellula. Al momento dell'immersione dell'elettrodo nel bagno contenente le cellule, vengono inviati dei gradini rettangolari di potenziale, di solito di 5 mV di ampiezza e qualche ms di durata.
+Per misurare il potenziale si utilizza un voltmetro che misura potenziali dell'ordine dei millivolt.
+
+In questa modalità di lavoro si applicano alle cellule correnti di intensità note che vengono attivati istantaneamente e disattivati istantaneamente (rettangolari). La durata degli impulsi è dell’ordine dei millisecondi altrimenti la membrana cellulare si rovinerebbe. L’applicazione della corrente produce una registrazione di potenziale. Se cambiano le correnti che passano attraverso la membrana cambia anche il potenziale. Questo esperimento consente di misurare resistenza e capacità. 
+
+Il potenziale di membrana in ogni istante del processo è uguale al potenziale **(???)**
+
+(immagine p191)
+
+V$_m$ = V$_0$ + (V$_f$-V$_0$) e^(t/Rm + m)
+
+(immagine1)
 
 
-26.10.2015 B
-Nell’elettrofisiologia si tende a considerare una cellula come un circuito elettrico. Si considerano potenziale corrente e conduttanza insieme alla capacità. La capacità è una caratteristica che impegna cariche in alternativa alla resistenza. La capacità è una caratteristica della membrana. La membrana è assimilabile ad un conduttore con una resistenza ma anche ad un condensatore con una capacità. Il condensatore accumula cariche su una superficie. La membrana cellulare è in grado di accumulare cariche sulla superficie. Le cariche non generano corrente ma sono catturate dalla membrana. La resistenza è la matrice attraverso cui passano le cariche che generano corrente (sono i canali ionici della cellula). Le proprietà elettriche delle cellule sono studiate in elettrofisiologia. L’elettrofisiologia stimola le cellule elettricamente, effettua delle misurazioni e ne ricava dei dati sulle proprietà elettriche delle cellule. Le modalità operative utilizzate sono due: current clamp meno usata oggi ma molto usata all’inizio. Significa a corrente bloccata. In questo caso si lavora con cellule vive (in genere con buone correnti come i neuroni e le cellule muscolari)normalmente isolate mantenute in coltura e montate su un vetrino in una camera posta sul microscopio che è collegato a micromanipolatori. Si infilano elettrodi (tubicini di vetro pieni di una soluzione che conduce elettricità) all’interno della cellula, la quale viene posta in un circuito. Uno strumento genera impulsi di corrente. Un elettrodo entra nella cellula e un altro elettrodo è immerso nel bagno. Un altro strumento misura il potenziale. È un voltmetro che misura potenziali di ordine millivolt. 
-In questa modalità di lavoro si applicano alle cellule correnti di intensità note che vengono attivati istantaneamente e disattivati istantaneamente (rettangolari). La durata degli impulsi è dell’ordine dei millisecondi altrimenti la membrana cellulare si rovinerebbe. L’applicazione della corrente produce una registrazione di potenziale. Se cambiano le correnti che passano attraverso la membrana cambia anche il potenziale. Consentono di misurare resistenza e capacità. Il potenziale di membrana in ogni istante del processo è uguale al potenziale iniziale … vedi quad. con stella. La RESISTENZA SPECIFICA è MOLTO ELEvata rispetto a quelle dei componenti elettrici degli elettrodomestici mentre la capacità è molto bassa.
-La resistenza della membrana non è costante. Quando gli sperimentatori hanno cercato di assimilare la membrana cellulare ad un circuito elettrico speravano fosse comodo applicare le leggi della fisica che regolano l’andamento dei parametri elettrici in un circuito elettrico. Interessante è la relazione tra intensità di corrente, potenziale, resistenza o conduttanza. La legge di ohm mette in relazione potenziale e conduttanza. In maniera grafica è rappresentata da una retta di equazione I = gV e I = 1/R * V.
-Su una stessa cellula è possibile applicare correnti sempre più forti e registrare i potenziali conseguenti. Se la cellula si comporta come un conduttore ohmico ci deve essere una relazione lineare tra corrente applicata e potenziale registrato. 
-Metto poi in relazione facendo il grafico i valori corrente e il potenziale registrato. Verifico se portano ad una relazione lineare. La linearità ci dice che la conduttanza è costante. Si accorgono sperimentalmente che ciò nella realtà non si verifica. Infatti man mano che la membrana si depolarizza la sua conduttanza aumenta. La conduttanza della membrana, man mano che il potenziale aumenta e la cellula si depolarizza, aumenta. La conduttanza aumenta con la depolarizzazione. Vedi schema. Si è capito il perché studiando l’attività dei canali. È stato necessario adottare un’altra modalità di lavoro che è il voltage clamp. Voltaggio a potenziale bloccato. In quello precedente si lavora a corrente bloccata. Qui si misura la corrente tenendo fermo il potenziale (l’opposto). 
-L’attività dei canali risponde alla variazione di potenziale. Man mano che la cellula si depolarizza ci sono canali ionici che si aprono rispondendo alla variazione. L’apertura dei canali porta ad un aumento della conduttanza perché si aprono nuove vie alla corrente ionica. La cellula non è un conduttore ohmico. Nella cellula minime perturbazioni di corrente portano ad ampie variazioni resistenza e conduttanza. Un dispositivo inietta corrente così che il potenziale venga mantenuto a un certo potenziale di comando. 
-La corrente è tale per cui rimanga il potenziale sempre uguale al potenziale di comando. La corrente applicata va in parte a caricare il condensatore e in parte a fluire dentro la resistenza. Si può creare un tracciato di corrente per vedere entrambe le componenti, sia quella capacitiva sia quella resistiva. Quando si applica il potenziale la corrente schizza subito ad un livello molto alto per poi abbassarsi ed equilibrarsi. La prima è la corrente capacitiva. Sono una quota di cariche che vanno a caricare il condensatore. La funzione resistiva si sviluppa nel tempo fino ad assumere un valore massimo e costante. La relazione tra le componenti non è lineare. 
-Man mano che si accumulavano dati sul ruolo dei vari ioni è diventato importante studiare l’attività dei singoli canali specifici per detrminati ioni.
-Una tecnica per selezionare i canali è chiamata patch clamp. Strappa frammenti di membrana facendoli aderire alla punta di un elettrodo. Si utilizzano elettrodi con punte più larghe che succhiano pezzi di membrana strappandola via. L’elettrodo non viene inserito a perforare la membrana. L’adesione della membrana all’elettrodo deve essere perfetta per impedire fughe di correnti che non vengono registrate. La corrente che entra nell’elettrodo deve passare attraverso la membrana e se l’adesione dell’elettrodo non è perfetta l’esperimento non è valido. Si parla di seal come esperimento. Con un buon seal si registrano solo che correnti che passano attraverso l’elettrodo considerando solo i canali che si trovano in prossimità della superficie dell’elettrodo. Si registrano anche correnti di singolo canale (picoampère) le correnti ci danno anche la visualizzazione di come funziona un canale e l’idea di canale chiuso e aperto. Un canale è un sistema che funziona come un tutto o un nulla. Se aperto passa corrente, se chiuso non passa. Se il canale è inattivo non passa corrente anche se in realtà abbiamo brevi momenti di apertura del canale che causa correnti di alcuni picoampère. Se il canale è attivato da voltaggio prevalgono i momenti di passaggio di corrente e a quelli di assenza di corrente. A corrente è anche più forte. 
-Per studiare un canale alcuni fan no esprimere il gene di quel canale (che è una proteina o più proteine) in un modello cellulare opportuno tra cellule che esprimono pochi canali come oociti di rana o rospo (poche correnti basse e dimensioni grandi che si ottengono facilmente e sono facilmente manipolabili) altre cellule sono le HEK (cellule di rene di embrione umano che esprimono poche correnti e sono facilmente transfettabili e quindi è facile fargli esprimere un gene alieno). La cellula esprime il DNA del gene per il canale e nelle cellule che esprimono queste canale effettuare misure di patch clamp. Saranno prevalenti i canali indotti tramite manipolazione genetica e si può registrare l’attività di questi canali.  In questo modo si possono caratterizzare le attività dei canali ionici. Queste si caratterizzano realizzando due tipi di dati (dato di corrente e relazione tra corrente e potenziale). Si usa il grafico I-V oppure le tracce di corrente. 
+Non si ha una relazione lineare, la curva è la reazione effettiva. 
 
+Con correnti crescenti si hanno potenziali più depolarizzati.
 
+La resistenza specifica è molto elevata rispetto a quella dei componenti elettrici degli elettrodomestici mentre la capacità è molto bassa.
 
+La resistenza della membrana non è costante. Quando gli sperimentatori hanno cercato di assimilare la membrana cellulare ad un circuito elettrico speravano fosse comodo applicare le leggi della fisica che regolano l'andamento dei parametri elettrici in un circuito elettrico. 
 
+Interessante è la relazione tra intensità di corrente, potenziale, resistenza o conduttanza. 
+La legge di Ohm mette in relazione potenziale e conduttanza. 
 
+In maniera grafica è rappresentata da una retta di equazione I = gV e I = 1/R * V.
 
+Su una stessa cellula è possibile applicare correnti sempre più forti e registrare i potenziali conseguenti. 
+Se la cellula si comporta come un conduttore ohmico ci deve essere una relazione lineare tra corrente applicata e potenziale registrato.
 
+Metto poi in relazione facendo il grafico con i valori di corrente e il potenziale registrato per ognuno di essi. 
+Verifico se portano ad una relazione lineare. La linearità ci dice che la conduttanza è costante. 
 
+Gli sperimentatori si accorsero che ciò nella realtà non si verifica.
+Infatti la conduttanza della membrana, man mano che il potenziale aumenta e la cellula si depolarizza, aumenta.
 
+La conduttanza aumenta con la depolarizzazione. Vedi schema.
+Si è capito il perché studiando l'attività dei canali.
 
+Per fare questo è stato necessario adottare un'altra modalità di lavoro che è il **voltage clamp** (letteralmente "blocco del voltaggio").
+Questa metodica sperimentale è atta a *separare la componente resistiva e capacitiva* e a misuratre nello specifico solo quella resistiva al variare del potenziale di membrana.
 
+Per fare questo viene utilizzato un **amplificatore differenziale**. Questo è uno strumento che riceve ai suoi ingressi (+ e -) due segnali di potenziale elettrico, che moltiplica per un fattore arbitrario; esso restituisce quindi in uscita un segnale di potenziale che è il risultato della sottrazione (o comunque combinazione lineare) dei segnali in ingresso. Il potenziale in uscita può poi essere trasformato in un segnale di corrente tramite un convertitore voltaggio-corrente.
 
+Un microelettrodo inserito in una cellula ne "legge" il potenziale di membrava **V$_m$** (rispetto a un elettrodo di riferimento posto nella camera portacampione) e lo invia a uno degli ingressi dell'amplificatore differenziale. Lo sperimentatore invia quindi all'altro ingresso un valore di potenziale elettrico **V$_c$$_l$** (*potenziale di clamp o di comando*) che vuole imporre alla membrana. L'amplificatore opera il confronto tra i due segnali ed eroga una corrente di segno e ampiezza tali da minimizzare la differenza tra V$_m$ e V$_c$$_l$.
+Il tutto funziona con la logica di un feedback negativo e la corrente iniettata dall'amplificatore è pertanto detta *corrente di feedbacK*.
 
+Nel metodo del current clamp si lavora a corrente bloccata, mentre in quello di voltage clamp si misura la corrente tenendo fermo il potenziale (l'opposto). 
 
+L'attività dei canali risponde alla variazione di potenziale, perciò man mano che la cellula si depolarizza ci sono canali ionici che si aprono in risposta alla variazione. L'apertura dei canali porta ad un aumento della conduttanza perché si aprono nuove vie alla corrente ionica. 
 
+La cellula *non* è un conduttore ohmico; nella cellula minime perturbazioni di corrente portano ad ampie variazioni di resistenza e conduttanza. 
 
+Nel voltage clamp si può creare un tracciato di corrente per vedere sia la componente capacitiva che quella resistiva.
+Quando viene applicato il potenziale la corrente schizza subito ad un livello molto alto per poi abbassarsi ed equilibrarsi. 
+La prima è la corrente capacitiva. Sono una quota di cariche che vanno a caricare il condensatore. La funzione resistiva si sviluppa nel tempo fino ad assumere un valore massimo e costante. La relazione tra le componenti non è lineare.
 
+Man mano che si accumulavano dati sul ruolo dei vari ioni è diventato importante studiare l'attività dei singoli canali specifici per determinati ioni.
+Una tecnica per selezionare i canali è chiamata **patch clamp**. Strappa frammenti di membrana facendoli aderire alla punta di un elettrodo. Si utilizzano elettrodi con punte più larghe che succhiano pezzi di membrana strappandola via. L'elettrodo non viene inserito a perforare la membrana. L'adesione della membrana all'elettrodo deve essere perfetta per impedire fughe di correnti che non vengono registrate. 
+La corrente che entra nell'elettrodo deve passare attraverso la membrana e se l'adesione dell'elettrodo non è perfetta l'esperimento non è valido. Si parla di **seal** come esperimento. Con un buon seal si registra solo che correnti passano attraverso l’elettrodo considerando solo i canali che si trovano in prossimità della superficie dell'elettrodo. Si registrano anche correnti di singolo canale (picoampère). 
 
+Le correnti ci danno anche la visualizzazione di come funziona un canale e l'idea di canale chiuso e aperto. Un canale è un sistema che funziona come un tutto o un nulla: se aperto passa corrente, se chiuso non passa. 
+Se il canale è inattivo non passa corrente anche se in realtà abbiamo brevi momenti di apertura del canale che causa correnti di alcuni picoampère.
+Se il canale è attivato da voltaggio prevalgono i momenti di passaggio di corrente a quelli di assenza di corrente. 
+La corrente è anche più forte. 
+Per studiare un canale alcuni fanno esprimere il gene di quel canale (che è una proteina o più proteine) in un modello cellulare opportuno tra cellule che esprimono pochi canali come oociti di rana o rospo (poche correnti basse e dimensioni grandi che si ottengono facilmente e sono facilmente manipolabili) altre cellule sono le HEK (cellule di rene di embrione umano che esprimono poche correnti e sono facilmente transfettabili e quindi è facile fargli esprimere un gene alieno). La cellula esprime il DNA del gene per il canale e nelle cellule che esprimono queste canale effettuare misure di patch clamp. Saranno prevalenti i canali indotti tramite manipolazione genetica e si può registrare l'attività di questi canali. In questo modo si possono caratterizzare le attività dei canali ionici. Queste si caratterizzano realizzando due tipi di dati (dato di corrente e relazione tra corrente e potenziale). Si usa il grafico I-V oppure le tracce di corrente. 
 
 
 
