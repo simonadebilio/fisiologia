@@ -1,10 +1,10 @@
 # Fisiologia generale
 
 Che cos'è la fisiologia?
-E' una disciplina che studia il funzionamento degli esseri viventi e consiste nella definizione meccanicistica di ciò che accade nell'organismo di ogni persona.
+È una disciplina che studia il funzionamento degli esseri viventi e consiste nella definizione meccanicistica di ciò che accade nell'organismo di ogni persona.
 Questa disciplina ti fa capire che non sei quel che pensi di essere.
 
-La materia vivente e' principalmente composta di: H, O, C, N. La composizione chimica della materia vivente è molto piu' simile a quella dell'universo e delle stelle, piuttosto che a quella della terra e della crosta terrestre.
+La materia vivente è principalmente composta di: H, O, C, N. La composizione chimica della materia vivente è molto piu' simile a quella dell'universo e delle stelle, piuttosto che a quella della terra e della crosta terrestre.
 
 Tra la fine del '700 e l'inizio del '800, dopo la diffusione del microscopio, ci si rese conto che gli esseri viventi sono organizzati in cellule.
 La materia vivente ha una sua unitarietà molto solida, ovvero tutte le cellule contengono all'incirca gli stessi organelli e nelle stesse quantità.
@@ -15,14 +15,14 @@ L'acqua è sempre la sostanza più abbondante all'interno della cellula e le pro
 L'acqua non è un inerte riempitivo delle strutture organiche, ma le sue molecole sono molto reattive.
 Le fondamentali caratteristiche dell'acqua sono:
 
-+ possiede una *capacità solvente* molto elevata;
++ possiede una capacità solvente* molto elevata;
 + ha un'elevata *capacità termica* ed un *elevato calore latente di evaporazione*;
 + presenta un'*elevata tensione superficiale* che facilita i fenomeni di capillarità;
 + promuove la formaizone di *legami idrofobici* tra le molecole non idrosolubili che vi si trovano immerse.
 
 Tutte queste proprietà sono presenti quando l'acqua, alla pressione atmosferica, si trova allo stato liquido.
 
-Nell'H$_2$O, un atomo di O e due atomi di H sono legati da legami covalenti polari, ovvero: la densità della carica elettrica nell'intorno dei tre nuclei atomici non è uniforme poichè l'atomo di O contiene un numero maggiore di protoni di quello dei due H, per cui esso attrae gli elettroni di legame più fortemente. Questo fa sì che la molecola di H2O, sebbene sia neutra, presenti una distribuzione asimmetrica delle cariche comportandosi come un *dipolo* che tende ad orientarsi quando si trova in un campo elettrico.
+Nell'H$_2$O, un atomo di O e due atomi di H sono legati da legami covalenti polari, ovvero: la densità della carica elettrica nell'intorno dei tre nuclei atomici non è uniforme poichè l'atomo di O contiene un numero maggiore di protoni di quello dei due H, per cui esso attrae gli elettroni di legame più fortemente. Questo fa sì che la molecola di H$_2$O, sebbene sia neutra, presenti una distribuzione asimmetrica delle cariche comportandosi come un *dipolo* che tende ad orientarsi quando si trova in un campo elettrico.
 
 Questa proprietà conferisce all'acqua la capacità di funzionare da *solvente* soprattutto per quei composti che nell'acqua si dissociano in ioni (*elettroliti*).
 
@@ -33,7 +33,7 @@ L'acqua è un ottimo solvengte non solo per gli elettroliti, ma anche per un'amp
 
 L'acqua è invece un pessimo solvente per quei composti organici (es. oli) le cui molecole sono *non polari* e che perciò non attraggono in alcun modo i dipoli idrici. Queste molecole sono insolubili in acqua e perciò dette **idrofobiche**.
 
-E' poi possibile trovare composti organici le cui molecole possiedono, disposti in regioni diverse, sia gruppi chimici dissociabili o polari che gruppi apolari. Questi gruppi vengono detti **anfipatici**.
+È poi possibile trovare composti organici le cui molecole possiedono, disposti in regioni diverse, sia gruppi chimici dissociabili o polari che gruppi apolari. Questi gruppi vengono detti **anfipatici**.
 Un esempio di composto anfipatico sono i *saponi*: se posti in acqua costituiscono delle particelle submicroscopiche sferiche dette *micelle*. Nelle micelle le molecole anfipatiche sono disposte ordinatamente in modo radiale con le code idrofobiche dirette verso il centro della micelle e le teste idrofiliche verso l'esterno. 
 Un conmportamento analogo a quello dei saponi è presentato dai fosfolipidi.
 
@@ -77,7 +77,7 @@ Il numero degli agenti biologici funzionali presenti in una cellula è finito. Q
 L'importanza dell'omeostasi, ovvero la capacità degli esseri viventi di mantenere costanti i parametri del loro ambiente corporeo, non deve far pensare che l'ampio spettro delle funzioni vitali non sia in grado di subire delle piccole variazioni: l'omeostasi varia dunque sul lungo termine (bisogna tenere conto anche dell'invecchiamento dell'organismo).
 Gli organismi viventi si modificano in funzione delle informazioni che ricevono dall'ambiente in cui vivono e queste modificazioni possono persistere nel tempo. 
 Questa proprietà prende il nome di *plasticità* e consiste nella capacità di **adattamento** degli organismi: l'organismo può variare il proprio stato funzionale passando da un iniziale stato di omeostasi ad un nuovo punto di equilibrio. 
-Un esempio è la preparazione atletica: l'organismo  che viene sottoposto ad esercizio fisico subisce uno stress e reagisce allo stress con un rinforzo che può progredire mediante adattamento progressivo. Durante il processo di adattamento avvengono fisicamente delle trasformazioni nell'organismo che rappresentano il raggiungimento progressivo di nuovi punti di omeostasi.
+Un esempio è la preparazione atletica: l'organismo che viene sottoposto ad esercizio fisico subisce uno stress e reagisce allo stress con un rinforzo che può progredire mediante adattamento progressivo. Durante il processo di adattamento avvengono fisicamente delle trasformazioni nell'organismo che rappresentano il raggiungimento progressivo di nuovi punti di omeostasi.
 
 Lo schema degli agenti biologici funzionali è dunque plastico: non perde mai le proprie caratteristiche di base, ma può essere modulato in risposta a sollecitazioni. Questi cicli possono avere dei punti di rottura, se eccessivamente sollecitati, che possono essere più o meno mortali.
 
@@ -159,7 +159,7 @@ Questro dinamismo fa sì che nelle sostanze in cui le molecole hanno la possibil
 Quando c'è una diffusione non omogenea si parla di *gradiente*.
 
 Se le molecole non sono distribuite uniformemente sui due lati di una membrana le loro diverse concentrazioni formano un gradiente, ovvero una forma di energia potenziale.
-L'energia libera della soluzione viene definita con: $/Delta$G= RT ln[S]
+L'energia libera della soluzione viene definita con: $\Delta$G= RT ln[S]
 
 Dove:
 
@@ -167,15 +167,18 @@ Dove:
 + T è la temperatura in Kelvin;
 + S è la concentrazione ed è espressa in moli.
 
-L'energia del gradiente, invece, viene definita con: $/Delta$G = energia esterna – energia interna
+L'energia del gradiente, invece, viene definita con: 
+
+$\Delta$G = energia esterna – energia interna
 
 ovvero
 
-$/Delta$G= RT ln[S]o – RT ln[S]i = RT ln[S]o/RT ln[S]i
+$\Delta$G= RT ln[S]o – RT ln[S]i = RT ln[S]o/RT ln[S]i
 
 Questa viene detta legge di Van't Hoff.
 
 In una soluzione acquosa si possono avere 3 modalità di flusso che si differenziano per la natura della driving force che determina il moto:
+
 + flusso di massa in cui la driving force è generata da una differenza di pressione idraulica;
 + la **diffusione**, generata da una differenza di concentrazione delle particelle;
 + la migrazione in campo elettrico di particelle elettricamente cariche (ioni), in cui la driving force è generata da una differenza di potenziale elettrico.
@@ -194,13 +197,13 @@ Se consideriamo due ambienti 1 e 2 separati da una sezione ideale S, ci attendia
 
 Questo può essere espresso tramite l'**equazione di Fick** o *legge di diffusione*: 
 
-**Fd=D$/Delta$ (C1-C2)**
+**Fd=D$\Delta$ (C1-C2)**
 
 (Fd sta per flusso diffusionale netto)
 
 Dove **D** è il *coefficiente di diffusione* (dipende dalla natura dei partecipanti al processo e dalla temperatura) e **A** è l'*area della sezione interessata al processo diffusivo*.
 
-Se consideriamo due compartimenti 1 e 2 separai da una parete con pori di lunghezza *delta* per una superficie totale *F* e differenza di concentrazione del soluto $/delta$C= C$_1$-C$_2$, il soluto diffonde da 1 verso 2.
+Se consideriamo due compartimenti 1 e 2 separai da una parete con pori di lunghezza *delta* per una superficie totale *F* e differenza di concentrazione del soluto $\delta$C= C$_1$-C$_2$, il soluto diffonde da 1 verso 2.
 
 Il tasso di diffusione è dunque *direttamente proporzionale* alla differenza di concentrazione, alla temperatura e alla superficie di scambio, mentre è *inversamente proporzionale* alla distanza, alle dimensioni delle molecole e alla viscosità del solvente.
 
@@ -210,10 +213,10 @@ Questa equazione è valida nel caso di una membrana ideale. Supponiamo ora che i
 
 Il coefficiente di permeabilità di una data sostanza in una membrana omogenea comprende tutti i fattori che ne condizionano il passaggio:
 
-**P$_i$ = $/beta$$_i$ (D$_m$ - $/Delta$x)**
+**P$_i$ = $\beta$$_i$ (D$_m$ - $\Delta$x)**
 
-dove **D$_m$** è il *coefficiente di diffusione della sostanza* nel materiale costitutivo della membrana e **$/Delta$x** lo *spessore della membrana*.
-**$/beta$$_i$** invece, esprime *la capacità della sostanza di passare da uno spazio acquoso ad uno lipidico*, ovvero di potersi disciogliere nel materiale che costituisce la membrana.
+dove **D$_m$** è il *coefficiente di diffusione della sostanza* nel materiale costitutivo della membrana e **$\Delta$x** lo *spessore della membrana*.
+**$\beta$$_i$** invece, esprime *la capacità della sostanza di passare da uno spazio acquoso ad uno lipidico*, ovvero di potersi disciogliere nel materiale che costituisce la membrana.
 
 Il coefficiente di permeabilità **P$_i$** esprime la *velocità con cui una sostanza può attraversare la membrana*.
 
@@ -225,10 +228,10 @@ Se il coefficiente di permeabilità invece è 1, la velocità di diffusione dipe
 Nella membrana cellulare ci sono delle proteine che creano dei pori che permettono il passaggio di sostanze che altrimenti non passerebbero.
 
 La diffusione facilitata è sempre un processo spontaneo che non richiede l'aggiunta di energia, ma che richiede la presenza di elementi aggiuntivi nella membrana (proteine).
-La cinetica di trasporto  è diversa rispetto a quella della diffusione semplice: nella *diff. semplice* la velocità di diffusione è in relazione lineare con il gradiente di concentrazione della molecola che diffonde, mentre nella *diff. facilitata* la velocità di diffusione dipende dalla disponibilità delle molecole che aiutano la diffusione. Quando queste molecole sono sature l'aumento della concentrazione della molecola che diffonde non incrementa ulteriormente il tasso di diffusione.
+La cinetica di trasporto è diversa rispetto a quella della diffusione semplice: nella *diff. semplice* la velocità di diffusione è in relazione lineare con il gradiente di concentrazione della molecola che diffonde, mentre nella *diff. facilitata* la velocità di diffusione dipende dalla disponibilità delle molecole che aiutano la diffusione. Quando queste molecole sono sature l'aumento della concentrazione della molecola che diffonde non incrementa ulteriormente il tasso di diffusione.
 Questo significa che avrò per un po' una crescita lineare e poi arriverò ad un plateau oltre il quale l'aumento del soluto che diffonde non servirà più per aumentare la velocità di diffusione.
 
-## OSMOSI
+## L'osmosi
 
 Quando due soluzioni diversamente concentrate vengono in contatto, non si osserva solo la diffusione delle molecole del soluto dalla soluzione più concentrata verso quella meno concentrata, ma anche la diffusione delle molecole d'acqua nella *direzione opposta*.
 
@@ -242,7 +245,7 @@ L'acqua tenderà a passare dalla zona meno concentrata a quella più concentrata
 
 la relazione quantitativa tra la differenza di pressione osmotica (delta pigreco) è data dalla **legge di van't Hoff**:
 
-**$/Delta$ $/pi$ = RT (C$_1$-C$_2$)**
+**$\Delta$ $\pi$ = RT (C$_1$-C$_2$)**
 
 Una delle conseguenze della legge di van't Hoff della pressione osmotica è che **NON** dipende dalla natura delle particelle di soluto, ma solo dal loro numero per unità di volume.
 
@@ -406,7 +409,7 @@ Ne esistono 4 isoforme.
 
 Questa proteina movimenta gli ioni sulla membrana del reticolo endoplasmatico, mentre le altre due viste movimentano gli ioni sulla membrana plasmatica.
 
-### Cotrasporto 3Na$^+#/2Ca$^2$$^+$
+### Cotrasporto 3Na$^+$/2Ca$^2$$^+$
 
 Questo è un antiporto.
 
@@ -490,7 +493,7 @@ Il **ligando** consiste nella la molecola segnale (ormone, feromone, ione, neuro
 
 Esistono metodi raffinati (es. HPLC cromatogragfia liquida ad alta prestazione) con i quali si è possibile individuare queste molecole quando presenti nel sangue; tramite questi metodi è stato osservato che la maggior parte di queste molecole, quando stanno agendo, sono a concentrazioni di 10^-9/-10 molare.
 
-Per definire l'affinità del recettore per una molecola possiamo fare un grafico dove l'**asse y** indica la **percentuale di molecole recettore legate** e l'**asse x** indica la **concentrazione del ligando nel sangue**. E' possibile stimolare la cellula bersaglio con una concentrazione crescente di molecole segnale e valutare quante molecole vengono legate dai recettori. Il grafico mostrerà una crescita inizialmente esponenziale e poi evidenzierà un valore di plateau che indica che tutti i recettori sono stati legati.
+Per definire l'affinità del recettore per una molecola possiamo fare un grafico dove l'**asse y** indica la **percentuale di molecole recettore legate** e l'**asse x** indica la **concentrazione del ligando nel sangue**. È possibile stimolare la cellula bersaglio con una concentrazione crescente di molecole segnale e valutare quante molecole vengono legate dai recettori. Il grafico mostrerà una crescita inizialmente esponenziale e poi evidenzierà un valore di plateau che indica che tutti i recettori sono stati legati.
 
 Le cellule spesso hanno una frazione di *recettori “di riserva”*, così che la concentrazione del ligando che fornisce la massima risposta è minore della concentrazione del ligando che saturerebbe i recettori.
 
@@ -620,7 +623,7 @@ Le proteine G sono formate da 7 segmenti transmembranari dei recettori "serpenti
 L'estremità N-terminale della catena polipeptidic si sviluppa nell'ambiente extracellulare e contiene, oltre a diversi siti di possibile glicosilazione, il *dominio recettoriale* contenente i *siti di legame* per il ligando. 
 L'estremità C-terminale si estende nel citosol e contiene diversi *siti regolatori*.
 
-Recettori di questo tipo sono ad esempio i recettori $/beta$ dell'adrenalina.
+Recettori di questo tipo sono ad esempio i recettori $\beta$ dell'adrenalina.
 
 **IMMAGINE p137 (5-7)**
 
@@ -744,7 +747,7 @@ La produzione di cAMP all'interno di una cellula è dovuta alla presenza di sero
 Attiva la protein chinasi A (PKA). La chinasi forma un compleso con un'altra proteina, l'AMP ciclico si attacca a quest'altra proteina staccandosi dalla chinasi che una volta libera può attivarsi.
 
 La PKA può attivare una cascata di fosforilazione.
-Es. adrenalina. Si attacca al recettore beta-adrenergico che lega una proteina G la quale attiva l'adenilato ciclasi  che forma cAMP la quale attiva la fosforilasi chinasi che a sua volta attiva la fosforilasi ([passa dalla conformazione b alla a) (?)
+Es. adrenalina. Si attacca al recettore beta-adrenergico che lega una proteina G la quale attiva l'adenilato ciclasi che forma cAMP la quale attiva la fosforilasi chinasi che a sua volta attiva la fosforilasi ([passa dalla conformazione b alla a) (?)
 Questi processi devono essere veloci.
 
 Una molecola, rispetto ad una cellula, è molto piccola, quindi i recettori che reagiscono con i ligandi sono anch'essi molto piccoli. Ogni cellula possiede molte molecole di un certo recettore localizzate sulla superficie. Questi eventi avvengono tutti sulla superficie. Per far sì che una cellula si metta in movimento occorre influenzare il volume della cellula.
@@ -759,7 +762,7 @@ Funzioni della PKA: attivazione di fattori di trascrizione.
 + nel nucleo P (…)
 
 
-  (…molta roba…)
+ (…molta roba…)
 
 
 ### I recettori legati ad attività enzimatica
@@ -795,7 +798,7 @@ Il NO è in grado di stimolare la sGC (guanilato ciclasi) ??????????????????
 La guanilato ciclasi è formata da 2 subunità e contiene un gruppo eme collegato ad un amminoacido istidina della subunità beta e a 4 atomi di azoto.
 Il NO lega un atomo di Fe del gruppo eme inserito tra le subunità alfa e beta.
 
-L'ossigeno del No attira il Fe del gruppo eme carico positivamente apportando una modifica della struttura dell'eme che induce una modifica sulla proteina tramite l'istidina. Modifica conformazionale nell'enzima che produce attivazione nel sito attivo dell'enzima e quinid produce cGMP  da guanosin trifosfato.
+L'ossigeno del No attira il Fe del gruppo eme carico positivamente apportando una modifica della struttura dell'eme che induce una modifica sulla proteina tramite l'istidina. Modifica conformazionale nell'enzima che produce attivazione nel sito attivo dell'enzima e quinid produce cGMP da guanosin trifosfato.
 
 
 Funzione della via NO/cGMP
@@ -885,7 +888,7 @@ Dove:
 + *F* è la costante di Faraday;
 + C$_i$ è la concentrazione dalle 2 parti della membrana degli ioni permeabili.
 
-*E$_i$ = V$_m$ = V = (RT/z$_i$F) ln [C$_i$]$_1$/[C$_i$]$_2$**
+**E$_i$ = V$_m$ = V = (RT/z$_i$F) ln [C$_i$]$_1$/[C$_i$]$_2$**
 
 Ad una temperatura di 18-20°C:
 
@@ -898,20 +901,20 @@ Nella creazione del potenziale di equilibrio gli ioni permeabili sono soggetti a
 Ci saranno dunque due flussi diversi dovuti alle due forze.
 Il contributo al flusso ionico del campo elettrico è dato dalla *equazione di Planck*, mentre il contributo al flusso ionico del gradiente di concentrazione è dato dalla *legge di Fick*.
 
-(J$_i$)$_d$ = - D$/alpha$[C$_i$]
+(J$_i$)$_d$ = - D$\alpha$[C$_i$]
 
 Il segno meno è una convenzione.
 
 Dove D è il coefficiente di diffusione.
 
-(J$_i$)$_e$ = -$/mu$$_i$ z$_i$ C$_Delta$V
+(J$_i$)$_e$ = -$\mu$$_i$ z$_i$ C$\Delta$V
 
 Dove:
 
-+ $/mu$$_i$ è la motilità ionica;
-+ $/Delta$ è la forza che li fa spostare.
++ $\mu$$_i$ è la motilità ionica;
++ $\Delta$ è la forza che li fa spostare.
 
-J$_i$ = -D$_i$(A[C$_i$]+ z$_i$[C$_i]F/RT $/Delta$V)
+J$_i$ = -D$_i$(A[C$_i$]+ z$_i$[C$_i]F/RT $\Delta$V)
 
 Dove:
 + J$_i$ è il flusso totale dovuto al gradiente elettrochimico e chimico dello ione.
@@ -922,7 +925,7 @@ J$_i$ diventa 0 quando C$_i$ diventa 0. Questo succede quando C$_i$ è uguale al
 
 Quindi:
 
-$/delta$[C$_i$] / $/delta$x = z$_i$[C$_i$]F / RT $/delta$ [V] / $/delta$x
+$\delta$[C$_i$] / $\delta$x = z$_i$[C$_i$]F / RT $\delta$ [V] / $\delta$x
 
 Si ha un'equazione differenziale risolvibile per concentrazione o potenziale.
 
