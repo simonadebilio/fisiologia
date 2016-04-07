@@ -599,46 +599,379 @@ La cellula postsinaptica può influenzare l'attività della cellula presinaptica
 Allargando la visuale vediamo che si formano plasticità sinaptiche che generano circuiti preferenziali potenziati. 
 Si pensa che la memoria sia questa cosa. 
 
+**Lezione 20151109**
+
+# Il sistema nervoso
+
+Il sistema nervoso è suddiviso anatomicamente in centrale e periferico.
+
+Il **sistema nervoso centrale (SNC)** è costituito da encefalo e midollo spinale, mentre il **sistema nervoso periferico (SNP)** è costituito da gangli e nervi. 
+
+Nel sistema nervoso esistono due tipi fondamentali di cellule: i *neuroni* e cellule non neuronali o *cellule gliali*. 
+
+Le cellule neuronali sono cellule eccitabili capaci di produrre potenziali d'azione in risposta ad stimoli elettrici, mentre le cellule gliali non sono eccitabili. 
+
+Si è stimato che il sistema nervoso centrale contiene circa cento miliardi (10$^1$$^1$) di neuroni collegati fra loro da centomila miliardi (10$^1$$^4$) di sinapsi presenti nell'encefalo e nel midollo spinale. Mediamente ogni cellula neurale stabilisce almeno 103 sinapsi.
+
+Il SNC è formato per il 75-90% da cellule gliali (*neuroglia*), e solo per circa il 10% da neuroni.
+
+Le cellule gliali si suddividon in: cellule di Schawann, oligodendrociti, microglia, cellule ependimali e astrociti.
+
+Come già detto i neuroni sono intercollegati tra loro, e ogni 4-5 passaggi il neurone di partenza viene ricontattato da quello finale.
+Questo in accordo con il concetto di loop già visto.
+
+Nel SNC lo schema del loop non indica la presenza di una "geometria", ma dice che esistono dei contatti di controllo.
+Nel sistema nervoso centrale lo schema funzionale è rappresentato in maniera topografica. È sempre una topografia a loop.
+ 
+Le cellule gliali sono cellule che stabiliscono migliaia di contatti con le cellule neurali. Soprattutto le cellule di Shwann e gli astrociti (questi rivestono anche i capillari).
+
+A livello cefalico abbiamo una grandissima protezione offerta dal cranio, ma anche da una serie di membrane connettivali che attutiscono notevolmente i traumi indotti da urti improvvisi dell'encefalo contro il cranio stesso.
+
+Questi strati di tessuto vengono chiamati **meningi** e includono:
+
++ la **dura madre**, è lo strato più esterno formato da uno strato spesso e molto denso;
++ l'**aracnoide**, una membrana intermedia a forma di rete;
++ la **pia madre**, è lo strato più interno formato da una membrana sottile che riveste tutti i meandri del sistema nervoso centrale.
+
+Mentre di norma non vi è alcuno spazio tra la dura madre e l'aracnoide, tra l'aracnoide e la pia madre vi è uno spazio, lo **spazio subaracnoideo**, pieno di *liquido cerebrospinale*.
+
+Il **liquido cerebrospinale (LCS)** è un liquido limpido che bagna il SNC; esso ha una composizione simile, ma non identica, al plasma. Il liquido cerebrospinale non soltanto circonda il sistema nervoso centrale, ma si insinua anche all'interno di esso, circondando i neuroni e le cellule gliali e riempiendo alcune cavità presenti all'interno dell'encefalo e del midollo spinale.
+
+L'encefalo contiene 4 di tali cavità, chiamate **ventricoli**, che comunicano tra loro.
+I due ventricoli laterali a forma di C sono connessi al terzo ventricolo, mediale, dal *forame interventricolare*. L'acquedotto cerebrale, chiamato **acquedotto di Silvio**, connette il III ventricolo al quarto, che è la continuazione del *canale centrale*, una lunga e sottile cavità cilindrica che percorre per tutta la sua lunghezza il midollo spinale.
+
+Il rivestimento interno dei ventricoli e del canale centrale è composto da cellule gliali, chiamate **cellule ependimali**, che costituiscono un tipo particolare di cellule epiteliali.
+
+Il rivestimento dei ventricoli è vascolarizzato e forma un tessuto chiamato **plesso coroideo**, che consta di pia madre, capillari e cellule ependimali.
+
+Il liquido cerebrospinale viene prodotto dal plesso coroideo.
+
+ Questi producono un liquido che riversano nel ventricolo alimentando il liquido cerebrospinale che, in altri punti chiamati villi, viene assorbito dal sangue fornendo un ricambio continuo.
+
+Appena prodotto il liquido cerebrospinale (LCS) attraversa il sistema ventricolare ed entra nello spazio subaracnoideo. Il LCS, a livello subaracnoideo, viene in parte riassorbito nel sangue venoso attraverso speciali strutture, i *villi aracnoidei*, localizzati alla sommità dell'encefalo.
+
+Il ricambio completo del LCS avvine a un ritmo di circa tre volte al giorno. Il LCS occupa un volume di circa 120-150 ml.
+
+Poichè il SNC è completamente circondato dal LCS, galleggia in esso e, pertanto, il LCS agisce come una struttura ammortizzante che previene le collisioni del tessuto nervoso con la scatola cranica. Inoltre, contribuisce a mantenere stabile la composizione ionica all'esterno delle cellule, e fornisce i nutrienti alle cellule gliali e ai neuroni e allontana da tali cellule i prodotti di rifiuto.
+
+La composizione del LCS è la stessa del plasma per quanto riguarda il tenore ionico; la concentrazione del glucosio invece è più bassa, così come la concentrazione proteica.
+
+Il sistema vascolare e quello nervoso sono collegati da un meccanismo a loop, anche se la struttura del sistema vascolare non sembra rifletterne la funzionalità.
+
+Nel sistema nervoso vi è una ricchissima vascolarizzazione (riceve circa il 15% del sangue), consuma il 20% dell'ossigeno e il 50% del glucosio consumato dal corpo.
+A differenza di muscoli e fegato, l'encefalo non accumula glucosio e non utilizza lipidi come fonte energetica, perciò il suo metabolismo dipende in toto dall'ossigeno e dal glucosio che arrivano momento per momento dal sangue.
+
+Questo è il motivo per cui le ischemie cerebrali creano facilmente danni irreversibili.
+
+Il rapporto tra il sangue e il tessuto del SNC è uno dei più complessi a causa della barriera ematoencefalica.
+
+## La barriera ematoencefalica
+
+Come negli altri tessuti, gli scambi di ossigeno, glucosio ed altre sostanze tra il sangue e le cellule del SNC si realizzano attraverso le paretu dei *capillari*. Le pareti dei capillari sono costituite da un singolos trato sottile di *cellule endoteliali*, cosa che permette gli scambi gassosi per *diffusione*.
+
+Nella maggior parte dei tessuri, piccole molecole come gas, ioni inorganici, monosaccaridi ed amminoacidi attraversano liberamente la parete capillare. Mentre le molecole idrofobiche diffondono attraverso interruzioni relativamente grandi (*pori*) che si trovano tra le cellule endoteliali.
+
+Nel SNC il movimento delle moleocle idrofiliche attraverso le pareti dei capillari é limitato dalla **barriera ematoencefalica**.
+L'esistenza di questa barriera è dovuta alla presenza di giunzioni strette tra le cellule endoteliali dei cpaillari, che non permettono la formazione di pori capillari e quinidi limitano la diffusione di molecole idrofiliche tra le cellule.
+
+Gli astrociti stimolano le cellule endoteliali a sviluppare e mantenere le giunzioni strette.
+
+Questa barriera protegge il SNC da sostanze tossiche che possono essere presenti nel sangue, perchè limita il movimento delle molecole attraverso l'endotelio capillare. Gas e altre molecole idrofobiche attraversano abbastanza faiclemnte le membrane cellulari, in quanto sono in grado di attraversare il doppio strato fosfolipidico della membrana per diffusione semplice. Le sostanze idrofiliche invece, come ioni, zuccheri ed amminoacidi, non possono attrracersare le mebrane cellulari mediante diffusione semplice e pertanto devono fare affidamento sul trasporto mediato per poter attraversare le pareti capillari del SNC.
+
+Poichè il trasporto mediato utilizza proteine di trasporto che sono specifiche solo per certe molecole, la barriera ematoencefalica è selettivamente permeabile, permettendo solo ad alcuni composti di attraversarla.
+
+Molecole come glucosio e amminoacidi possono penetrrare la barriera ematoencegalica facilmente. Il glucosio è trasportato attrverso la barriera ematoencefalica da proteine trasportatrici o "carrier" GLUT-1.
+
+La barriera ematoencefalica costituisce un problema per le terapie medicinali, perchè i farmaci devono obbligatoriamente superarla e dunque essere o lipofili o sfruttare dei trasportatori già presenti.
+
+Il trasporto di sostanze dal sangue al tessuto nervoso è tenuto dunque sotto un controllo molto stretto. 
+
+## Sostanza grigia e sostanza bianca
+
+Il SNC ha una disposizione dei neuroni molto ordinata. I corpi cellulari, i dendriti e i terminali assonici formano agglomerati (cluster) che appaiono grigi, mentre gli assoni si raggruppano a formare strutture che appaiono bianche. Si parla, perciò, di **materia grigia** e **materia bianca**.
+
+La sostanza grigia costituisce circa il 40% del SNC ed è qui che si realizzano la trasmissione e l'integrazione neuronale.
+L'altro 60% dei SNC è formato da sostanza bianca, costituita per lo più da assoni mielici, ai quali deve il proprio colore.
+
+La mielina presenta un elevato contenuto lipidico ed è per questo che appare bianca. Gli assoni mielinici sono specializzati nella trasmissione rapida delle informazioni.
+
+Guardando la superficie esterna dell'encefalo, è visibile soltanto la sostanza grigia, perchè la maggior parte della struttura a forma di globo (chiamata *cervello*) che costituisce la massa dell'encefalo è interamente coperta da uno strato sottile di materia grigia, chiamato **corteccia cerebrale**.
+
+La sostanza bianca è localizzata al di sotto di questo strato; incastonate sotto la sostanza bianca vi sono piccole aree di sostanza grugua note come nuclei.
+
+Nel midollo spinale la disposizione è diversa: la sostanza bianca è posizionata all'esterno, mentre la sostanza grigia si trova all'interno.
+
+Nella sostanza bianca del SNC, gli assoni (anche noti come **fibre nervose**) sono organittazi in fasci o tratti che collegano una regione di sostanza grigia con un'altra. Differenti fasci nervosi sono classificati in funzione delle regioni che collegano:
+
++ i **fasci di proiezione** connettono la corteccia cerebrale con aree encefaliche dislocate a livelli inferiori o con il midollo spinale;
++ le **fibre di associazione** connettono un'area della corteccia cerebrale con un'altra sullo stesso lato del cervello;
++ le **fibre commissurali** collegano l'area corticale di un emisfero con la corrispondente area corticale dell'altro emisfero. 
+
+La maggioranza delle fibre commissurali è localizzata in una banda di tessuto chiamata **corpo calloso**, che collega tra loro i due **emisferi cerebrali**. L'encefalo infatti è diviso in due da una profonda separazione, le due porzioni "separate" sono gli emisferi destro e sinistro.
+
+Alla base dell'encefalo si può notare una protuberanza di tessuto: il midollo spinale.
+
+## Il midollo spinale**
+
+Il midollo spinale si presenta ocme una struttura di tessuto nervoso di forma cilindrica che origina dalla porzione terminale del bulbo ed è circondata dalla **colonna vertebrale**. Il midollo spinale di un soggetto adulto è lungo circa *44 cm* e ha un diametro che varia tra 1 e 1,4 cm.
+
+### I nervi spinali
+
+Dal midollo spinale si dipartono, ad intervalli regolari, *31 paia* di **nervi spinali**.
+
+I nervi rappresentano il corrispondente delle vie neurali al di fuori del SNC, quindi nel SNP (sono sempre fasci di fibre). 
+Questi hanno un rivestimento connettivale che rende il nervo un filamento tangibile.
+Nei nervi si trova un fascio di assoni derivante da neuroni di tipo diverso.
+
+Ciascun paio di nervi fuoriesce dalla colonna vertebrale ed è definito in base alla regione di midollo spinale dal quale origina.
+
+Vi sono:
+
++ 8 paia di **nervi cervicali** (C1-C8), che emergono dalle vertebre della regione del collo;
++ 12 paia di **nervi toracici** (T1-T12), che emergono dalla regione toracica;
++ 5 paia di **nervi lombari** (L1-L5), che emergono dalla regione lombare;
++ 5 paia di **nervi sacrali** (S1-S5), che emergono dal coccige;
++ un singolo **nervo coccigeo** (C$_o$), che emerge dalla punta del coccige.
+
+Il midollo spinale si estende solo per i 2/3 della lunghezza della colonna vertebrale. L'ultimo terzo della colonna non contiene midollo spinale, ma solo nervi che emergono da essa. Questa regione è conosciuta come *cauda equina*.
+
+Le numerose fibre nervose che compongono un singolo nervo spinale viaggiano verso regioni adiacenti del corpo. Pertanto, è possibile disegnare sulla superficie corporea differenti regioni, chiamate *dermatomeri*, ciascuna delle quali è innervata da un particolare nervo spinale.
+
+La faccia non ha una rappresentazione dermatomerica, perchè è innervata dai *nervi cranici*, che emergono dal cranio.
+
+Le meningi (aracnoide, dura e pia madre), insieme al liquido cerebrospinale, sono sempre presenti anche nel midollo spinale. 
+
+### La sostanza grigia e bianca nel midollo spinale
+
+La sostanza grigia è localizzata in un'area interna a forma di farfalla, mentre la sostanza bianca è localizzata attorno alla grigia.
+
+La sostanza grigia contiene interneuroni, corpi cellulari e dendriti di **neuroni efferenti** (neuroni che viaggiano nei nervi spinali diretti verso gli organi effettori), e i terminali degli **assoni afferenti** (i neuroni afferenti viaggiano nei nervi spinali verso il midollo spinale, partendo dai recettori sensoriali localizzati alla periferia del corpo).
+
+La sostanza grigia del midollo spinale è organizzata in modo tale che differenti tipi di neuroni sono localizzati in differenti regioni.
+
+La sostanza grigia comprende un **corno dorsale** ed un **corno ventrale** in ogni lato.
+
+Il *corno dorsale* comprende la metà dorsale (posteriore) della sostanza grigia di ogni lato; il *corno ventrale* (anteriore) comprende quella ventrale.
+
+Le *fibre afferenti* originano dalla periferia come recettori sensoriali e terminano nel corno dorsale, dove formano sinapsi con interneuroni o direttamente con neuroni efferenti.
+
+I nervi spinali sono 2 per ogni livello vertebrale ed emergono dal midollo con due radici (una dorsale e una ventrale) che confluiscono poi in un unico nervo.
+
+La radice dorsale contiene fibre afferenti, assoni sensoriali il cui stimolo viaggia verso il SNC. Nella radice ventrale invece, si trovano fibre motorie il cui potenziale di azione viaggia verso la periferia dal SNC.
+
+I corpi cellulari dei neuroni afferenti non sono localizzati nel midollo spinale, ma all'esterno, dove sono raggruppati nei **gangli delle radici dorsali** (il termine *ganglio* definisce un gruppo di neuroni i cui corpi cellulari sono localizzati all'esterno del SNC).
+
+I corpi cellulari dei *neuroni efferenti*, invece, sono localizzati dentro il midollo spinale.
+I neuroni efferenti originano nel corno ventrale e si dirigono verso la periferia, dove formano sinapsi con le fibre muscolari scheletriche.
+
+Molte delle fibre ascendenti e discendenti si incrociano, ovvero partono da sinistra e arrivano a destra. Fibre afferenti portano lo stimolo verso il midollo spinale per poi salire lungo tratti ascendenti incrociando e continuando a salire. Il tratto discendente proviene dalla corteccia e va al midollo spinale incrociando e uscendo poi ventralmente.
+
+### L'encefalo
+
+L'encefalo consta di 3 parti principali:
+
++ il *prosencefalo*, formato da *telencefalo* e *diencefalo*;
++ il *mesencefalo* o *cervelletto*;
++ il *tronco cefalico*.
+
+Il **prosencefalo**, la parte più ampia e rostrale, è diviso nei due *emisferi* di destra e sinistra; esso consta del telencefalo (la corteccia esterna, 80% del cervello), che è la parte più anteriore, e del diencefalo.
+
+La corteccia è suddivisa in due zone emisferiche che rivestono la sostanza bianca dei nuclei della base.
+La parte superiore è chiamata "tetto" e quella inferiore "base". 
+
+I nuclei della base stanno in basso. Nel diencefalo abbiamo talamo ed ipotalamo in posizione ventrale. 
+
+Centralmente al talamo abbiamo le cavità dei ventricoli cerebrali. Posteriormente c'è il tronco dell'encefalo che si suddivide in mesencefalo, ponte e midollo allungato. Al di sopra del ponte abbiamo il cervelletto. 
+Dall'encefalo emergono i nervi cranici (sono 12) che innervano gli organi di senso cefalici e varie regioni cefaliche anche del collo.
+
+(immagine 9.11c p 229)
 
 
+Il **cervelletto** è una struttura bilaterale e simmetrica con una corteccia situata all'esterno e nuclei situati in profondità. Si trova inferiormente al prosencefalo e dorsalmente al tronco encefalico.
+
+Il cervelletto svolge funzioni fondamentali nel controllo dell'attività motoria e nel mantenimento dell'equilibrio.
+
+Il **tronco encefalico** rappresenta la porzione più caudale dell'encefalo; esso connette il prosencegalo ed il cervelletto con il midollo spinale.
+
+Il tronco encefalico consta di 3 regioni principali: 
+
+1. il **mesencefalo**, la porzione più rostrale che collega il tronco encefalico al prosencefalo;
+2. il **ponte**, la porzione mediana che si connette al cervelletto;
+3. il **midollo allungato** o **bulbo**, la porzione più caudale che si connette al midollo spinale.
+
+All'interno del tronco encefalico originano 10 dei 12 *nervi cranici*.
+
+All'interno del tronco encefalico vi è anche la **formazione reticolare**, una diffusa rete neuronale che svolge un ruolo importante nel controllo dei cicli sonno-veglia, dell'eccitazione corticale e dello stato di coscienza. In aggiunta, interviene nella regolazione di molte funzioni involontarie controllate dal sistema nervoso autonomo, quali la funzione caridiovascolare e la digestione.
+
+Il **diencefalo**, che si trova localizzato al di sotto del cervello, comprende due strutture mediane: il *talamo* e l'*ipotalamo*.
+
+Il **talamo** (dorsale) è un aggregato di nuclei sottocorticali localizzato nel diencefalo. Tutte le informazioni sensoriali seguono un percorso che include un passaggio attraverso il talamo e quindi verso la corteccia. 
+La maggior parte dei segnali sensoriali è filtrata e modificata nel talamo prima di essere trasmessa alla corteccia. In questo modo, il talamo sembra essere importante nel dirigere l'attenzione.
+
+Il talamo svolge anche un ruolo nel controllo dei movimenti.
+
+L'**ipotalamo** (ventrale, inferiormente al talamo) rappresenta il principale centro di collegamento tra il sistema endocrino e quello nervoso. In risposta a segnali nervosi o ormonali, l'ipotalamo rilascia ormoni che regolano il rilascio di altri ormoni dall'adenoipofisi (ipofisi anteriore). Controlla anche il rilascio di ormoni dall'ipofisi posteriore, come l'ormone antidiuretico che regola il volume e l'osmolarità del plasma.
+
+L'ipotalamo influenza anche molti comportamenti; in esso sono presenti centri nervosi che controllano la sazietà e la fame, e il centro della sete. Inoltre, essendo parte del sistema limbico, esso influenza le emozioni ed i comportamenti che da esse dipendono.
+
+La **corteccia cerebrale** rappresenta la porzione più esterna del cervello; essa consta di uno strato sottile ed altamente convoluto di sostanza grigia. 
+Le circonvoluzioni originano da **solchi** (invaginazioni) e **giri** (creste) che permettono all'ampio volume di sostanza grigia di essere contenuto all'interno della scatola cranica. 
+
+La corteccia cerebrale ha uno spessore che può variare, in relazione alla localizzazione, da 1,5 a 4 mm.
+Sebbene la corteccia sia sottile, è formata da sei strati funzionalmente distinti il cui spessore (e a volte anche la presenza) dipende dalla localizzazione corticale.
+I diversi strati sono composti da cellule differenti; ad esempio nel quarto strato troviamo cellule stellate che eleaborano le percezioni sensoriali, mentre nel quinto strato troviamo cellule piramidali che si occupano del movimento volontario.
+
+La corteccia cerebrale svolge le funzioni cerebrali più elevate ed evolute, in quanto ci permette di avere percezioni relative all'ambiente che ci circonda, formulare pensieri, ricordare eventi passati e, infine, rappresenta l'area da cui partono tutti i comandi per l'esecuzione dei movimenti.
+
+Ciascun emisfero è diviso in 4 regioni dette *lobi*.
+
+Il **lobo frontale** rappresenta la parte anteriore del cervello, si occupa dei movimento volontari e delle attività mentali (cioè il pensiero).
+Posteriormente ad esso si trova il **lobo parietale**, che si occupa delle funzioni sensoriali. Questi due lobi sono separati dal *solco centrale*, che percorre ciascun emisfero del cervello. 
+
+Localizzato posteriormente e inferiormente al lobo parietale vi è il **lobo occipitale**, che si occupa dell'elaborazione delle sensazioni visive.
+Il **lobo temporale** è localizzato inferiormente ai lobi frontale e parietale del cervello; esso è separato dal lobo frontale da un profondo solco, il *solco laterale* o *scissura di Silvio*, e si occupa delle percezioni sensoriali uditive e olfattive.
+
+Molte aree della corteccia cerebrale sono organizzate *topograficamente* in base alla loro funzione, ossia una proiezione corporea e dei vari organi sensoriali.
+
+Gli esempi più chiari di tale organizzazione topografico-funzionale sono rappresentati dalla *corteccia motoria* primaria nel lobo frontale e dalla *corteccia somatosensoriale* primaria nel lobo parietale. Le mappe dell'*organizzazione somatotopica* di queste due aree corticali, in cui parti del corpo vicine sono rappresentate sulla superficie corticale in regioni vicine, sono definite **omuncolo motorio** e **omuncolo sensoriale**.
+
+Il **telencefalo** è molto sviluppato soprattutto nei mammiferi. 
+
+Subito dopo per importanza troviamo il talamo e l'ipotalamo, che costituiscono il diencefalo. 
+Il talamo riceve buona parte degli stimoli sensoriali delle vie afferenti. L'ipotalamo invece ha un ruolo di stimolazione dell'attività endocrina e ad esso è collegata una ghiandola chiamata **ipofisi** (inferiore) e una ghiandola chiamata **epifisi** (superiormente). 
+
+Il **sistema limbico** è formato da un insieme di regioni corticali, nuclei sottocorticali e tratti del prosencefalo strettamente associati fra loro, coinvolti nelle emozioni, nella memoria e nella motivazione.
+
+Il sistema limbico è coinvolto in funzioni che regolano le pulsioni comportamentali di base.
+Esso include l'*amigdala* (coinvolta nelle funzioni relative all'aggressività e alla paura) e l'*ippocampo* (coinvolto nell'apprendimento e nella memoria)
+
+## Il controllo dei movimenti volontari
+ 
+Una buona parte dell'attività cerebrale riguarda i movimenti volontari. Gli stimoli che riguardano i movimenti volontari partono tutti dalla corteccia cerebrale. Nella corteccia avvengono le attività coscienti del soggetto e quindi anche i movimenti volontari. 
+
+Nell'organismo ci sono tutta una serie di motilità che non sono sotto il controllo del soggeto (es. motilità del cuore e apparato digerente), ma ce n'è anche una volontaria (quella degli arti, della muscolatura scheletrica, ecc).
+
+Il controllo dei movimenti parte dalle aree del pensiero; dalle aree associative (quelle piu' anteriori) partono gli stimoli che vanno alla *corteccia pre-motoria* che coordina i movimenti e poi passano alla *corteccia motoria* che manda lo stimolo per l'esecuzione dei movimenti; questo viene indirizzato ad un preciso muscolo con una determinata intensità. 
+
+L'esecuzione dei comandi motori è esegita mediante invio di segnali discendneti ai muscoli che devono contrarsi. L'esecuzione del comando richiede l'attivazione di neuroni efferenti che innervano i muscoli scheletrici. Questi neuroni efferenti si trovano nel corno ventrale del midollo spinale e sono chiamati **motoneuroni inferiori**.
+
+L'attività dei motoneuroni è influenzata da segnali discendenti provenienti dall'encefalo. Le due vie discendenti importanti nel controllo dei movimenti volontari sono: i *tratti piramidali* (cellule dello strato 5) ed i *tratti extrapiramidali*.
+
+I **tratti piramidali** rappresentano vie dirette dalla corteccia motoria primaria al midollo spinale. Gli assoni dei neuroni che danno origine a questi tratti terminano nel *corno ventrale* del midollo spinale e sono chiamati **motoneuroni superiori**. Alcuni di questi motoneuroni stabiliscono sinapsi dirette con i motoneuroni, altre formano sinapsi con interneuroni.
+
+La maggior parte dei neuroni piramidali incrocia nel SNC a livello del bulbo.
+
+I tratti piramidali sono coinvolti nel controllo dei movimenti fini e precisi delle estremità distali degli arti, specialmente avambracci, mani e dita.
+
+I **tratti extrapiramidali** includono tutte le vie motorie ald i fuori del sistema piramidale. 
+
+Queste vie formano connessioni indirette tra l'encefalo e il midollo spinale; ciò sta a significare che i neuroni dei tratti extrapiramidali non formano sinapsi dirette con i motoneuroni.
+
+In linea generale, il sistema extrapiramidale è coinvolto nel controllo di molti gruppi muscolari implicati nel mantenimento della postura e dell'equilibrio, mentre il sistema piramidale è maggiormente coinvolto nel controllo di piccoli gruppi di muscoli che si contraggono indipendentemente.
+
+Anche qui abbiamo il concetto di loop; ad esempio una volta che si è deciso di iniziare a camminare, dopo un po' di tempo che lo si fa, il processo diventa incosciente e si può camminare senza pensarci. Fino a quando si realizza che la camminata deve cessare.
+
+A livello periferico il controllo dei movimento gioca molto sugli archi riflessi.
+
+**(controllare da qui)**
+
+Un neurone sensoriale propiocettivo (che sta dentro un muscolo) entra nel midollo dal corno dorsale dove c'è un ganglio che raggruppa i corpi cellulari. Entrando può allo stesso livello formare sinapsi con un motoneurone che riceve stimoli anche dalle vie piramidali e va ad innervare il muscolo stesso. La motilità muscolare è stata controllata dalla stessa sensibilità sensoriale propiocettiva del muscolo. 
+
+Il tronco dell'encefalo comprende mesencefalo ponte e bulbo e la parte più posteriore è spesso detta midollo allungato. 
+Qui abbiamo una rete neuronale che non è né un fascio di fibre né un nucleo ben definito. 
+
+Esistono poi dei nuclei ben definiti (come quello rosso). 
+Il cervelletto si sviluppa posteriormente ed interviene nel controllo della motilità. I nuclei della base intervengono nel controllo del movimento con dei feedback inibitori alla corteccia.
+
+Il cervelletto contiene l'80% dei neuroni del corpo. Ha varie connessioni con la formazione reticolare del tronco dell'encefalo con i nuclei vestibolari e con il nucleo rubro.
+ 
+Al cervelletto arrivano delle fibre chiamate *fibre muscoidi* che sono collegate a vie che arrivano dalla corteccia cerebrale. Il cervelletto a sua volta invia stimoli alla corteccia motoria attraverso il talamo, attraverso il nucleo rosso.
+
+Nella sostanza grigia si trova uno strato molecolare, uno delle cellule del Purkinje ecc... Ci sono fibre ascendenti che arrivano allo strato molecolare facendo sinapsi con le cellule del Purkinje. Funzionano direttamente le fibre muscose. Gli stimoli in uscita dal cervelletto sono prodotti dalle cellule del Purkinje (gli stimoli vengono modulati da queste). 
+
+Gli stimoli in entrata sono ricevuti da cellule eccitatorie mentre quelli in uscita da cellule che ricevono stimoli inibitori. Le cellule del Purkinje sono inibite dal GABA, che fa sinapsi inibitorie. La corteccia inibisce l’attività nei nuclei cerebellari e così modula l’attività motoria cerebrale.
+
+**(a qui)**
+
+## Funzoni integrate del SNC
+
+L'encefalo è in grado di "mettere insieme" vari stimoli. 
+
+Il massimo grado di integrazione si pensa sia a livello dei lobi frontali dove risiede l'attività del pensiero. 
+
+Se sono in grado di rendermi conto di quando tocco un oggetto è grazie alle attività cerebrali.
+Se ci fossero dei danni che portano dai recettori della mano fino alla corteccia non ce ne renderemmo conto. 
+
+Percepisco a livello dei centri associativi un evento come una sensazione tattile. Poi posso pensare di toccare quell'oggetto senza toccarlo per ricostruire una sensazione senza che questa avvenga realmente. Questa è un'attività pura di pensiero.
+
+L'attività cerebrale che "svolgiamo" può essere percepita sia come azione sensoriale, che come attività cerebrale. L'attività mentale è infatti un'attività cerebrale percepita come tale. 
+
+Tutto ciò di cui siamo coscienti è attività cerebrale, ma alcune sono percepite come qualcosa di interagente fisicamente con il corpo e altre invece che non percepite fisicamente corrispondono all'attività di pensiero. Il pensiero è la forma più completa di attività associativa. 
+
+Esistono attività associative anche legate ad azioni, come il linguaggio (molto sviluppato nell'essere umano). 
+
+Ci sono due aree strettamente connesse al linguaggio: l'*area di Wernicke*, coinvolta nella comprensione del linguaggio, e l*area di Broca*, coinvolta nella capacità di parlare e scrivere. Queste due aree sono collegate da fasci di fibre di interconnessione.
+
+Un'altra attività del cervello è il sonno. 
+Il sonno serve per il consolidamento dei processi di apprendimento e di memoria, e per il rafforzamento delle difese immunitarie. 
+
+I neuroni hanno attività elettrica molto intensa captabile sulla superficie del capo. Nel sonno l'attività elettrica cambia, assumendo la forma di onde ampie e lente. 
+
+Esistono die tipi di sonno: il *sonno a onde lente*, caratterizzato da onde a bassa frequenza, e il *sonno REM*, caratterizzato da onde ad alta frequenza e da episodi di rapidi movimenti oculari.
+
+Durante il sonno REM possono aumentare la respirazione e la frequenza cardiaca. 
+
+Il ciclo sonno veglia è dovuto al **sistema reticolare attivamente ascendente (SRAA)**.
+Questa regione è critica nel mantenere lo stato di veglia. Afferenze da quest'area si proiettano alla corteccia, attraverso stazioni sinaptiche nel talamo, nell'ipotalamo e nel tronco encefalico, mantendola in uno stato vi veglia che la rende più recettiva ai segnali in arrivo.
+
+Neurotrasmettitori associati al SRAA sono l'acetilcolina, la noradrenalina, e la dopamina.
+
+L'adenosina invece porta sonno ad onde lente indotto dal prosencefalo. La caffeina blocca il rilascio di adenosina. Il ponte rilascia acetilcolina che induce la fase REM.
+
+Quando si è svegli e vigili, l'elettroencefalogramma (EEG) mostra un tracciato di onde ad alta frequenza e bassa ampiezza, note come *onde beta*, che rifletto i segnali elettrici generati da un gran numero di neuroni in tempi differenti.
+
+Quando si è svegli l'EEG mostra uno schema con onde a frequenza più bassa e ampiezza maggiore, note come *onde alfa*.
+In confronto alle onde beta, le onde alfa rifletto un maggior grado di sincronizzazione dell'attività elettrica dei neuroni; cioè, i segnali elettrici sono generati in grandi gruppi di neuroni più o meno nello stesso istante.
+
+Il sonno a onde lente avviene in 4 fasi successive, distinguibili dai cambiamenti nell'EEG e dalla *soglia del risveglio* (cioè l'intensità dello stimolo richiesto per svelgiare una persona).
+
+La prima fase ha la soglia del risveglio più bassa, mentre la quarta ha la soglia più alta. Inoltre, le 4 fasi mostrano un graduale incremento del grado di sincronizzazione dell'EEG, essendo le onde della quarta fase le più alte in ampiezza e le più basse in frequenza, indice di elevata sincronizzazione.
+
+Durante il sonno REM, l'EEG mostra un andamento caratterizzato da onde ad alta frequenza e bassa ampiezza somiglianti a quelle presenti durante la veglia nello stato di allerta.
+La soglia del risveglio è più alta durante il sonno REM che in qualsiasi altro momento, ma una persona tende molto più facilemnte a svegliarsi spontaneamente durante questa fase.
+
+Durante la notte, una persona attraversa le varie fasi del sonno in maniera ordinata e prevedibile. Quando ci si addormenta, si passa dalla veglia alla prima fase del sonno a onde lente; da qui si passa con ordine attraverso le fasi 2, 3 e 4. Circa un'ora dopo l'addormentamento si ripercorrono le fasi in ordine inverso e quindi si entra nella prima fase REM.
+Questi cicli si ripetono alcune volte ad intervalli di circa 90 minuti ma, nel corso della notte, si è portati a passare sempre meno tempo nella fasi di sonno profondo a onde lente e più tempo nel sonno REM.
 
 
+Tra le funzoni intgrate del SNC vi sono anche le emozioni.
+L'amigdala sembra giocare un ruolo importante nella paura e nell'ansia; l'ipotalamo, invece, è associato con i sentimenti di rabbia e aggressività
 
+Entrambe sono le risposte comportativamente immediate nella vita di un individuo. Queste sensazioni sono regolate dalla corteccia e danno delle risposte vegetative motorie e ormonali. Legati all'emozione ci sono i centri del piacere, che è un sito molto particolare in cui interviene in sistema dopaminergico. 
 
+Altra funzioni integrate dal SNC sono l'apprendimento e la memoria.
+Mentre l'apprendimento consiste nell'acquisizione di nuove informazioni e esperienze, la memoria rappresenta il consolidamento di tali informaizoni, esperienze o pensieri.
 
+L'apprendimento può essere *associativo* o *non associativo*.
 
+L'apprendimento *associativo* è un tipo di apprendimento che richiede la capacità di collegare due o più stimoli. 
 
+L'apprendimento *non associativo* invece, si realizza in risposta a stimoli ripetuti ed include i processi di abitudine e sensibilizzazione.
+L'abitudine rappresenta una sorta di decrescimento della risposta a stimoli ripetuti. Al contrario, la sensibilizzazione rappresenta un incremento della risposta a stimoli ripetuti.
 
+Esistono poi 2 tipi di memoria: la *memoria procedurale* e quella *dichiarativa*.
 
+La memoria procedurale, o *memoria implicita*, è la memoria delle capacità motorie e dei comportamenti appresi.
+Questo tipo di memoria coinvolge diverse aree encefaliche, inclusi il cervelletto, i nuclei della base e il ponte.
 
+La memoria dichiarativa, o *memoria esplicita*, rappresenta una forma di memoria delle esperienze apprese, come fatti, eventi ed altre cose che possono essere affermate verbalmente. Questo tipo di memoria coinvolge l'ippocampo.
 
+La memoria si realizza a due livelli: *memoria a breve termine* e *a lungo termine*.
 
+Nel modello corrente su come l'informazione viene acquisita ed immagazzinata all;interno della memoria, le informazioni in arrivo prima entrano nel SNC e poi vengono conservate sotto forma di **memoria e breve termine** ( o *memoria di lavoro*), un immagazzinamento temporaneo di un concetto per pochi secondi o poche ore.
+Lo spazio per la memoria a breve termine è limitato e le informaizoni immagazzinate in questo modo vengono perse se non vengono ulteriormente *consolidate* sotto forma di **memoria a lungo termine**, che può durare per anni o per l'intera vita. 
 
+I meccanismi di consolidamento non sono ben conosciuti, ma certamente la ripetizione aiuta.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+La memoria è un processo complesso che coinvole parecchie, se non tutte le aree encefaliche. Il lobo frontale ha un ruolo cruciale nella memoria a breve termine, il lobo temporale, incluso l'ippocampo, è necessario per quella a lungo termine.
 
