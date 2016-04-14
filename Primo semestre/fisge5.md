@@ -1,187 +1,357 @@
 # Il sistema nervoso efferente
 
-Fanno parte del *sistema nervoso efferente* quelle vie che portano gli stimoli nervosi dal SNC ad altri sistemi.
-Queste vie si dividono tra sistema **autonomo**, che conduce gli stimoli involontari, e **somatico**, che conduce stimoli volontari (ovvero sotto controllo del soggetto).
+
+Fanno parte del *sistema nervoso efferente* quelle vie che portano gli
+stimoli nervosi dal SNC ad altri sistemi. Queste vie si dividono tra
+sistema **autonomo**, che conduce gli stimoli involontari, e
+**somatico**, che conduce stimoli volontari (ovvero sotto controllo del
+soggetto).
 
 ## Il sistema nervoso automono
 
-Il sistema nervoso autonomo innerva la maggior parte degli organi e dei tessuti effettori, incluso il muscolo cardiaco, le cellule muscolari lisce dei vasi ematici e vari organi viscerali, le ghiandole e il tessuto adiposo.
 
-Il sistema nervoso "autonomo" è definito in tal modo in quanto la sua attività si svolge in modo inconscio.
+Il sistema nervoso autonomo innerva la maggior parte degli organi e dei
+tessuti effettori, incluso il muscolo cardiaco, le cellule muscolari
+lisce dei vasi ematici e vari organi viscerali, le ghiandole e il
+tessuto adiposo.
 
-Il sistema nervoso autonomo è suddiviso in due sottosistemi, detti **sistema simpatico** e **parasimpatico**,
-Entrambe le divisioni del sistema nervoso autonomo innervano la maggior parte degli organi, un'organizzazione chiamata *duplice innervazione*.
-Questi due sistemi spesso innervano gli stessi organi, ma con effetti antagonisti.
+Il sistema nervoso "autonomo" è definito in tal modo in quanto la sua
+attività si svolge in modo inconscio.
 
-Il sistema nervoso simpatico esce a livello spinale, mentre il parasimpatico esce dal midollo allungato e dalle ultime vertebre sotto forma di nervi (per lo più misti).
+Il sistema nervoso autonomo è suddiviso in due sottosistemi, detti
+**sistema simpatico** e **parasimpatico**, Entrambe le divisioni del
+sistema nervoso autonomo innervano la maggior parte degli organi,
+un'organizzazione chiamata *duplice innervazione*. Questi due sistemi
+spesso innervano gli stessi organi, ma con effetti antagonisti.
 
-Tra gli effetti di questi due sistemi vi è ad esempio l'inibizione del sistema cardovascolare da parte del parasimpatico, mentre il simpatico lo stimola.
+Il sistema nervoso simpatico esce a livello spinale, mentre il
+parasimpatico esce dal midollo allungato e dalle ultime vertebre sotto
+forma di nervi (per lo più misti).
 
-Il sistema nervoso autonomo consta di vie efferenti formate da due neuroni organizzati in serie tra il SNC e gli organi effettori.
-I neuroni comunicano tra loro mediante sinapsi localizzate in strutture periferiche chiamate **gangli del sistema nervoso autonomo**. I neuroni che collegano il SNC ai gangli sono definiti **neuroni pregangliari**; quelli che collegano i gangli agli organi effettori sono detti **neuroni postgangliari**. All'interno di ciascun ganglio vi sono i terminali assonici dei neuroni pregangliari e i corpi cellulari ed i dendriti dei neuroni postgangliari.
+Tra gli effetti di questi due sistemi vi è ad esempio l'inibizione del
+sistema cardovascolare da parte del parasimpatico, mentre il simpatico
+lo stimola.
 
-Nella porzione tra neurone pre e post gangliare trovo una sinapsi. 
-Il messaggio viaggia sempre dal SNC all'organo effettore. Gli stimoli sono potenziali d'azione che viaggiano sotto forma di scariche di potenziale d'azione. Nei gangli ci sono neuroni intragangliari che possono modulare le scariche uscendo con frequenza diversa per attività di neuroni intermedi dentro il ganglio.
+Il sistema nervoso autonomo consta di vie efferenti formate da due
+neuroni organizzati in serie tra il SNC e gli organi effettori. I
+neuroni comunicano tra loro mediante sinapsi localizzate in strutture
+periferiche chiamate **gangli del sistema nervoso autonomo**. I neuroni
+che collegano il SNC ai gangli sono definiti **neuroni pregangliari**;
+quelli che collegano i gangli agli organi effettori sono detti **neuroni
+postgangliari**. All'interno di ciascun ganglio vi sono i terminali
+assonici dei neuroni pregangliari e i corpi cellulari ed i dendriti dei
+neuroni postgangliari.
 
-### Anatomia del sistema nervoso simpatico
+Nella porzione tra neurone pre e post gangliare trovo una sinapsi. Il
+messaggio viaggia sempre dal SNC all'organo effettore. Gli stimoli sono
+potenziali d'azione che viaggiano sotto forma di scariche di potenziale
+d'azione. Nei gangli ci sono neuroni intragangliari che possono modulare
+le scariche uscendo con frequenza diversa per attività di neuroni
+intermedi dentro il ganglio.
 
-Poichè i neuroni pregangliari nel sistema nervoso simpatico emergono dalle porzioni toraciche e lombari del midollo spinale, il sistema nervoso simpatico è noto come sistema nervsono autonomo *toracolombare*.
+## Anatomia del sistema nervoso simpatico
 
-I neuroni pregangliari originano in una regione di sostanza grigia del midollo spinale chiamata **corno laterale**. I neuroni pregangliari e postgangliari simpatici sono tra loro connessi in 3 modi:
+Poichè i neuroni pregangliari nel sistema nervoso simpatico emergono
+dalle porzioni toraciche e lombari del midollo spinale, il sistema
+nervoso simpatico è noto come sistema nervsono autonomo *toracolombare*.
+
+I neuroni pregangliari originano in una regione di sostanza grigia del
+midollo spinale chiamata **corno laterale**. I neuroni pregangliari e
+postgangliari simpatici sono tra loro connessi in 3 modi:
 
 1. Nella più comune delle situazioni, i neuroni pregangliari hanno brevi assoni che originano nel corno laterale del midollo spinale ed escono da questo attraverso la radice ventrale.
 
-Immediatamente dopo che le radici ventrali e dorsali formano il nervo spinale, l'assone del neurone pregangliare lascia il nervo spinale attraverso una diramazione chiamata *ramo bianco*, che penetra in uno o più gangli simpatici localizzati appena fuori dal midollo spinale.
-Qui, il neurone pregangliare forma sinapsi con molti neuroni postgangliari, che hanno lunghi assoni che raggiungono gli organi effettori. 
+Immediatamente dopo che le radici ventrali e dorsali formano il nervo
+spinale, l'assone del neurone pregangliare lascia il nervo spinale
+attraverso una diramazione chiamata *ramo bianco*, che penetra in uno o
+più gangli simpatici localizzati appena fuori dal midollo spinale. Qui,
+il neurone pregangliare forma sinapsi con molti neuroni postgangliari,
+che hanno lunghi assoni che raggiungono gli organi effettori.
 
-La maggior parte degli assoni postgangliari ritorna al nervo spinale attraverso una diramazione chiamata *ramo grigio* e raggiunge l'organo effettore attraverso un nervo spinale.
+La maggior parte degli assoni postgangliari ritorna al nervo spinale
+attraverso una diramazione chiamata *ramo grigio* e raggiunge l'organo
+effettore attraverso un nervo spinale.
 
-I vari gangli simpatici sono tra loro collegati in modo tale da formare una struttura che decorre parallelamente alla colonna vertebrale, ai due lati di essa, chiamata **catena simpatica**;
+I vari gangli simpatici sono tra loro collegati in modo tale da formare
+una struttura che decorre parallelamente alla colonna vertebrale, ai due
+lati di essa, chiamata **catena simpatica**;
 
-2. Una seconda possibile organizzazione delle fibre simpatiche si verifica quando un gruppo di lunghi neuroni pregangliari innerva direttamente tessuti endocrini, come la *midollare della ghiandola del surrene*, invece di formare sinapsi con neuroni postgangliari.
+2. Una seconda possibile organizzazione delle fibre simpatiche si
+verifica quando un gruppo di lunghi neuroni pregangliari innerva
+direttamente tessuti endocrini, come la *midollare della ghiandola
+del surrene*, invece di formare sinapsi con neuroni postgangliari.
 
-Ciascuna delle ghiandole surrenali, localizzata nel cuscinetto adiposo sul ppolo superiore di ciascun rene, è suddivisa in uno strato esterno corticale ed uno interno midollare.
+Ciascuna delle ghiandole surrenali, localizzata nel cuscinetto adiposo
+sul ppolo superiore di ciascun rene, è suddivisa in uno strato esterno
+corticale ed uno interno midollare.
 
-Quest'ultimo consta di neuroni simpatici postgangliari modificati, chiamati **cellule cromaffini**, che si differenziano in cellule endocrine invece che in neuroni.
+Quest'ultimo consta di neuroni simpatici postgangliari modificati,
+chiamati **cellule cromaffini**, che si differenziano in cellule
+endocrine invece che in neuroni.
 
-In seguito alla stimolazione del sistema nervoso simpatico, la midollare del surrene rilascia in circolo catecolamine (80% adrenalina, 20% noradrenalina, e tracce trascurabili di dopamina).
+In seguito alla stimolazione del sistema nervoso simpatico, la midollare
+del surrene rilascia in circolo catecolamine (80% adrenalina, 20%
+noradrenalina, e tracce trascurabili di dopamina).
 
-La midollare del surrene rilascia i proprio prodotti direttamente nel sangue, per cui questi prodotti funzionano come ormoni.
+La midollare del surrene rilascia i proprio prodotti direttamente nel
+sangue, per cui questi prodotti funzionano come ormoni.
 
-3. Una terza disposizione anatomica delle fibre simpatiche comprende neuroni pregangliari che formano sinapsi con neuroni postgangliari in strutture chiamate **gangli collaterali**,  situati tra il SNC e gli organi effettori.
+3. Una terza disposizione anatomica delle fibre simpatiche comprende
+neuroni pregangliari che formano sinapsi con neuroni postgangliari
+in strutture chiamate **gangli collaterali**, situati tra il SNC e
+gli organi effettori.
 
-In questo caso, un neurone pregangliare fuoriesce dal midollo spinale attraverso la radice ventrale ed entra nella catena simpatica attraverso un ramo bianco.
-L'assone del neurone pregangliare attraversa questo ganglio senza formare sinapsi e raggiunge un ganglio collaterale tramite un nervo simpatico. 
+In questo caso, un neurone pregangliare fuoriesce dal midollo spinale
+attraverso la radice ventrale ed entra nella catena simpatica attraverso
+un ramo bianco. L'assone del neurone pregangliare attraversa questo
+ganglio senza formare sinapsi e raggiunge un ganglio collaterale tramite
+un nervo simpatico.
 
-All'interno del ganglio collaterale, il neurone pregangliare forma sinapsi con molti neuroni postgangliari, che terminano su numerosi organi bersaglio.
+All'interno del ganglio collaterale, il neurone pregangliare forma
+sinapsi con molti neuroni postgangliari, che terminano su numerosi
+organi bersaglio.
 
-Poichè questi gangli non sono tra loro connessi, come quelli della catena simpatica, essi permettono al sistema nervoso simpatico di raggiungere organi bersaglio ben definiti e quindi di esercitare effetti meno diffusi.
+Poichè questi gangli non sono tra loro connessi, come quelli della
+catena simpatica, essi permettono al sistema nervoso simpatico di
+raggiungere organi bersaglio ben definiti e quindi di esercitare effetti
+meno diffusi.
 
 (immagine 11.3 p 306)
 
-### Anatomia del sistema nervoso parasimpatico
+## Anatomia del sistema nervoso parasimpatico
 
-I neuroni pregangliari del sistema nervoso parasimpatico originano nel tronco encefalico o nel midollo spinale sacrale.
+I neuroni pregangliari del sistema nervoso parasimpatico originano nel
+tronco encefalico o nel midollo spinale sacrale.
 
-In genere, i neuroni pregangliari parasimpatici sono relativamente lunghi e terminano in gangli localizzati vicino agli organi effettori.
-A livello gangliare, essi formano sinapsi con corti neuroni postgangliari diretti agli organi effettori.
+In genere, i neuroni pregangliari parasimpatici sono relativamente
+lunghi e terminano in gangli localizzati vicino agli organi effettori. A
+livello gangliare, essi formano sinapsi con corti neuroni postgangliari
+diretti agli organi effettori.
 
-Nella porzione craniale del sistema parasimpatico, gli assoni dei nervi pregangliari originano da corpi cellulari localizzati nel tronco encefalico, che inviano i propri assoni nei nervi cranici. 
+Nella porzione craniale del sistema parasimpatico, gli assoni dei nervi
+pregangliari originano da corpi cellulari localizzati nel tronco
+encefalico, che inviano i propri assoni nei nervi cranici.
 
-Nel sistema parasimpatico la cellula pregangliare ha un assone più lungo che raggiunge una cellula gangliare vicina all'organo effettore, mentre la postgangliare è più corta. Esempi sono alcuni nervi cranici.
+Nel sistema parasimpatico la cellula pregangliare ha un assone più lungo
+che raggiunge una cellula gangliare vicina all'organo effettore, mentre
+la postgangliare è più corta. Esempi sono alcuni nervi cranici.
 
 ## I neurotrasmettitori del sistema nervoso autonomo
 
-I due neurotrasmettitori del sistema nervoso periferico sono l'*acetilcolina* e la *noradrenalina*.
+I due neurotrasmettitori del sistema nervoso periferico sono
+l'*acetilcolina* e la *noradrenalina*.
 
 I neuroni che rilasciano acetilcolina sono noti come **colinergici**.
 
-L'*acetilcolina* è rilasciata da:
-+ neuroni pregangliari simpatici e parasimpatici;
-+ neuroni postgangliari parasimpatici;
-+ neuroni pregangliari simpatici che innervano le cellule cromaffini della midollare del surrene. In questo caso l'acetilcolina agisce sulle cellule endocrine della midollare stimolando il rilascio di adrenalina.
+L'*acetilcolina* è rilasciata da: + neuroni pregangliari simpatici e
+parasimpatici; + neuroni postgangliari parasimpatici; + neuroni
+pregangliari simpatici che innervano le cellule cromaffini della
+midollare del surrene. In questo caso l'acetilcolina agisce sulle
+cellule endocrine della midollare stimolando il rilascio di adrenalina.
 
-La *noradrenalina* è il neurotrasmettitore usato da quasi tutti i neuroni simpatici postgangliari, che pertanto vengono detti **adrenergici**.
+La *noradrenalina* è il neurotrasmettitore usato da quasi tutti i
+neuroni simpatici postgangliari, che pertanto vengono detti
+**adrenergici**.
 
-L'acetilcolina e la noradrenalina possono entrambe legarsi a differenti classi e sottoclassi di recettori colinergici e adrenergici.
+L'acetilcolina e la noradrenalina possono entrambe legarsi a differenti
+classi e sottoclassi di recettori colinergici e adrenergici.
 
 ### I recettori colinergici
 
-Questi recettori si dividono in due categorie: quelli *nicotinici* e quelli *muscarinici*.
+Questi recettori si dividono in due categorie: quelli *nicotinici* e
+quelli *muscarinici*.
 
-Queste due classi si distinguono in base a studi farmacologici effettuati utilizzando due agonisti (sostanze chimiche che si legano ad un recettore e producono lo stesso effetto biologico) dell'acetilcolina: la *nicotina*, un alcaloide che si trova abbondantemente nella pianta del tabacco, e la *muscarina*, una sostanza fungina.
+Queste due classi si distinguono in base a studi farmacologici
+effettuati utilizzando due agonisti (sostanze chimiche che si legano ad
+un recettore e producono lo stesso effetto biologico) dell'acetilcolina:
+la *nicotina*, un alcaloide che si trova abbondantemente nella pianta
+del tabacco, e la *muscarina*, una sostanza fungina.
 
-I recettori colinergici nicotinici sono localizzati sui corpi cellulari e sui dendriti dei neuroni postgangliari simpatici e parasimpatici, sulle cellule cromaffini della midollare del surrene e sulle cellule muscolari scheletriche.
+I recettori colinergici nicotinici sono localizzati sui corpi cellulari
+e sui dendriti dei neuroni postgangliari simpatici e parasimpatici,
+sulle cellule cromaffini della midollare del surrene e sulle cellule
+muscolari scheletriche.
 
-I recettori muscarinici invece, sono presenti sugli organi effettori del sistema nervoso parasimpatico, come il cuore, le cellule muscolari lisce del tratto digerente, ecc...
+I recettori muscarinici invece, sono presenti sugli organi effettori del
+sistema nervoso parasimpatico, come il cuore, le cellule muscolari lisce
+del tratto digerente, ecc...
 
-Tutte le sottoclassi di recettori colinergici nicotinici sono associate a canali permeabili al sodio e al potassio. Quando l'acetilcolina si lega a tali recettori, questi canali cationici si aprono, permettendo al sodio di diffondere all'interno della cellula e al potassio di diffondere all'esterno.
+Tutte le sottoclassi di recettori colinergici nicotinici sono associate
+a canali permeabili al sodio e al potassio. Quando l'acetilcolina si
+lega a tali recettori, questi canali cationici si aprono, permettendo al
+sodio di diffondere all'interno della cellula e al potassio di
+diffondere all'esterno.
 
-Poichè il Na è lontano dal suo potenziale di equilibrio, il suo flusso verso l'interno  eccederà quello verso l'esterno del K, per cui la cellula si depolarizza.
+Poichè il Na è lontano dal suo potenziale di equilibrio, il suo flusso
+verso l'interno eccederà quello verso l'esterno del K, per cui la
+cellula si depolarizza.
 
-Pertanto, i recettori colinergici nicotinici sono associati con la depolarizzazione, o *eccitazione*, della membrana della cellula postsinaptica.
+Pertanto, i recettori colinergici nicotinici sono associati con la
+depolarizzazione, o *eccitazione*, della membrana della cellula
+postsinaptica.
 
-Al contrario, tutte le classi di recettori muscarinici sono accoppiate a proteine G e a secondi messaggeri. Le risposte attivate dal legame dell'acetilcolina possono essere *sia inibitorie che eccitatorie*, in relazione alle cellule bersaglio e alla natura della via di trasduzione del segnale coinvolta.
+Al contrario, tutte le classi di recettori muscarinici sono accoppiate a
+proteine G e a secondi messaggeri. Le risposte attivate dal legame
+dell'acetilcolina possono essere *sia inibitorie che eccitatorie*, in
+relazione alle cellule bersaglio e alla natura della via di trasduzione
+del segnale coinvolta.
 
 ### I recettori adrenergici
 
-Vi sono due classi principali di recettori adrenergici localizzati in organi effettori del sistema nervoso simpatico: i **recettori alfa** e i **recettori beta**. Ciascuna di queste classi è ulteriormente divisa in sottoclassi: $\alpha$$_1$, $\alpha$$_2$, $\beta$$_1$, $\beta$$_2$ e $\beta$$_3$.
+Vi sono due classi principali di recettori adrenergici localizzati in
+organi effettori del sistema nervoso simpatico: i **recettori alfa** e i
+**recettori beta**. Ciascuna di queste classi è ulteriormente divisa in
+sottoclassi: $\alpha$$_1$, $\alpha$$_2$, $\beta$$_1$, $\beta$$_2$ e
+$\beta$$_3$.
 
-I recettori adrenergici sono accoppiati a proteine G che attivano o inibiscono sitemi di secondi messaggeri.
+I recettori adrenergici sono accoppiati a proteine G che attivano o
+inibiscono sitemi di secondi messaggeri.
 
-Il legame della noradrenalina o dell'adrenalina con un recettore **$\alpha$$_1$** attiva una proteina G che, a sua volta, attiva l'enzima fosfolipasi C.
+Il legame della noradrenalina o dell'adrenalina con un recettore
+**$\alpha$$_1$** attiva una proteina G che, a sua volta, attiva l'enzima
+fosfolipasi C.
 
-Il legame con i recettori **$\alpha$$_2$** attiva una proteina G inibitoria che riduce l'attività dell'adenilato ciclasi, riducendo così la sintesi di AMP ciclico.
+Il legame con i recettori **$\alpha$$_2$** attiva una proteina G
+inibitoria che riduce l'attività dell'adenilato ciclasi, riducendo così
+la sintesi di AMP ciclico.
 
-Il legame con i recettori **$\beta$** invece, attiva una proteina G stimolatrice che incrementa l'attività dell'adenilato ciclasi, aumentando la sintesi dell'AMP ciclico.
+Il legame con i recettori **$\beta$** invece, attiva una proteina G
+stimolatrice che incrementa l'attività dell'adenilato ciclasi,
+aumentando la sintesi dell'AMP ciclico.
 
-I recettori $\alpha$ hanno una maggiore affinità per la noradrenalina rispetto all'adrenalina e sono generalmente eccitatori.
+I recettori $\alpha$ hanno una maggiore affinità per la noradrenalina
+rispetto all'adrenalina e sono generalmente eccitatori.
 
-I recettori $\beta$$_1$ e $\beta$$_3$ hanno un'affinità molto simile per la noradrenalina e l'adrenalina e producono in genere effetti eccitatori.
+I recettori $\beta$$_1$ e $\beta$$_3$ hanno un'affinità molto simile per
+la noradrenalina e l'adrenalina e producono in genere effetti
+eccitatori.
 
-I recettori $\beta$$_2$ hanno una maggiore affinità per l'adrenalina rispetto alla noradrenalina, e in genere producono rispote inibitorie.
+I recettori $\beta$$_2$ hanno una maggiore affinità per l'adrenalina
+rispetto alla noradrenalina, e in genere producono rispote inibitorie.
 
-Questi recettori sono il bersaglio di vari agenti terapeutici; ad esempio, per l'ipertensione vengono utilizzati i beta-bloccanti, l'efedrina invece è utilizzata del trattamento dell’asma in quanto agonista dei recettori $\beta$$_2$, mentre l'atropina agisce sui recettori polinergici muscarinici. 
+Questi recettori sono il bersaglio di vari agenti terapeutici; ad
+esempio, per l'ipertensione vengono utilizzati i beta-bloccanti,
+l'efedrina invece è utilizzata del trattamento dell’asma in quanto
+agonista dei recettori $\beta$$_2$, mentre l'atropina agisce sui
+recettori polinergici muscarinici.
 
 ## Le giunzioni neuroeffettrici
 
-La sinapsi tra un neurone efferente ed il suo organo bersaglio (effettore) è definita **giunzione neuroeffettrice**.
+La sinapsi tra un neurone efferente ed il suo organo bersaglio
+(effettore) è definita **giunzione neuroeffettrice**.
 
-Le sinapsi tra i neuroni autonomi postgangliari e i loro organi effettori differiscono dalle classiche sinapsi tra due neuroni, in quanto i neuroni postgangliari non inviano i loro terminali assonici su un numero ben definito di cellule; i neurotrasmettitori infatti, vengono rilasciati da numerosi rigonfiamenti localizzati ad intervalli quasi costanti lungo gli assoni, noti come **varicosità**.
+Le sinapsi tra i neuroni autonomi postgangliari e i loro organi
+effettori differiscono dalle classiche sinapsi tra due neuroni, in
+quanto i neuroni postgangliari non inviano i loro terminali assonici su
+un numero ben definito di cellule; i neurotrasmettitori infatti, vengono
+rilasciati da numerosi rigonfiamenti localizzati ad intervalli quasi
+costanti lungo gli assoni, noti come **varicosità**.
 
-All'interno di queste varicosità, i neurotrasmettitori sono sintetizzati ed immagazzinati in vescicole.
+All'interno di queste varicosità, i neurotrasmettitori sono sintetizzati
+ed immagazzinati in vescicole.
 
-Le membrane degli assoni contengono i classici canali voltaggio-dipendenti per il Na e il K che permettono la propagazione dei potenziali d'azione.
+Le membrane degli assoni contengono i classici canali
+voltaggio-dipendenti per il Na e il K che permettono la propagazione dei
+potenziali d'azione.
 
-In aggiunta, la membrana, nella regione di ciascuna varicosità, contiene canali voltaggio-dipendenti per il calcio che si aprono all'arrivo del potenziale d'azione.
+In aggiunta, la membrana, nella regione di ciascuna varicosità, contiene
+canali voltaggio-dipendenti per il calcio che si aprono all'arrivo del
+potenziale d'azione.
 
-L'arrivo di un potenziale d'azione nella varicosità apre i canali voltaggio-dipendenti per il calcio che, entrando nel citoplasma, stimola il rilascio del neurotrasmettitore mediante esocitosi.
+L'arrivo di un potenziale d'azione nella varicosità apre i canali
+voltaggio-dipendenti per il calcio che, entrando nel citoplasma, stimola
+il rilascio del neurotrasmettitore mediante esocitosi.
 
-Un assone postgangliare ha molte varicosità, per cui un potenziale d'azione propagato lungo l'assone determina il rilascio del neurotrasmettitore da tutti i rigonfiamenti.
+Un assone postgangliare ha molte varicosità, per cui un potenziale
+d'azione propagato lungo l'assone determina il rilascio del
+neurotrasmettitore da tutti i rigonfiamenti.
 
-Poichè la distanza tra le varicosità e l'organo effettore è maggiore rispetto alla classica fessura sinaptica, il neurotrasmettitore rilasciato diffonde in un'ampia area dell'organo effettore e si lega ai recettori posti sulla membrana plasmatica delle cellule di tutto l'organo bersaglio.
+Poichè la distanza tra le varicosità e l'organo effettore è maggiore
+rispetto alla classica fessura sinaptica, il neurotrasmettitore
+rilasciato diffonde in un'ampia area dell'organo effettore e si lega ai
+recettori posti sulla membrana plasmatica delle cellule di tutto
+l'organo bersaglio.
 
-Gli effetti del neurotrasmettitore terminano quando, come nelle sinapsi neurone-neurone, esso diffonde lontano dai recettori oppure viene ricaptato o degradato ad opera di enzimi, come per esempio l'**acetilcolinesterasi**, localizzata sia sulla membrana del neurone postgangliare sia sulla membrana delle cellule degli organi effettori colinergici.
+Gli effetti del neurotrasmettitore terminano quando, come nelle sinapsi
+neurone-neurone, esso diffonde lontano dai recettori oppure viene
+ricaptato o degradato ad opera di enzimi, come per esempio
+l'**acetilcolinesterasi**, localizzata sia sulla membrana del neurone
+postgangliare sia sulla membrana delle cellule degli organi effettori
+colinergici.
 
-In seguito alla degradazione ad opera dell'acetilcolinesterasi dell'acetilcolina in acetato e colina, quest'ultima è ricaptata attivamente all'interno delle varicosità postgangliari ed utilizzata per sintetizzare altro neurotrasmettitore.
+In seguito alla degradazione ad opera dell'acetilcolinesterasi
+dell'acetilcolina in acetato e colina, quest'ultima è ricaptata
+attivamente all'interno delle varicosità postgangliari ed utilizzata per
+sintetizzare altro neurotrasmettitore.
 
-La **monoamminossidasi** è un altro enzima degradativo che degrada adrenalina e noradrenalina.
-
+La **monoamminossidasi** è un altro enzima degradativo che degrada
+adrenalina e noradrenalina.
 
 ## Il sistema nervoso somatico
 
-A differenza del sistema nervoso autonomo, che controlla le funzooni di molti organi effetori, il sistema nervoso somatico controlla un solo tipo di organo effettore, il muscolo scheletrico.
+A differenza del sistema nervoso autonomo, che controlla le funzooni di
+molti organi effetori, il sistema nervoso somatico controlla un solo
+tipo di organo effettore, il muscolo scheletrico.
 
-Il sistemanervoso somatico ha un solo tipo di neuroni efferenti, i motoneuroni, cioè i neuroni che innervano il muscolo scheletrico.
+Il sistemanervoso somatico ha un solo tipo di neuroni efferenti, i
+motoneuroni, cioè i neuroni che innervano il muscolo scheletrico.
 
-Nel sistema nervoso somatico, un singolo motoneurone collega il sistema nervoso centrale a una fibra muscolare scheletrica.
+Nel sistema nervoso somatico, un singolo motoneurone collega il sistema
+nervoso centrale a una fibra muscolare scheletrica.
 
-I motoneuroni originano nel corno ventrale del midollo spinale e ricevono segnali da molteplici afferenze.
+I motoneuroni originano nel corno ventrale del midollo spinale e
+ricevono segnali da molteplici afferenze.
 
-Un singolo motoneurone innerva molte cellule muscolari (definite **fibre muscolari**), ma ciascuna fibra è innervata da un singolo motoneurone. L'insieme costituito da un motoneurone e dalle cellule muscolari da esso innervate forma un'**unità motoria**.
-Quando un motoneurone è attivato, stimola la contrazione di tutte le fubre muscolari presenti nella sua unità.
+Un singolo motoneurone innerva molte cellule muscolari (definite **fibre
+muscolari**), ma ciascuna fibra è innervata da un singolo motoneurone.
+L'insieme costituito da un motoneurone e dalle cellule muscolari da esso
+innervate forma un'**unità motoria**. Quando un motoneurone è attivato,
+stimola la contrazione di tutte le fubre muscolari presenti nella sua
+unità.
 
 ### La giunzione neuromuscolare
 
-Ciascuna diramazione dell'assone di un motoneurone forma sinapsi con una fibra muscolare scheletrica a livello di una singola regione altamente specializzata della membrana della cellula muscolare, formando una **giunzione muscolare**. I terminali dell'assone del motoneurone, chiamati **bottoni sinaptici** o **bottoni terminali**, immagazzinano e rilasciano acetilcolina, che è l'unico neurotrasmettitore del sistema nervoso somatico.
+Ciascuna diramazione dell'assone di un motoneurone forma sinapsi con una
+fibra muscolare scheletrica a livello di una singola regione altamente
+specializzata della membrana della cellula muscolare, formando una
+**giunzione muscolare**. I terminali dell'assone del motoneurone,
+chiamati **bottoni sinaptici** o **bottoni terminali**, immagazzinano e
+rilasciano acetilcolina, che è l'unico neurotrasmettitore del sistema
+nervoso somatico.
 
-Dal lato opposto del bottone sinaptico, sulla membrana della fibra muscolare, vi è una regione specializzata, la **placca motrice**, che presenta molte invaginazioni contenenti un elevato numero di recettori per l'acetilcolina.
+Dal lato opposto del bottone sinaptico, sulla membrana della fibra
+muscolare, vi è una regione specializzata, la **placca motrice**, che
+presenta molte invaginazioni contenenti un elevato numero di recettori
+per l'acetilcolina.
 
-Questi recettori rappresentano una varietà dei recettori colinergici nicotinici. 
+Questi recettori rappresentano una varietà dei recettori colinergici
+nicotinici.
 
-L'acetilcolina, che è presente tra le invaginazioni della placca motrice, determina la fine del segnale eccitatoio ed il rilassamento della fibra muscolare.
+L'acetilcolina, che è presente tra le invaginazioni della placca
+motrice, determina la fine del segnale eccitatoio ed il rilassamento
+della fibra muscolare.
 
-Il recettore nicotinico è un canale ionico formato da 5 subunità, di cui 2 alfa che legano l'acetilcolina.
-Dopo aver legato l'acetilcolina, il canale si apre permettendo il trasporto di ioni Na$^+$. L'ingresso di ioni sodio nella cellula muscolare produce una depolarizzazione che prende il nome di **potenziale di placca**. Questo potenziale è molto forte (circa 70 mV, è molto più forte di quello postsinaptico, circa 10-15 mV) e da solo è in grado di depolarizzare la membrana muscolare fino al valore soglia necessario per indurre il potenziale d'azione.
+Il recettore nicotinico è un canale ionico formato da 5 subunità, di cui
+2 alfa che legano l'acetilcolina. Dopo aver legato l'acetilcolina, il
+canale si apre permettendo il trasporto di ioni Na$^+$. L'ingresso di
+ioni sodio nella cellula muscolare produce una depolarizzazione che
+prende il nome di **potenziale di placca**. Questo potenziale è molto
+forte (circa 70 mV, è molto più forte di quello postsinaptico, circa
+10-15 mV) e da solo è in grado di depolarizzare la membrana muscolare
+fino al valore soglia necessario per indurre il potenziale d'azione.
 
 Il potenziale di placca si propaga sulla fibra della matrice muscolare.
 
-Negli spazi intersinaptici si accumula acetilcolina e qui vengono anche legati i recettori colinergici nicotinici. 
+Negli spazi intersinaptici si accumula acetilcolina e qui vengono anche
+legati i recettori colinergici nicotinici.
 
-La fine del segnale lo si ha inibendo l'acetilcolinesterasi. Questo enzima degrada l'acetilcolina e non permette alla cellula di assumere acetilcolina. 
+La fine del segnale lo si ha inibendo l'acetilcolinesterasi. Questo
+enzima degrada l'acetilcolina e non permette alla cellula di assumere
+acetilcolina.
 
-Su queste sinapsi agiscono veleni che possono provocare rilassamento muscolare e paralisi.
-I meccanismi di azione di questi veleni sono diversi:
+Su queste sinapsi agiscono veleni che possono provocare rilassamento
+muscolare e paralisi. I meccanismi di azione di questi veleni sono
+diversi:
 
 + la *tossina botulinica* viene rilasciata dal batterio Clostridio, ed inibisce il rilascio di acetilcolina mandando in paralisi il muscolo;
 + l'*alfa-bungarotossina* (veleno del cobra, molto potente) agisce sul recettore nicotinico bloccando l'apertura dei canali sodio e impedendo in questo modo la contrazione della muscolatura;
@@ -189,3 +359,648 @@ I meccanismi di azione di questi veleni sono diversi:
 + l'*atrossina* (veleno della vedova nera) aumenta il rilasico di acetilcolina mandando la muscolatura in contrazione tetanica;
 + gli inibitori dell'acetilcolinaesterasi (*pesticidi* e *gas nervino*) causano un'inibizione permanente della contrazione muscolare dovuta a depolarizzazione permanente e, di conseguenza, paralisi;
 + la *succinilcolina* (analogo dell'acetilcolina) è meno sensibile all'azione dell'acetilcolinesterasi e aumnta l'attività provocando lo stesso effeto degli inibitori dell'acetilcolinesterasi e quindi causa paralisi da depolarizzazione.
+
+**lezione 20151116**
+
+# Il sistema sensoriale
+
+La porzione afferente del sitema nervoso periferico trasmette
+informazioni dalla periferia al SNC. Le informazioni sono raccolte da
+*recettori sensoriali* che rispondono a stimoli specifici. mentre alcuni
+di questi recettori vengono eccitati da stimoli provenienti
+dall'ambiente esterno, altri, definiti *recettori viscerali*, ricevono
+stimoli provenienti dall'interno dell'organismo.
+
+Esempi di queste recettori viscerali includono: *chemocettori* delle
+pareti dei vasi ematici, che monitorano i livelli di O$_2$, CO$_2$ e
+H$^+$; i *barocettori* che rilevano la pressione ematica; i
+*meccanocettori* del tratto intestinale.
+
+Sebbene l'encefalo riceva informazioni da questi recettori e le
+utilizzi, noi non siamo coscienti di questi stimoli.
+
+Parte della percezione si basa su esperienze precedenti, dunque
+individui diversi possono percepire gli stessi stimoli differentemente.
+
+Tutti i recettori inviano stimoli al sistema nervoso centrale ma non
+tutti raggiungono la corteccia cerebrale. Il soggetto è conscio solo
+degli stimoli che raggiungono la corteccia cerebrale. Altri stimoli
+rimangono a lui ignoti dal punto di vista dell'autoconsapevolezza anche
+se il SNC non rimane indifferente e reagisce comunque a questi stimoli
+tramiti gli efferenti anche se non ce ne si rende conto.
+
+Il potenziale d’azione parte dalla terminazione nervosa e va verso il
+SNC. Insorge per diretta stimolazione della terminazione o sotto
+stimolazione della cellula recettoriale.
+
+I recettori sensoriali sono strutture neuronali specializzate in grado
+di percepire specifiche forme di energia derivanti sia dall'ambiente
+esterno che dall'interno dell'organismo.
+
+La forma di energia di uno stimolo è definita **modalità** (es. onde
+luminose, pressione, temperatura...). La **legge delle energie nervose
+specifiche** stabilisce che un determinato recettore sensoriale è
+specifico per una particolare modalità sensoriale. La **modalità** alla
+quale risponde un recettore è definita **stimolo adeguato**. Modalità
+differenti dagli stimoli adeguati possono attivare i recettori soltanto
+se i livelli di energia di stimolazione sono molto elevati.
+
+La funzione dei recettori sensoriali è la **trasduzione**, cioè la
+conversione di una forma di energia in un'altra. Nella *trasduzione
+sensoriale*, i recettori convertono la forma di energia di uno stimolo
+sensoriale in modificazioni del potenziale di membrana definite
+**potenziale di recettore** o **potenziali generatori**. I potenziali di
+recettore hanno le stesse caratteristiche dei potenziali postsinaptici,
+in quanto sono dei potenziali graduati generati dall'apertura o dalla
+chiusura di canali ionici. Maggiore è l'intensità dello stimolo,
+maggiore sarà la variazione del potenziale di membrana.
+
+I recettori sensoriali sono di 2 tipi differenti:
+
+1. il recettore sensoriale può essere una struttura specializzata
+presente all'estremità periferica di un neurone afferente. Se il
+recettore si depolarizza fino al valore soglia, si avrà un
+potenziale d'azione che verrà propagato dal neurone afferente fino
+al SNC, trasmettendo informazioni riguardanti lo stimolo;
+2. in altri casi, il recettore sensoriale è costituito da una cellula
+che comunica attraverso una sinapsi chimica con un neurone afferente
+ad essa associato.
+
+Alcuni recettori continuano a rispondere ad uno stimolo per tutta la
+durata di applicazione dello stimolo stesso. Tuttavia, molti recettori
+*si adattano* allo stimolo, in quanto la loro risposta diminuisce nel
+tempo. L'**adattamento recettoriale** rappresenta il decremento nel
+tempo dell'ampiezza del potenziale di recettore in presenza di uno
+stimolo costante.
+
+I **recettori a lento adattamento**, o **recettori tonici**, hanno bassi
+livelli di adattamento e pertanto possono dare informazioni relative
+all'intensità di uno stimolo prolungato.
+
+I **recettori a rapido adattamento**, o **recettori fasici**, si
+adattano rapidamente e funzionano in maniera ottimale quando devono
+rilevare modificazioni dell'intensità dello stimolo. I recettori fasici
+rispondono all'inizio dello stimolo, per poi adattarsi a esso. Alcuni di
+questi recettori mostrano una seconda e minore risposta al termine dello
+stimolo, definita *"risposta off"*.
+
+Le vie nervose specifiche che trasmettono informazioni pertinenti ad una
+particolare modalità sono definite **linee marcate** e ciascuna modalità
+sensoriale segue la sua linea marcata. L'attivazione di una via
+specifica determina la percezione della modalità associata,
+indipendentemente dal reale stimolo che attiva la via.
+
+Un'**unità sensoriale** comprende un singolo neurone afferente e tutti i
+recettori ad esso associati. Tutti i recettori associati con un
+determinato neurone afferente sono dello stesso tipo e l'attivazione di
+ognuno di essi può generare potenziali d'azione nel neurone afferente.
+
+L'area nella quale uno stimolo adeguato può produrre una risposta
+(eccitatoria o inibitoria) nel neurone afferente è definita **campo
+recettivo** di quel neurone; esso corrisponde alla regione che contiene
+recettori per quel neurone afferente.
+
+Il neurone afferente che trasmette l'informazione dalla periferia al SNC
+è definito **neurone di primo ordine**. Un singolo neurone di primo
+ordine può comunicare con molti interneuroni, causando, nell'ambito del
+SNC, una divergenza del segnale. In aggiunta, interneuroni possono
+ricevere impulsi convergenti da molti neuroni di primo ordine. Alcuni di
+questi interneuroni trasmettono informazioni al talamo, che rappresenta
+la regione principale di collegamento per le informazioni sensoriali;
+questi interneuroni sono un esempio di **neuroni di secondo ordine**.
+
+Nel talamo, questi neuroni di seconod ordine formano sinapsi con
+**neuroni di terzo ordine**, che trasmettono le informazioni alla
+corteccia cerebrale, dove si realizza la percezione della sensazione.
+
+**(immagine 10.6 pag258)**
+
+Questa organizzazione geometrica del sistema nervoso è ideale per creare
+delle mappature.
+
+L'*intensità* dello stimolo è codificata dalla *frequenza dei potenziali
+d'azione* (**codice di frequenza**) e dal *numero dei recettori
+attivati* (**codice di popolazione**).
+
+Nel *codice di frequenza*, uno stimolo più intenso dà origine a un
+potenziale di recettore più ampio. Se un potenziale graduato (in questo
+caso il potenziale del recettore) supera il valore soglia,
+depolarizzazioni maggiori possono superare il periodo refrattario
+relativo di un potenziale d'azione, generando, di conseguenza, un
+secondo potenziale d'azione più rapidamente di quanto non farebbe una
+depolarizzazione più debole. Perciò uno stimolo più intenso produce un
+aumento della frequenza di scarica dei potenziale d'azione.
+
+Nel *codice di popolazione*, uno stimolo più intenso attiva o recluta un
+maggior numero di recettori; questi recettori possono essere associati
+con un singolo neurone afferente, oppure lo stimolo può reclutare
+recettori associati a differenti neuroni afferenti. In entrambi i casi,
+al SNC viene trasmessa una maggior frequenza di potenziali d'azione in
+risposta allo stimolo, indicando che lo stimolo è più forte.
+
+**(immagine 10.8 p259)**
+
+La precisione con la quale è percepita la localizzazione di uno stimolo
+è definita **acuità** (= capacità di distinguere due stimoli molto
+vicini come diversi).
+
+Questa proprietà è ben rappresentata nella sensibilità somatica ma anche
+nella retina. La superficie del corpo e della retina sono quelle più
+coinvolte nei processi di mappatura topografice spaciale dello stimolo.
+
+Nelle sensazioni associate ai recettori della cute, l'acuità dipende
+dalle dimensioni e dal numero dei campi recettivi, dal sovrapporsi degli
+stessi e dal fenomeno dell'inibizione laterale. Se è attivato uno
+specifico neurone afferente, lo stimolo deve essere localizzato
+nell'ambito del campo recettivo di quel neurone. Tuttavia, le dimensioni
+dei campi recettivi variano notevolmente nell'organismo.
+
+La localizzazione dello stimolo è migliore nelle regioni innervate da
+neuroni con campi recettivi piccoli. La localizzazione è migliorata
+dalla sovrapposizione dei campi recettivi di diversi neuroni afferenti.
+Questa sovrapposizione migliora la localizzazione tramite due
+meccanismi:
+
+1. l'attivazione di entrambi i neuroni afferenti da parte di qualsiasi
+stimolo che cada nella regione di sovrapposizione;
+2. l'inibizione laterale.
+
+Nell'**inibizione laterale**, uno stimolo che eccita fortemente i
+recettori in un'area cutanea inibisce l'attività nelle vie afferenti dei
+recettori limitrofi.
+
+La massima acuità è presente nelle labbra o nelle dita delle mani ed è
+minima nella schiena.
+
+L'inibizione laterale incrementa l'acuità, in quanto migliora il
+contrasto dei segnali nel sistema nervoso. Essa permette la trasmissione
+di segnali intensi in alcuni neuroni, sopprimendo la trasmissione di
+segnali più deboli provenienti dai neuroni limitrofi.
+
+Ciascun neurone stabilisce sinapsi con un singolo neurone di secondo
+ordine. I neuroni afferenti presentano collaterali che comunicano con
+interneuroni inibitori del SNC. In questo caso, le collaterali
+provenienti dal neurone afferente attivano interneuroni inibitori che
+riducono la comunicazione tra neuroni afferenti con campi recettivi
+limitrofi e neuroni di secondo ordine.
+
+L'inibizione laterale incrementa l'acuità, in quanto migliora il
+contrasto dei segnali nel sistema nervoso. Essa permette la trasmissione
+di segnali intensi in alcuni neuroni, sopprimendo la trasmissione di
+segnali più deboli provenienti dai neuroni limitrofi.
+
+Il risultato netto sarà una maggiore differenza nella frequenza dei
+potenziali d'azione tra i neuroni di secondo ordine rispetto ai neuroni
+afferenti ma, ciò che è più importante, la frequenza dei potenziali
+d'azione del neuroni che riceve lo stimolo sarà *molto più elevata*
+rispetto a quella dei neuroni limitrofi. L'aumentato contrasto
+risultante tra segnali neuronali più e meno importanti permetterà una
+migliore localizzazine dello stimolo, aumentando l'acuità tattile.
+
+Una misura dell'acuità tattile è data dalla **discriminazione di due
+punti**, vale a dire la capacità di una persona di percepire due stimoli
+pressori applicati sulla cute in due punti separati spazialmente. Al di
+sotto della *soglia di discriminazione di due punti* i due stimoli non
+vengono più percepiti come separati. La possibilità di discriminare due
+punti di stimolazione si verifica soltanto se i due stimoli pressori
+sono applicati ai campi recettivi di due diversi neuroni afferenti.
+Pertanto, più piccoli sono i campi recettivi, maggiore sarà la capacità
+di discriminare due punti distinti e maggiore sarà l'acuità tattile.
+
+In altri sistemi, come quelli olfattivi e uditivi, la localizzaizone
+dello stimolo è basata sull'arrivo di stimoli alle due narici o alle due
+orecchie con tempi lievementi differenti. Il cervello usa le differenze
+temporali nell'arrivo del potenziale d'azione a livello della corteccia
+olfattiva o uditiva per determinare la provenienza dello stimolo. Il
+sistema nervoso centrale riesce a discriminare quale gruppo di neuroni
+si è attivato prima.
+
+## Recettori somatosensoriali
+
+Il sistema somatosensoriale risponde ad una varietà di stimoli
+provenienri da molte aree del corpo e, pertanto, utilizza molti tipi di
+recettori.
+
+Le sensazioni somestesiche relative a stimoli associati con la
+superficie del corpo sono dovute alla presenza di:
+
++ **meccanocettori**, in grado di rilevare stimoli pressori o
+vibrazioni;
++ **termocettori**, in grado di rilevare variazioni di temperatura;
++ **nocicettori**, in grado di rilevare stimoli dannosi per i tessuti.
+
+### I meccanocettori cutanei
+
+Nella cute c'è un complesso di meccanocettori che vengono attivati da
+stimoli pressori. Si parla di sensibilità tattile dovuta a
+meccanocettori.
+
+Questi recettori possiedono *fibre A-beta mielinizzate*, le più grosse
+del sistema sensoriale.
+
+Le cellule recettoriali sono tutte coincidenti con le terminazioni
+neuronali. Esse sono associate a conformazioni caratteristiche della
+cute e quindi è stata data tutta una serie di nomi diversi a queste
+terminazioni. Ad esempio i *corpuscoli del pacini* sono terminazioni
+nervose ricoperte da strati concentrici di connettivo. Queste lamelle
+connettivali inducono bella terminazione nervosa l'apertura dei canali
+del Na$^+$ stimolati da azione meccanica. L'apertura di questi canali
+induce un potenziale recettoriale, che a sua volta induce un potenziale
+d'azione voltaggio-dipendente a livello del primo nodo di Ranvier (si
+tratta di fibre mielinizzate).
+
+Questi recettori si trovano nella porzione profonda della cute, con
+campi recettoriali ampi (se situati in superficie i campi recettoriali
+sono piccoli). Sono recettori fasici a rapido adattamento.
+
+### I termocettori
+
+I termocettori reagiscono a stimoli di tipo termico.
+
+Questi recettori sono caratterizzati da *fibre A-delta mielinizzate*
+(più piccole delle A-beta) e da *fibre non mielinizzate di tipo C*.
+
+Ci sono due tipi di termorecettori: quelli per il caldo e quelli per il
+freddo.
+
+I **recettori per il caldo** sono costituiti da terminazioni nervose
+libere che rispondono a temperature tra i 30°C e i 45°C; la frequenza di
+scarica dei potenziali d'azione aumenta all'aumentare della temperatura
+fino a 45°C.
+
+I **recettori per il freddo** rispondono a variazioni di temperatura
+comprese tra i 35°C e i 20°C. La frequenza dei potenziali dàazione
+incrementaal diminuire della temperatura ed è massima per temperature di
+circa 25°C. I recettori per il freddo rispondono anche a temperature
+superiori a 45°C, uno stimolo *"dolorosamente caldo"*, con la frequenza
+dei potenziali d'azione che aumenta all'aumentare della temperatura.
+
+I termorecettori sono terminazioni nervose libere dotate di canali
+ionici sensibili alla temperatura.
+
+Sono recettori fasici ed esistono unità sensoriali per il caldo e il
+freddo disposte in regioni (miroscopiche) diverse.
+
+### I nocicettori
+
+I nocicettori sono recettori sensoriali responsabili della trasduzione
+di *stimoli nocivi* percepiti dal cervello come dolore.
+
+I nocicettori sono costituiti da terminazioni nervose libere che
+rispondono a stimoli che inducono danno tissutale (o potenzialmente
+dannosi).
+
+Vi sono 3 tipi di nocicettori:
+
+1. **nocicettori meccanici**, che rispondono a stimoli meccanici
+intensi;
+2. **nocicettori termici**, che rispondono a temperature elevate (\>
+44°C);
+3. **nocicettori polimodali** che rispondono a molti stimoli, compresi
+quelli meccanici e termici, e a sostanze rilasciate dai tessuti
+danneggiati (istamina, prostaglandina, serotonina e bradichina).
+
+Questi recettori presentano *fibre A-delta* e *C*, sono terminazioni
+nervose libere.
+
+I recettori del dolore sono caratteristici perché hanno *recettori*
+**TRPV1** (un recettore *vanilloide*) che rispondono a calore eccessivo
+o sostanze chimiche come la capsaicina (molecola tipica del peperoncino
+che abbassa la soglia termica di attivazione del recettore, per questo
+provoca una sensazione di calore/bruciore).
+
+Il mentolo invece fa la stessa cosa ma su recettori che rispondono al
+freddo. I recettori sono anche nella bocca e nelle prime vie aeree e per
+questo le sensazioni si registrano nel cavo orale.
+
+### Corteccia somatosensoriale
+
+La percezione delle sensazioni somatiche provenienti da tutte le parti
+del corpo inizia nella corteccia somatosensoriale primaria. Questa è
+organizzata in maniera topografica, nel senso che le informazioni
+provenienti da aree del corpo vicine sono generalmente proiettate verso
+aree corticali contigue.
+
+La corteccia cerebrale ha un'organizzazione colonnare. Essa è sudduvisa
+in strati e si individuano delle colonne poiché regioni di superficie
+della corteccia corrispondono a regioni di superficie del corpo.
+
+Per ogni area topografica arrivano stimoli diversi, e si hanno colonne
+diverse per le varie attività sensoriali.
+
+Vi sono due vie principali che trasmettono informaizoni somatosensoriali
+dai recettori periferici al SNC: la *via delle colonne dorsali-lemnisco
+mediale* ed il *tratto spinotalamico*.
+
+Queste due vie di trasmissione inviano differenti tipi di informazioni
+sensoriali al talamo ed alla corteccia somatosensoriale.
+
+In entrambi i casi, queste due vie afferenti, penetrate nel midollo
+spinale, incrociano prima di raggiungere il talamo.
+
+La **via delle colonne dorsali-melnisco mediale** trasmette infromazioni
+da meccanocettori e propiocettori al talamo.
+
+In questa via, i neuroni di primo ordine originano nella periferia e
+penetrano nelle corna dorsali del midollo spinale. Mentre collaterali
+dell'assone possono terminare nel midollo spinale e stabilire sinapsi
+con interneuroni coinvolti nei riflessi spinali, la diramazione
+principale dell'assone ascende ipsilateralmente (dallo stesso lato dello
+stimolo) nel midollo spinale verso il tronco encefalico, percorrendo le
+**colonne dorsali**. Queste rappresentano dei tratti di sostanza bianca
+che passano medialmente e dorsalmente alle corna dorsali del midollo
+spinale. I neuroni di primo ordine terminano nei **nuclei delle colonne
+dorsali**, che sono localizzati nel bulbo, dove formano sinapsi con
+neuroni di secondo ordine.
+
+Gli assoni dei neuroni di secondo ordine incrociano e passano nel lato
+opposto del bulbo, formando un tratto chiamato *lemnisco-mediale*, e
+quindi ascendendo verso il talamo.
+
+Nel talamo i neuroni di secondo ordine stabiliscono sinapsi con neuroni
+di terzo ordine che ritrasmettono le informazioni dal talamo alla
+corteccia somatosensoriale.
+
+Lo stimolo arriva nell'emisfero cerebrale dal lato opposto del corpo
+rispetto al lato da cui è partito.
+
+Il percorso che compie è:
+
+midollo spinale $\rightarrow$ midollo allungato $\rightarrow$ talamo
+$\rightarrow$ corteccia.
+
+Il **tratto spinotalamico** trasmette informazioni provenienti dai
+termocettori e dai nocicettori al talamo.
+
+Il tratto spinotalamico incrocia già nel midollo spinale, prima di
+raggiungere il tronco encefalico.
+
+in questa via, i neuroni di primo ordine che originano a livello
+periferico a partire da termocettori o nocicettori penetrano nel corno
+dorsale del midollo spinale. A tale livello, i neuroni di primo ordine
+possono dirigersi verso l'alto o il basso per una brave distanza lungo
+il *tratto di Lissauer*, ma alla fine formano sinapsi con neuroni di
+secondo ordine presenti nel corno dorsale.
+
+Sono proprio questi neuroni di secondo ordine che, attraversando il
+midollo spinale controlateralmente, ascendono nel quadrante
+anterolaterale del midollo spinale verso il tronco encefalico e
+terminano nel talamo.
+
+Una volta nel talamo formano sinapsi con neuroni di terzo ordine che
+terminano nella corteccia somatosensoriale.
+
+I due stimoli (dorale e spinotalamico) arrivano nella stessa porzione
+della corteccia ma in colonne differenti pecorrendo diverse vie.
+
+### La percezine del dolore
+
+Esistono due tipi di dolore, quello rapido e quello lento, che sono
+trasmessi da differenti classi di neuroni afferenti.
+
+Il **dolore rapido** è percepito come una netta sensazione di puntura
+facilmente localizzabile; questo tipo di dolore è trasmesso da *fibre
+A$\delta$*, mieliniche e di piccolo diametro.
+
+Il **dolore lento** è percepito in modo poco localizzato, dando origine
+ad una sensazione che insorge lentamente; esso è trasmesso da *fibre C*,
+amieliniche e di piccolo diametro.
+
+Entrambi questi tipi di fibre formano sinapsi con neuroni di secondo
+ordine nel cordo dorsale del midollo spinale. La trasmissione sinaptica
+a tale livello è resa possibile da differenti neurotrasmettitori. Tale
+sostanza, rilasciata dai neuroni afferenti primari, si lega a recettori
+sui neuroni di secondo ordine. Questi ultimi ascendono verso il talamo,
+mediante il tratto spinotalamico.
+
+La percezione del dolore non è limitata alla superficie corporea, esiste
+anche un *dolore viscerale*.
+
+L'attivazione dei recettori viscerali dà origine ad un dolore chiamato
+**dolore riferito** (poichè è stato riferito alla superficie corporea).
+
+Il dolore riferito è dovuto al fatto che i neuroni di secondo ordine che
+ricevono impulsi da afferenze viscerali ricevono anche afferenze
+somatiche.
+
+La sensibilità nocicettiva ha un pesante influsso su tutte le attività
+cerebrali e si ripercuote sui nuclei profondi, sull'amigdala e
+sull'ipotalamo portando reazioni emotive ed endocrine rispettivamente.
+
+I segnali riguardanti informazioni sensoriali possono essere modulati
+durante la loro trasmissione lungo le vie sensoriali, attraverso
+facilitazione o attenuazione di segnali che possono portare a
+cambiamenti nella percezione finale dell'informazione. I segnali
+sensoriali possono essere modulati in qualsiasi punto della via in cui
+ci sia una sinapsi.
+
+Secondo la **teoria del controllo a cancello** la percezione del dolore
+può essere inibita a livello spinale attraverso afferenze somatiche non
+dolorifiche. Questa teoria postula l'esistenza di un'inibizione
+sinaptica ad opera di interneuroni spinali sui neuroni di secondo ordine
+che trasportano le informazioni dolorifiche.
+
+È come se ci fossero dei cancelli che tengono chiuse le vie del dolore e
+che necessitano di un'apertura affinché lo stimolo attraversi il
+cancello e percorra la via. I cancelli consistono di interneuroni
+inibitori che inibiscono il neurone di secondo ordine impedendo la sua
+stimolazione. L’inibizione deve essere vinta affinché il neurone di
+secondo ordine venga stimolato.
+
+I cancelli possono essere anche operati da vie che provengono dal
+sistema nervoso centrale. Le endorfine, ad esempio, agiscono in questo
+modo.
+
+Durante lo stress fisico sono attive vie discendenti che raggiungono il
+midollo spinale provenendo dalla corteccia cerebrale e attraversando la
+zona periacquiduttale (attorno all'acquedotto di silvio) e portano
+stimoli che raggiungono le giunzioni sinaptiche tra i neuroni di primo e
+secondo ordine e attivano neuroni inibitori che rilasciano encefalina
+(un oppioide endogeno) e diminuiscono le sensazioni dolorifiche.
+
+Il neurotrasmettitore inibisce la sinapsi inibendo la sensazione di
+dolore o riducendo la scarica della sinapsi stessa. Questo succede
+quando il corpo è sotto stress. È un meccanismo sfruttato
+farmacologicamente. La morfina del papavero da oppio fa lo stesso lavoro
+ed è dunque usato come potente antidolorifico.
+
+# La vista
+
+La vista è dovuta alla percezione di stimoli luminosi, e consiste nella
+ricostruzione di tutti i punti luminosi che provengono dal campo visivo
+con la stessa disposizione con cui raggiungono il sistema recettoriale.
+
+L'organo in grado di ricostruire l’immagine è l’occhio.
+
+## Anatomia dell'occhio
+
+L'occhio può essere diviso in 3 strati concentrici:
+
++ quello più esterno, formato da **sclera** e **cornea**. La *sclera* è un tessuto connettivo consistente (forma la parte bianca dell'occhio). Nella parte anteriore la sclera dà origine alla *cornea*, una struttura trasparente che consente alla lune di penetrare nell'occhio;
++ lo strato medio è costituito dalla **coroide**, dal **corpo ciliare** e dall'**iride**.
+	+ La *coroide* è uno strato di tessuto altamente pigmentato posto al di sotto della sclera, include i fotorecettori e vasi ematici che nutrono lo strato profondo dell'occhio;
+	+ Il *corpo ciliare* contiene **muscoli ciliari**, che sono attaccati ad una lente, il *cristallino*, attraverso dei sottili tendini di tessuto connettivo chiamati **fibre zonulari**. Il **cristallino** focalizza la luce sulla **retina**, dove l'informazione visiva viene trasdotta. I *muscoli ciliari* cambiano la forma del cristallino, permettendo la focalizzazione dei raggi luminosi.
+	+ L'*iride*, che è formata da due strati di cellule muscolari pigmentate, è localizzata davanti al cristallino e determina il colore degli occhi. La **pupilla** è un foro, posizionati alcentro dell'iride, che permette alla luce di penetrare nella parte posteriore dell'occhio (non è una struttura). L'iride regola il diametro della pupilla, variando in tal modo la quantità di luce che raggiunge la parte posteriore dell'occhio.
++ lo strato più interno è rappresentato dalla **retina**, che è formata da tessuto nervoso contenente i fotorecettori (cellule sensibili ale onde luminose). I *fotorecettori* sono di due tipi, i **coni** e i **bastoncelli**, che percepiscono rispettivamente la luce intensa e quella soffusa. La retina funzona come un *fototrasduttore*, trasformando l'energia luminosa in energia elettrica. Nella parte esterna della retina e attaccato alla coroide si trova l'**epitelio pigmentato della retina**. Questa struttura ha un'alta concentrazione del pigmento *nero melanina*, che assorbe la luce che arriva alla parte posteriore dell'occhio, impedendo così la riflessione attraverso la retina e la distorsione dell'immagine. Due aree della retina sono molto importanti:
+	+ la **fovea**, che rappresenta il punto centrale della retina, dove si dirige la luce proveniente dal centro del campo visivo. È l'area della retina con la maggiore acuità visiva;
+	+ il **disco ottivo**, cioè la porzione della retina attraversata dal nervo ottivo e dai vasi ematici che irrorano l'occhio. Poichè questa regione è sprovvista di fotorecettori, essa costituisce un **punto cieco** della retina, dove la luce non può generare impulsi elettrici e quindi essere percepita.
+
+(immagine 10.19 p271)
+
+Il cristallino e il corpo ciliare suddividono l'occhio in due camere
+piene di liquido:
+
++ davanti al cristallino e al corpo ciliare si trova il **segmento anteriore**. Questo contiene un liquido limpido e acquoso, definito **umor acqueo**, che fornisce nutrienti alla cornea e al cristallino. Poichè la cornea e il cristallino sono strutture trasparenti che devono essere facilemnte attraversate dalla luce, se dipendessero dall'apporto ematico di nutrienti, la presenza dei vasi ostruirebbe parzialmente il passaggio della luce. Il segmento anteriore è a sua volta diviso in:
+	+ **camera anteriore** (tra cornea e iride);
+	+ **camera posteriore** (tra l'iride e il cristallino).
++ posterioremente al cristallino e al corpo ciliare vi è una camera trasparente (**camera vitrea** o **segmento posteriore**) contenente una sotanza gelatinosa, definita **umor vitreo**, che contribuisce a mantenere la struttura sferica dell'occhio.
+
+L'occhi è un sistema sensibile a fotoni compresi tra i 350 e 750 nm perché a queste lunghezze le particelle si comportano come onde. 
+
+La luce possiede tutte le caratteristiche delle onde e può quandi essere riflessa e rifratta. 
+La **riflessione** è un fenomeno per il quale le onde luminose urtano e rimbalzano su una superficie.
+La **rifrazione** rappresenta il fenomeno per il quale le onde luminose cambiano direzione nel passare attraverso materiali trasparenti di densità differenti
+
+Quando i raggi luminosi sono perpendicolari alla superficie da attraversare, non modificano la propria direzione; tuttavia, s ei raggi attraversano le superfici con angolazioni diverse da quella perpendicolare, le lenti concave li fanno divergere, mentre quelle convesse li fanno convergere verso un punto definito *punto focale*. La distanza tra l'asse maggiore della lente convessa ed il punto focale è definita *distanza focale*.
+
+Sia la cornea che il cristallino hanno superfici convesse, che funzionano facendo convergere le onde luminose che penetrano nell'occhio a livello retinico; in tal modo, l'immagine che si forma nella retina è a fuoco.
+
+Per vedere l'immagine a fuoco, la luce proveniente da un determinato punto del *campo visivo* deve convergere in un singolo punto della retina. Sebbena la cornea abbia un potere di rifrazione maggiore del cristallino, a causa del maggior raggio di curvatura, il potere di rifrazione del cristallino può essere variato per permettere la focalizzazione della luce sulla retina. 
+La capacità del cristallino di modificare il suo potere di rifrazione nella visione da vicino e da lontano è definita **accomodazione**.
+
+La rifrazione dei raggi luminosi quando passano attraverso la cornea e il cristallino fa sì che l'immagine venga proiettata sulla retina invertita e capovolta.
+
+Il punto in cui si focalizza l'oggetto dipende anche dalla distanza dell'oggetto dalla lente. L'occhio non riesce a mettere a fuoco qualsiasi distanza, ma solo gli oggetti che si trovano entro una certa distanza; a lunghezze minori si ha un'immagine sfuocata. 
+
+L’occhio umano mette a fuoco solo un piano del campo visivo, però può variare la distanza della messa a fuoco e mettere a fuoco tutti i piani del campo visivo che sta osservando ma non contemporaneamente. Questa funzione è chiamata accomodazione. 
+
+La forma del cristallino è controllata dal muscolo ciliare, che presenta fibre disposte concentricamente, mediante la tensione che esos esercita sulle fibre zonulari che collegano il muscolo ciliare al cristallino.
+
+Maggiore è la concentrazione di un muscolo circolare e minore sarà il diametro interno del cercio (muscolo ciliare), cui corrisponderà una minore tensione delle fibre zonulari e una maggiore curvatura del cristallino.
+
+Per la visione di oggetti distanti il muscolo ciliare è rilasciato, il che aumenta il diametro del muscolo stesso, tende le fibre zonulari e riduce la curvatura del cristallino, in modo tale che questo assuma una forma più schiacciata (minore convessità).
+
+L'accomodazione è sotto il controllo del sistema nervoso parasimpatico, che attiva la contrazione del muscolo ciliare per la visione da vicino. In assenza di attività parasimpatica, il muscolo ciliare si rilascia.
+
+Se le onde non sono adeguatamente focalizzate sulla retina, la visione è distorta.
+
+I difetti visivi più comuni sono:
+
++ **miopia**. La persona può vedere chiaramente gli oggetti vicini, ma non quelli distanti, in quanto il cristallino o la cornea rifrangono in maniera eccessiva i raggi luminosi; per tale motivo, gli oggetti vicini all'occhio possono essere messi a fuoco senza accomodazione, ma quelli posti a distanza vengono focalizzati davanti alla retina, con conseguente distorsione dell'immagine;
++ **ipermetropia**. Il cristallino o la cornea sono inadeguati in relazione alla lunghezza del bulbo oculare; pertanto, gli oggetti a distanza possono essere focalizzati sulla retina solo mediante accomodazione, il che significa che il cristallino non riesce a ottimizzare l'accomodazione in maniera sufficiente nella visione da vicino. La luce porveniente da un oggetto vicino all'occhio viene così messa a fuoco oltre la retina, generando una distorsione dell'immagine;
++ **astigmatismo**. Le irregolarità della superficie della cornea o del cristallino alterano la direzione delle onde luminose;
++ **presiopia**. È un indurimento del cristallino che si verifica con il passare degli anni. Questo causa una perdita di elasticità del cristallino, che riduce la sua capacità di diventare sferico e rende difficile l'accomodazione per la visione da vicino;
++ **cataratta**. È un'altra alterazione clinica correlata all'età, che provoca un'opacizzazione del cristallino e ne riduce la trasparenza;
++ **glaucoma**. È un aumento del volume dell'umor acqueo che determina un incremento della pressione nella cavità anteriore del bulbo oculare, alterando la forma della cornea e modificando la posizione del cristallino. Il cambiamento di posizione del cristallino può trasmettere un'aumentata pressione al corpo vitreo, comprimendo i vasi ematici che irrorano la retina e generando cecità permanente.
+
+Nella **emmetriopia** o visione normale, invece, una persona vede bene sia oggetti lontani che vicini. 
+
+Gli occhi sono capaci di regolare il quantitativo di luce che penetra in essi variando il diametro delle pupille.
+
+Nella luce intensa, le pupille sono di diametro ridotto, o *costrette*, in modo tale che i fotorecettori non vengano "accecati" dalla luce troppo intensa. In presenza di luce fioca, al contrario, le pupille sono *dilatate*, in modo tale da permettere un maggior passaggio di luce; la dimensione della pupilla è controllata dall'iride.
+
+L'iride è formata da due trati di cellule muscolari lisce che circondano la pupilla:
+
++ uno strato interno di **muscolatura circolare**, detto *muscolo costrittore*. I muscoli circolari formano cerchi concentrici attorno alla pupilla e, quando si contraggono, il diametro della pupilla diminuisce;
++ uno strato esterno di **muscolatura radiale**, detto *muscolo dilatatore*. Questi muscoli sono organizzati a raggio e, quando si contraggono, il diametro della pupilla aumenta.
+
+L'iride è sotto controllo del sistema nervoso autonomo. I neuroni parasimpatici innervano lo strato di cellule muscolari circolari, mentre i neuroni simpatici innervano le cellule muscolari radiali.
+
+## La retina
+
+Nella retina, che è costituita da tessuto nervoso, sono localizzati i fotorecettori: coni e bastoncelli.
+
+Sulla retina i fotorecettori sono condensati principalmente nella fovea.
+
+I **bastoncelli** permettono la visione in bianco e nero in condizioni di luce poco intensa o crepuscolare. I **coni** forniscono la visione a colori, ma sono attivi soltanto quando la luce è intensa (visione diurna).
+
+La retina consta di 3 strati distinti:
+
+1. uno strato interno formato da **cellule gangliari**, che inviano il loro assone nel nervo ottico;
+2. uno strato intermedio formato da **cellule bipolari**, che unisce i recettori e le cellule gangliari;
+3. uno strato esterno contenente i **fotoreccetori**, coni e bastoncelli.
+
+(immagine 10.29 p277)
+
+Nella retina sono presenti anche altre cellule:
+
++ le **cellule orizzontali**, che presentano protuberanze e sono disposte orizzontalmente rispetto alle altre, unendo più fotorecettori e cellule bipolari tra loro;
++ le **cellule amacrine**, disposte tra le varie cellule gangliari. 
+
+Tutto quanto è circondato da uno strato fortemente pigmentato che impedisce l'entrata di luce lateralmente. 
+
+I coni e i bastoncelli, essendo posizionati nello strato esterno della retina, vengono eccitati dalla luce dopo che questa ha attraversato gli strati retinici interno e medio. Inoltre, i vasi ematici che perfondono la retina si trovano lungo il percorso dei raggi luminosi, per cui, al fine di migliorare la trasmissione della luce alla fovea, le cellule bipolari e quelle gangliari sono disposte lateralmente al centro della retina. Si crea così una depressione al centro della retina, definita **macula lutea**, che circonda la fovea ed è gialla per la presenza di carotenoidi.
+
+La fovea contiene solo coni; il rapporto tra bastoncelli e coni aumenta all'aumentare della distanza dalla fovea, fino alla parte periferica della retina, dove sono presenti solo bastoncelli.
+
+La fovea è la regione centrale di massima acuità visiva. La direzione del campo visivo corrisponde alla localizzazione della fovea sulla retina.
+Il punto in cui si vede meglio del campo visivo è quello verso cui viene focalizzato lo sguardo.
+
+## Fototrasduzione
+
+La fototrasduzione rappresenta il fenomeno mediante il quale l'energia luminosa viene convertita in segnali elettrici. Questo fenomeno si realizza nei coni e nei bastoncelli.
+
+L'aspetto morfologico di questi due fotorecettori è simile, in quanto ciascuno è formato da due parti rilevanti, definite *segmento interno* e *segmento esterno*.
+
+Il segmento esterno contiene invaginazioni della membrana che formano strati simili a dischi membranosi, contenenti molecole che, assorbendo l'energia luminosa, permettono ai fotorecettori di eccitarsi.
+Il segmento interno contiene il nucleo cellulare e vari organuli; esso termina con un bottone sinaptico dove sono presenti le vescicole contenenti il neurotrasmettitore.
+
+L'assorbimento della luce da parte di molecole chiamate **fotopigmenti**, contenute nel segmento esterno, rappresenta il primo evento della fototrasduzione. Nei recettori sono presenti 4 tipi differenti di fotopigmenti.
+Ciascuna molecola di fotopigmento contiene un componente chiamato **retinale** ed una proteina chiamata **opsina**.
+
+Il retinale è comune a tutti i fotopigmenti, mentre il tipo di opsina presente determina quali lunghezze d'onda sono assorbite da un determinato pigmento.
+
+L'attivazione di tutte queste varie opsine permette all'occhio la visione dei colori. 
+
+La **rodopsina** è una proteina di membrana con 7 domini transmembrana a $\alpha$-elica che si trova principalmente nelle cellule a bastoncello della retina umana che permettono la vista in bianco e nero. 
+
+Queste cellule hanno una forma allungata e nella loro parte apicale hanno numerosi dischi di membrana con molte rodopsine, costituite da un pigmento, l'*11-cis-retinale*, sensibile alla luce, legato all'*opsina*, una proteina della retina.
+
+Il retinale è legato ad un glutammato dell'opsina forma una base di Schiff, cioè il pigmento rodopsina.
+
+Quando la rodopsina viene a contatto con un fotone di luce, subisce una fotodecomposizione, o imbianchimento, che porta alla dissociazione della molecola con formazione di **retinale tutto-trans**.
+
+L'opsina varia la sua conformazione e diventa **metarodopsina II**, mentre il retinale tutto trans si stacca finendo nel citosl e uscendo dalla cellula dove viene captato dall’epitelio pigmentato. 
+
+La metarodopsina II non è più sensibile alla luce e viene chiamata **opsina scolorita**. Il fotorecettore è meno sensibile alla luce.
+Può essere ricostituita la sensibilità rifornendo 11 cis-retinale per ricostruire il complesso fotosensibile 11-cis-opsina. 
+
+__________________________________________________________________________________________________________________________________________________
+
+**Registrazione**
+ 
+Fototrasduzione .. 
+
+Al buio non
+arriva luce e … 
+
+Al buio il forecettore diventa sinapticamente attivo
+mentre alla luce è inattivo. 
+
+Al buio stimola la cellula bipolare alla luce smette di farlo. 
+__________________________________________________________________________________________________________________________________________________
+
+Bastoncelli e coni si comportano in maniera diversa. I bastoncelli sono specializzati per luce debole e sono molto
+numerosi nella retina. Questi non sono in grado di percepire il colore perché assorbono solo una lunghezza d'onda. 
+
+Sono in grado di rispondere anche ad un singolo fotone e se sottoposti a luce intensa sono completamente scoloriti.
+
+In un ambiente poco illuminato i bastoncelli funzionano e i coni no. Passando ad un ambiente illuminato i bastoncelli sono tutti in funzione e vengono stimolati intensamente dalla grande quantità di luce che arriva e il nervo ottico molto stimolato dà la sensazione di abbaglio ma
+gradualmente i bastoncelli si scoloriscono e si inizia a vedere attraverso i coni che meno sensibili alla luce e danno meno l'effetto di
+abbagliamento. 
+
+La retina è un sistema nervoso con un'organizzazione relativamente semplice da descrivere ma abbastanza complessa a livello di interazioni tra neuroni. 
+
+Si è capito come si ricostruisce l'immagine del campo visivo e la determinazione del contrasto. 
+
+La retina compie una prima rielaborazione delle informazioni provenienti dal campo visivo in quanto è un sistema nervoso. Migliaia di batoncelli convergono su una singola cellula bipolare, mentre di coni ve ne sono meno. 
+
+Anche qui dei abbiamo campi recettoriali che corrispondono a zone della retina. L'acuità visiva dipende dal fatto di distinguere come separati due diversi stimoli che agiscono contemporaneamente sulla retina, quindi percepire due sorgenti luminose come distinte. 
+
+Nel caso dei bastoncelli siccome si hanno molte cellule recettoriali su una cellula nervosa singola si avrà minore acuità, mentre i coni consentono di vedere con un acuità visiva maggiore.
+
+
+
+
+
+
